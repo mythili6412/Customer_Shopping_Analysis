@@ -1,0 +1,1001 @@
+Customer ID,Customer Name,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Colour,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code,Previous Purchase Count,Payment Method,Frequency of Purchases
+CUST00001,Riya Kumar,56,Male,Lip Gloss,Makeup,10.58,Bengaluru,Free Size,Navy Blue,Spring,1.1,Yes,Store Pickup,No,No Promo,35,Debit Card,Rarely
+CUST00002,Lakshmi Kumar,57,Female,Handbag,Accessories,91.68,Chennai,Free Size,Navy Blue,Autumn,2.1,Yes,Next-Day,Yes,NEWUSER,6,UPI,Monthly
+CUST00003,Aditya Mehta,54,Male,Sweaters,Clothing,87.98,Surat,XS,Maroon,Autumn,3.3,No,Standard,No,No Promo,49,UPI,Weekly
+CUST00004,Reyansh Pillai,70,Male,Moisturizer,Cosmetics,29.39,Madurai,Free Size,Brown,Autumn,1.8,Yes,Standard,No,No Promo,10,Cash on Delivery,Rarely
+CUST00005,Suresh Singh,31,Male,Lip Gloss,Makeup,32.38,Mumbai,Free Size,Blue,Autumn,2.6,Yes,Store Pickup,No,No Promo,20,Debit Card,Rarely
+CUST00006,Kavya Reddy,47,Male,Face Cream,Cosmetics,11.82,Bhopal,Free Size,Navy Blue,Winter,2.4,No,Express,No,No Promo,5,Credit Card,Weekly
+CUST00007,Divya Bose,25,Female,Trousers,Clothing,43.86,Chandigarh,L,Multicolor,Autumn,4.9,No,Standard,No,No Promo,7,Wallet,Annually
+CUST00008,Anjali Nair,64,Male,Sunscreen,Cosmetics,28.35,Indore,Free Size,Beige,Summer,3.0,Yes,Next-Day,No,No Promo,32,Cash on Delivery,Fortnightly
+CUST00009,Ananya Murthy,25,Male,Earrings,Accessories,138.43,Chandigarh,Free Size,Silver,Spring,1.4,No,Next-Day,Yes,SAVE20,36,Credit Card,Weekly
+CUST00010,Arjun Murthy,62,Female,Sarees,Clothing,24.63,Kochi,XL,Yellow,Autumn,3.1,No,Express,No,No Promo,48,Wallet,Rarely
+CUST00011,Ramesh Menon,28,Female,Handbag,Accessories,135.75,Indore,Free Size,Purple,Summer,1.3,Yes,Store Pickup,Yes,SAVE20,0,Credit Card,Rarely
+CUST00012,Arjun Verma,56,Male,Body Lotion,Cosmetics,7.97,Ahmedabad,Free Size,Silver,Summer,3.2,No,Store Pickup,No,No Promo,15,Net Banking,Quarterly
+CUST00013,Divya Menon,28,Male,Flip Flops,Footwear,52.29,Mumbai,10,White,Spring,2.6,No,Standard,Yes,SAVE20,34,Net Banking,Fortnightly
+CUST00014,Kavya Kumar,43,Male,Trousers,Clothing,48.23,Bhopal,XS,Blue,Spring,4.9,No,Express,Yes,NEWUSER,30,Debit Card,Quarterly
+CUST00015,Aarav Pillai,19,Male,Face Cream,Cosmetics,55.89,Indore,Free Size,Navy Blue,Winter,1.6,Yes,Standard,No,No Promo,34,Credit Card,Rarely
+CUST00016,Ravi Chopra,36,Male,Scarf,Accessories,138.55,Visakhapatnam,Free Size,Blue,Spring,4.4,Yes,Standard,No,No Promo,15,Net Banking,Weekly
+CUST00017,Sunita Verma,52,Male,Skirts,Clothing,46.44,Patna,XL,Multicolor,Autumn,4.7,Yes,Next-Day,Yes,NEWUSER,8,Wallet,Rarely
+CUST00018,Arjun Sharma,35,Female,Sunglasses,Accessories,96.2,Patna,Free Size,Black,Summer,3.0,Yes,Next-Day,No,No Promo,15,UPI,Monthly
+CUST00019,Nisha Patel,26,Male,Earrings,Accessories,9.11,Bhopal,Free Size,White,Summer,2.1,No,Store Pickup,Yes,FEST15,38,Debit Card,Rarely
+CUST00020,Priya Krishnan,37,Male,Belt,Accessories,43.66,Mumbai,Free Size,Navy Blue,Autumn,1.2,No,Express,No,No Promo,16,Debit Card,Rarely
+CUST00021,Divya Murthy,44,Female,Dresses,Clothing,23.39,Hyderabad,XL,Blue,Autumn,3.3,Yes,Express,Yes,FEST15,50,Credit Card,Monthly
+CUST00022,Reyansh Menon,29,Female,Formal Shoes,Footwear,107.44,Hyderabad,6,Yellow,Summer,4.5,Yes,Next-Day,No,No Promo,26,Wallet,Rarely
+CUST00023,Ananya Nair,67,Male,Sneakers,Footwear,97.47,Kochi,6,Pink,Winter,2.4,No,Express,Yes,SEASON25,12,Net Banking,Monthly
+CUST00024,Riya Menon,33,Female,Scarf,Accessories,64.75,Bhopal,Free Size,Red,Spring,4.5,Yes,Store Pickup,No,No Promo,16,Credit Card,Weekly
+CUST00025,Neha Joshi,54,Male,Scarf,Accessories,24.42,Patna,Free Size,Beige,Spring,3.8,Yes,Store Pickup,No,No Promo,47,Wallet,Rarely
+CUST00026,Arjun Das,28,Male,Perfume,Cosmetics,41.15,Bengaluru,Free Size,Multicolor,Autumn,3.7,No,Next-Day,No,No Promo,12,Net Banking,Rarely
+CUST00027,Diya Bose,40,Female,Face Wash,Cosmetics,26.74,Chennai,Free Size,Maroon,Summer,2.7,No,Next-Day,No,No Promo,28,Wallet,Fortnightly
+CUST00028,Ananya Iyer,48,Female,Sunscreen,Cosmetics,32.87,Chandigarh,Free Size,Black,Summer,3.7,Yes,Express,Yes,WELCOME10,15,Net Banking,Annually
+CUST00029,Kavya Joshi,70,Female,Eyeliner,Makeup,33.73,Surat,Free Size,Orange,Summer,1.6,No,Standard,No,No Promo,14,Debit Card,Rarely
+CUST00030,Swati Kumar,49,Female,Sweaters,Clothing,49.23,Indore,XXL,Multicolor,Autumn,4.8,No,Store Pickup,No,No Promo,32,Net Banking,Annually
+CUST00031,Rohit Mehta,44,Female,Face Cream,Cosmetics,46.1,Jaipur,Free Size,Purple,Autumn,2.8,No,Express,Yes,FEST15,34,Credit Card,Fortnightly
+CUST00032,Ishaan Gupta,25,Male,Trousers,Clothing,46.12,Coimbatore,XL,Gold,Winter,1.2,No,Free Shipping,No,No Promo,37,Wallet,Weekly
+CUST00033,Arun Pillai,70,Female,Watch,Accessories,8.84,Madurai,Free Size,Orange,Winter,3.2,No,Store Pickup,No,No Promo,31,Debit Card,Monthly
+CUST00034,Suresh Das,43,Female,Heels,Footwear,82.97,Indore,6,Red,Winter,3.4,No,Standard,No,No Promo,8,Net Banking,Fortnightly
+CUST00035,Neha Gupta,19,Male,Sunglasses,Accessories,54.41,Surat,Free Size,Navy Blue,Autumn,4.3,No,Store Pickup,Yes,FEST15,14,Wallet,Weekly
+CUST00036,Aditya Sharma,65,Female,Compact Powder,Makeup,12.97,Chennai,Free Size,Purple,Summer,2.9,Yes,Express,No,No Promo,16,UPI,Fortnightly
+CUST00037,Ayaan Rao,54,Female,Face Wash,Cosmetics,10.05,Chennai,Free Size,Orange,Winter,4.8,Yes,Store Pickup,No,No Promo,40,Debit Card,Weekly
+CUST00038,Sunita Nair,60,Female,T-Shirts,Clothing,41.04,Nagpur,XXL,Brown,Spring,3.0,No,Free Shipping,No,No Promo,6,Net Banking,Monthly
+CUST00039,Kavya Reddy,56,Female,Flip Flops,Footwear,29.26,Visakhapatnam,10,Beige,Winter,2.9,No,Store Pickup,Yes,No Promo,15,Credit Card,Monthly
+CUST00040,Kavya Naidu,44,Male,Sneakers,Footwear,44.97,Kochi,7,Yellow,Winter,1.8,No,Next-Day,Yes,FLAT50,44,UPI,Annually
+CUST00041,Saanvi Iyer,16,Female,Compact Powder,Makeup,33.8,Kochi,Free Size,Silver,Winter,2.8,Yes,Next-Day,Yes,SEASON25,15,UPI,Rarely
+CUST00042,Swati Krishnan,53,Male,Slippers,Footwear,53.7,Bhopal,7,Brown,Winter,2.1,Yes,Standard,No,No Promo,20,Credit Card,Rarely
+CUST00043,Diya Gupta,50,Female,Mascara,Makeup,34.54,Jaipur,Free Size,White,Summer,2.2,No,Next-Day,Yes,FLAT50,8,UPI,Weekly
+CUST00044,Krishna Chopra,19,Female,Jackets,Clothing,80.45,Patna,M,Silver,Winter,2.8,Yes,Standard,Yes,No Promo,30,Credit Card,Weekly
+CUST00045,Arun Verma,41,Female,Kurtis,Clothing,26.19,Patna,M,Black,Summer,1.5,No,Store Pickup,No,No Promo,39,Debit Card,Annually
+CUST00046,Meera Patel,40,Female,Flip Flops,Footwear,41.93,Chandigarh,5,White,Summer,3.5,Yes,Standard,Yes,SAVE20,35,Credit Card,Fortnightly
+CUST00047,Sunita Chopra,16,Male,Sunscreen,Cosmetics,5.83,Lucknow,Free Size,Gold,Spring,3.7,No,Store Pickup,No,No Promo,12,Net Banking,Weekly
+CUST00048,Ishaan Singh,50,Male,Kurtis,Clothing,20.36,Kolkata,M,Maroon,Winter,1.5,No,Free Shipping,No,No Promo,32,Cash on Delivery,Quarterly
+CUST00049,Aditya Joshi,44,Male,Perfume,Cosmetics,37.81,Chennai,Free Size,Purple,Spring,5.0,No,Next-Day,No,No Promo,48,Debit Card,Quarterly
+CUST00050,Riya Rao,49,Female,Flip Flops,Footwear,74.21,Kochi,5,Silver,Autumn,2.6,No,Standard,No,No Promo,21,Net Banking,Rarely
+CUST00051,Ramesh Murthy,47,Male,T-Shirts,Clothing,49.11,Coimbatore,M,Grey,Spring,4.9,No,Store Pickup,No,No Promo,0,Wallet,Annually
+CUST00052,Saanvi Krishnan,45,Male,Sandals,Footwear,73.02,Kochi,10,Gold,Spring,1.8,No,Next-Day,No,No Promo,44,Net Banking,Weekly
+CUST00053,Sunita Kumar,17,Other,Lipstick,Makeup,17.43,Chennai,Free Size,Black,Summer,5.0,No,Free Shipping,No,No Promo,41,Debit Card,Quarterly
+CUST00054,Riya Joshi,61,Male,Watch,Accessories,147.19,Ahmedabad,Free Size,Green,Winter,1.8,No,Express,No,No Promo,17,Net Banking,Monthly
+CUST00055,Aarav Patel,66,Female,Face Wash,Cosmetics,50.9,Patna,Free Size,Green,Winter,3.2,No,Store Pickup,No,No Promo,24,Net Banking,Monthly
+CUST00056,Myra Naidu,28,Other,Sneakers,Footwear,34.89,Nagpur,5,Grey,Winter,3.8,No,Free Shipping,No,No Promo,50,Wallet,Fortnightly
+CUST00057,Krishna Krishnan,47,Female,Body Lotion,Cosmetics,52.7,Indore,Free Size,Multicolor,Winter,1.1,Yes,Express,Yes,No Promo,16,UPI,Annually
+CUST00058,Sai Das,60,Male,Sneakers,Footwear,105.51,Kochi,9,Blue,Spring,1.9,No,Next-Day,No,No Promo,47,Credit Card,Quarterly
+CUST00059,Reyansh Mehta,22,Female,Lipstick,Makeup,32.76,Chennai,Free Size,Grey,Spring,2.2,No,Express,Yes,NEWUSER,36,Wallet,Fortnightly
+CUST00060,Geeta Pillai,26,Male,Compact Powder,Makeup,24.91,Patna,Free Size,Purple,Winter,3.6,No,Standard,No,No Promo,29,UPI,Rarely
+CUST00061,Meera Menon,50,Male,Face Wash,Cosmetics,39.78,Nagpur,Free Size,Gold,Autumn,1.8,No,Free Shipping,Yes,NEWUSER,36,UPI,Annually
+CUST00062,Sneha Sharma,34,Other,Heels,Footwear,38.9,Patna,10,Blue,Winter,4.3,No,Express,No,No Promo,22,Debit Card,Rarely
+CUST00063,Krishna Nair,28,Female,T-Shirts,Clothing,38.17,Indore,XS,Brown,Summer,1.4,Yes,Free Shipping,Yes,SAVE20,50,Cash on Delivery,Monthly
+CUST00064,Riya Rao,49,Female,Face Cream,Cosmetics,55.19,Kochi,Free Size,Grey,Spring,2.9,Yes,Express,No,No Promo,46,Wallet,Quarterly
+CUST00065,Karthik Iyer,70,Female,Heels,Footwear,13.36,Bhopal,5,Gold,Autumn,3.7,No,Store Pickup,Yes,SEASON25,23,Credit Card,Rarely
+CUST00066,Geeta Murthy,30,Female,Perfume,Cosmetics,55.25,Ahmedabad,Free Size,Gold,Autumn,3.6,Yes,Standard,No,No Promo,19,Net Banking,Weekly
+CUST00067,Nisha Reddy,22,Male,Sneakers,Footwear,56.46,Bhopal,8,Green,Winter,3.6,No,Store Pickup,No,No Promo,17,Credit Card,Rarely
+CUST00068,Meera Kumar,39,Male,Sandals,Footwear,21.74,Madurai,9,Brown,Spring,2.6,Yes,Standard,No,No Promo,29,Credit Card,Rarely
+CUST00069,Sunita Sharma,29,Female,Jeans,Clothing,74.01,Ahmedabad,S,Pink,Spring,4.3,No,Store Pickup,Yes,No Promo,14,UPI,Fortnightly
+CUST00070,Aarav Singh,66,Female,Kurtis,Clothing,89.06,Bhopal,M,Yellow,Spring,3.6,Yes,Standard,Yes,No Promo,15,Cash on Delivery,Monthly
+CUST00071,Vihaan Reddy,17,Male,Formal Shoes,Footwear,63.56,Delhi,8,Gold,Autumn,3.1,Yes,Store Pickup,Yes,FLAT50,2,Wallet,Rarely
+CUST00072,Vivaan Verma,49,Male,Watch,Accessories,128.32,Nagpur,Free Size,Silver,Winter,1.3,Yes,Store Pickup,Yes,SAVE20,17,Cash on Delivery,Rarely
+CUST00073,Neha Pillai,53,Female,Earrings,Accessories,49.88,Visakhapatnam,Free Size,White,Spring,4.4,No,Store Pickup,No,No Promo,13,Net Banking,Quarterly
+CUST00074,Kavya Pillai,30,Male,Formal Shoes,Footwear,83.5,Coimbatore,8,Grey,Autumn,2.5,Yes,Free Shipping,Yes,No Promo,5,Credit Card,Quarterly
+CUST00075,Karthik Reddy,22,Female,Jeans,Clothing,58.98,Bhopal,XL,Grey,Spring,2.6,No,Free Shipping,No,No Promo,46,Credit Card,Monthly
+CUST00076,Reyansh Naidu,54,Male,Scarf,Accessories,38.21,Kochi,Free Size,White,Autumn,4.4,No,Next-Day,No,No Promo,27,Cash on Delivery,Annually
+CUST00077,Swati Sharma,55,Female,Moisturizer,Cosmetics,5.62,Jaipur,Free Size,Grey,Autumn,1.0,No,Store Pickup,No,No Promo,4,Debit Card,Rarely
+CUST00078,Sai Krishnan,56,Other,Mascara,Makeup,20.05,Indore,Free Size,Yellow,Autumn,2.2,No,Store Pickup,No,No Promo,3,Debit Card,Fortnightly
+CUST00079,Sai Singh,64,Female,Handbag,Accessories,102.0,Kochi,Free Size,Navy Blue,Autumn,1.9,No,Next-Day,No,No Promo,18,Wallet,Rarely
+CUST00080,Pooja Verma,53,Female,Lip Gloss,Makeup,20.81,Chandigarh,Free Size,Red,Summer,2.2,Yes,Express,No,No Promo,18,UPI,Weekly
+CUST00081,Divya Rao,16,Female,Sarees,Clothing,43.52,Ahmedabad,XL,Brown,Spring,2.6,No,Free Shipping,Yes,WELCOME10,20,Cash on Delivery,Quarterly
+CUST00082,Lakshmi Patel,52,Male,Sweaters,Clothing,45.38,Coimbatore,S,Gold,Autumn,1.4,No,Express,No,No Promo,25,Cash on Delivery,Weekly
+CUST00083,Anjali Kumar,41,Female,Body Lotion,Cosmetics,47.63,Delhi,Free Size,Multicolor,Summer,4.6,No,Express,Yes,SAVE20,16,Debit Card,Fortnightly
+CUST00084,Arjun Rao,54,Male,Belt,Accessories,73.88,Patna,Free Size,Grey,Autumn,1.6,Yes,Free Shipping,No,No Promo,50,UPI,Annually
+CUST00085,Arjun Patel,19,Male,Sunglasses,Accessories,72.17,Mumbai,Free Size,Maroon,Spring,3.6,No,Standard,No,No Promo,32,Net Banking,Quarterly
+CUST00086,Aditya Mehta,53,Female,Eyeliner,Makeup,17.86,Kochi,Free Size,Blue,Winter,1.4,No,Next-Day,No,No Promo,5,Cash on Delivery,Rarely
+CUST00087,Meera Mehta,27,Male,Earrings,Accessories,82.23,Kolkata,Free Size,Brown,Autumn,2.5,No,Store Pickup,Yes,SEASON25,41,UPI,Weekly
+CUST00088,Suresh Patel,37,Male,Face Cream,Cosmetics,44.53,Chandigarh,Free Size,Grey,Spring,3.3,Yes,Next-Day,Yes,SEASON25,44,Wallet,Quarterly
+CUST00089,Sai Patel,24,Female,Sneakers,Footwear,75.06,Coimbatore,6,Multicolor,Spring,3.6,No,Next-Day,Yes,FEST15,11,Debit Card,Monthly
+CUST00090,Kiara Reddy,65,Female,Kurtis,Clothing,20.79,Bengaluru,XL,Multicolor,Spring,3.6,No,Store Pickup,Yes,NEWUSER,9,Debit Card,Fortnightly
+CUST00091,Geeta Rao,69,Female,Handbag,Accessories,14.2,Madurai,Free Size,Gold,Autumn,4.0,No,Express,No,No Promo,19,Net Banking,Fortnightly
+CUST00092,Arun Mehta,39,Female,Sunglasses,Accessories,117.26,Surat,Free Size,Yellow,Summer,4.2,Yes,Next-Day,Yes,NEWUSER,23,Cash on Delivery,Weekly
+CUST00093,Ayaan Patel,61,Female,Skirts,Clothing,72.23,Jaipur,L,Multicolor,Summer,4.3,Yes,Express,No,No Promo,22,Credit Card,Quarterly
+CUST00094,Karthik Kumar,19,Male,Sneakers,Footwear,109.46,Madurai,6,Red,Autumn,4.7,No,Next-Day,No,No Promo,8,Credit Card,Monthly
+CUST00095,Krishna Chopra,69,Female,Handbag,Accessories,95.38,Delhi,Free Size,Beige,Summer,4.3,No,Store Pickup,No,No Promo,7,UPI,Fortnightly
+CUST00096,Myra Joshi,35,Male,Sunglasses,Accessories,16.92,Kochi,Free Size,Multicolor,Summer,3.9,Yes,Standard,No,No Promo,15,Cash on Delivery,Quarterly
+CUST00097,Sai Krishnan,27,Female,Sandals,Footwear,18.63,Visakhapatnam,9,Multicolor,Spring,2.6,No,Free Shipping,No,No Promo,16,Wallet,Weekly
+CUST00098,Rahul Kumar,38,Female,Jackets,Clothing,72.86,Coimbatore,S,Blue,Autumn,3.2,No,Express,No,No Promo,43,Net Banking,Rarely
+CUST00099,Krishna Iyer,46,Female,Sunglasses,Accessories,13.25,Pune,Free Size,Pink,Spring,2.3,No,Free Shipping,No,No Promo,34,Net Banking,Monthly
+CUST00100,Saanvi Patel,18,Female,Slippers,Footwear,96.49,Mumbai,10,Grey,Autumn,1.5,No,Free Shipping,No,No Promo,24,UPI,Fortnightly
+CUST00101,Karthik Krishnan,47,Female,Moisturizer,Cosmetics,48.86,Nagpur,Free Size,Navy Blue,Summer,3.2,No,Standard,Yes,FEST15,19,Net Banking,Annually
+CUST00102,Meera Menon,61,Male,Handbag,Accessories,14.01,Madurai,Free Size,Beige,Spring,1.3,No,Next-Day,No,No Promo,47,Wallet,Fortnightly
+CUST00103,Sunita Mehta,17,Male,T-Shirts,Clothing,24.47,Ahmedabad,XXL,Brown,Autumn,2.5,No,Store Pickup,Yes,NEWUSER,23,UPI,Quarterly
+CUST00104,Krishna Krishnan,64,Male,Sandals,Footwear,51.01,Jaipur,6,White,Spring,3.9,No,Free Shipping,No,No Promo,7,UPI,Monthly
+CUST00105,Geeta Patel,61,Female,Belt,Accessories,36.43,Hyderabad,Free Size,Gold,Summer,4.6,No,Standard,No,No Promo,20,Wallet,Monthly
+CUST00106,Nisha Patel,61,Male,Face Wash,Cosmetics,51.68,Kolkata,Free Size,Multicolor,Summer,1.5,Yes,Express,Yes,NEWUSER,1,UPI,Annually
+CUST00107,Swati Reddy,52,Male,Skirts,Clothing,19.93,Surat,XXL,Silver,Winter,4.1,No,Standard,Yes,FEST15,41,Credit Card,Quarterly
+CUST00108,Rahul Reddy,45,Female,Foundation,Makeup,35.71,Hyderabad,Free Size,Multicolor,Spring,4.3,No,Next-Day,Yes,FEST15,45,Debit Card,Monthly
+CUST00109,Sai Singh,49,Female,Eyeliner,Makeup,30.4,Bhopal,Free Size,Green,Autumn,3.5,Yes,Express,No,No Promo,37,Debit Card,Fortnightly
+CUST00110,Sunita Das,58,Female,T-Shirts,Clothing,76.89,Chennai,XS,Blue,Autumn,3.6,No,Free Shipping,No,No Promo,1,Net Banking,Rarely
+CUST00111,Pooja Chopra,50,Male,Compact Powder,Makeup,37.19,Surat,Free Size,Gold,Spring,3.8,Yes,Free Shipping,No,No Promo,13,UPI,Annually
+CUST00112,Neha Menon,25,Male,Heels,Footwear,24.82,Madurai,9,White,Autumn,2.0,Yes,Free Shipping,Yes,WELCOME10,3,UPI,Quarterly
+CUST00113,Ananya Das,55,Male,Perfume,Cosmetics,14.63,Kolkata,Free Size,Multicolor,Winter,3.0,No,Standard,Yes,NEWUSER,32,Net Banking,Fortnightly
+CUST00114,Vihaan Verma,29,Female,Sunscreen,Cosmetics,31.71,Kochi,Free Size,Red,Spring,2.7,No,Next-Day,No,No Promo,23,Credit Card,Quarterly
+CUST00115,Saanvi Menon,19,Female,Sunscreen,Cosmetics,8.12,Visakhapatnam,Free Size,Beige,Spring,1.5,Yes,Next-Day,No,No Promo,21,Cash on Delivery,Monthly
+CUST00116,Sunita Krishnan,64,Male,Heels,Footwear,61.01,Mumbai,5,Green,Autumn,4.2,No,Express,No,No Promo,32,Debit Card,Monthly
+CUST00117,Ramesh Bose,55,Male,Face Wash,Cosmetics,37.25,Visakhapatnam,Free Size,Maroon,Winter,4.3,No,Standard,No,No Promo,37,UPI,Rarely
+CUST00118,Sunita Chopra,60,Female,Face Cream,Cosmetics,58.16,Patna,Free Size,Blue,Winter,1.7,No,Store Pickup,No,No Promo,24,Debit Card,Rarely
+CUST00119,Ayaan Gupta,31,Male,Tops,Clothing,48.08,Nagpur,S,Navy Blue,Summer,2.6,No,Free Shipping,No,No Promo,47,Wallet,Weekly
+CUST00120,Aadhya Murthy,61,Male,Perfume,Cosmetics,59.89,Kochi,Free Size,Grey,Summer,2.8,No,Store Pickup,Yes,No Promo,46,Wallet,Rarely
+CUST00121,Geeta Chopra,67,Female,Eyeliner,Makeup,43.29,Jaipur,Free Size,Purple,Autumn,4.1,No,Free Shipping,Yes,FEST15,35,Wallet,Monthly
+CUST00122,Nisha Pillai,34,Male,Heels,Footwear,92.2,Hyderabad,7,Blue,Autumn,4.8,Yes,Free Shipping,No,No Promo,47,Net Banking,Fortnightly
+CUST00123,Riya Murthy,28,Female,Moisturizer,Cosmetics,11.69,Chandigarh,Free Size,Purple,Spring,3.7,No,Express,Yes,NEWUSER,21,Wallet,Quarterly
+CUST00124,Krishna Sharma,22,Female,Lipstick,Makeup,21.28,Kochi,Free Size,Pink,Autumn,2.3,No,Standard,No,No Promo,14,Cash on Delivery,Rarely
+CUST00125,Aditya Rao,62,Female,Formal Shoes,Footwear,98.46,Kolkata,5,Orange,Winter,1.7,No,Next-Day,No,No Promo,0,UPI,Annually
+CUST00126,Anjali Patel,54,Male,Sunglasses,Accessories,148.45,Bhopal,Free Size,Green,Winter,2.1,No,Next-Day,Yes,NEWUSER,41,UPI,Rarely
+CUST00127,Anjali Patel,27,Male,Eyeliner,Makeup,12.02,Surat,Free Size,Multicolor,Autumn,1.3,No,Express,No,No Promo,30,UPI,Fortnightly
+CUST00128,Myra Mehta,16,Male,Moisturizer,Cosmetics,57.43,Lucknow,Free Size,Beige,Autumn,3.8,Yes,Standard,No,No Promo,10,Net Banking,Rarely
+CUST00129,Pooja Nair,48,Female,Sunscreen,Cosmetics,24.58,Ahmedabad,Free Size,Green,Winter,1.6,No,Store Pickup,Yes,SEASON25,35,Net Banking,Annually
+CUST00130,Aadhya Kumar,67,Female,Skirts,Clothing,54.41,Visakhapatnam,XXL,Brown,Spring,4.7,Yes,Store Pickup,No,No Promo,12,Cash on Delivery,Annually
+CUST00131,Deepak Mehta,25,Male,Sweaters,Clothing,66.02,Patna,L,Black,Winter,4.2,No,Store Pickup,No,No Promo,36,Credit Card,Annually
+CUST00132,Pooja Sharma,45,Female,Heels,Footwear,36.94,Chennai,10,Pink,Spring,1.2,No,Standard,No,No Promo,3,Credit Card,Quarterly
+CUST00133,Diya Reddy,18,Male,Formal Shoes,Footwear,48.7,Surat,8,Orange,Winter,1.3,No,Store Pickup,Yes,No Promo,22,Credit Card,Fortnightly
+CUST00134,Krishna Kumar,50,Male,Dresses,Clothing,71.71,Lucknow,L,Navy Blue,Winter,4.3,Yes,Next-Day,Yes,SAVE20,46,Credit Card,Weekly
+CUST00135,Geeta Sharma,67,Female,Compact Powder,Makeup,13.24,Bengaluru,Free Size,Gold,Spring,2.0,Yes,Free Shipping,Yes,SAVE20,48,Credit Card,Fortnightly
+CUST00136,Kiara Naidu,48,Other,Perfume,Cosmetics,36.34,Coimbatore,Free Size,Maroon,Summer,4.9,No,Free Shipping,Yes,WELCOME10,35,Cash on Delivery,Rarely
+CUST00137,Divya Murthy,27,Female,Belt,Accessories,14.66,Madurai,Free Size,Multicolor,Autumn,3.8,No,Next-Day,Yes,No Promo,34,Net Banking,Fortnightly
+CUST00138,Ishaan Mehta,70,Male,Jeans,Clothing,57.18,Nagpur,XL,Multicolor,Summer,2.6,Yes,Next-Day,No,No Promo,28,UPI,Weekly
+CUST00139,Saanvi Verma,50,Female,Moisturizer,Cosmetics,25.12,Chandigarh,Free Size,Black,Summer,4.2,No,Store Pickup,Yes,SAVE20,21,UPI,Weekly
+CUST00140,Ayaan Chopra,29,Female,Compact Powder,Makeup,32.83,Pune,Free Size,Purple,Autumn,4.1,No,Store Pickup,No,No Promo,19,UPI,Monthly
+CUST00141,Kavya Nair,48,Female,Watch,Accessories,116.15,Coimbatore,Free Size,Brown,Autumn,2.7,No,Express,No,No Promo,1,UPI,Annually
+CUST00142,Lakshmi Patel,53,Female,Kurtis,Clothing,29.71,Ahmedabad,L,Purple,Winter,3.2,No,Next-Day,Yes,No Promo,31,Wallet,Rarely
+CUST00143,Ananya Menon,63,Female,Lipstick,Makeup,10.6,Bhopal,Free Size,Yellow,Spring,3.1,No,Standard,No,No Promo,42,Credit Card,Weekly
+CUST00144,Kiara Iyer,42,Male,Kurtis,Clothing,15.69,Visakhapatnam,L,Brown,Spring,3.5,No,Store Pickup,No,No Promo,42,Net Banking,Weekly
+CUST00145,Lakshmi Sharma,16,Female,Tops,Clothing,54.71,Jaipur,XL,Maroon,Spring,3.0,No,Free Shipping,No,No Promo,11,Credit Card,Weekly
+CUST00146,Saanvi Bose,49,Male,Earrings,Accessories,43.84,Madurai,Free Size,Orange,Spring,2.5,No,Store Pickup,Yes,SEASON25,14,UPI,Rarely
+CUST00147,Aditya Iyer,68,Female,Heels,Footwear,49.17,Bhopal,8,Blue,Spring,3.8,Yes,Free Shipping,No,No Promo,21,Cash on Delivery,Weekly
+CUST00148,Kiara Gupta,49,Female,Watch,Accessories,46.5,Delhi,Free Size,Blue,Summer,4.7,No,Express,No,No Promo,48,Wallet,Quarterly
+CUST00149,Arun Kumar,20,Male,Sneakers,Footwear,78.35,Bhopal,7,Orange,Summer,4.2,No,Standard,No,No Promo,22,Credit Card,Weekly
+CUST00150,Arjun Das,43,Male,Heels,Footwear,106.95,Coimbatore,5,Beige,Winter,3.0,No,Free Shipping,No,No Promo,43,Cash on Delivery,Rarely
+CUST00151,Geeta Patel,40,Male,Compact Powder,Makeup,33.52,Delhi,Free Size,Green,Winter,3.8,No,Free Shipping,Yes,WELCOME10,5,Credit Card,Monthly
+CUST00152,Riya Nair,44,Male,Sarees,Clothing,21.55,Nagpur,L,Multicolor,Winter,1.4,Yes,Store Pickup,Yes,FLAT50,50,UPI,Quarterly
+CUST00153,Suresh Iyer,16,Male,Compact Powder,Makeup,27.88,Kolkata,Free Size,Yellow,Summer,2.1,Yes,Express,Yes,NEWUSER,17,Net Banking,Monthly
+CUST00154,Karthik Singh,46,Female,Compact Powder,Makeup,33.84,Kochi,Free Size,Gold,Spring,1.5,Yes,Free Shipping,Yes,FLAT50,24,UPI,Quarterly
+CUST00155,Sunita Reddy,37,Male,Face Wash,Cosmetics,21.96,Pune,Free Size,Grey,Summer,4.9,No,Next-Day,No,No Promo,40,Net Banking,Annually
+CUST00156,Suresh Singh,66,Male,Heels,Footwear,47.77,Patna,6,Yellow,Spring,4.8,No,Express,No,No Promo,18,Wallet,Weekly
+CUST00157,Lakshmi Chopra,68,Female,Sarees,Clothing,62.5,Ahmedabad,M,Green,Winter,4.2,Yes,Store Pickup,No,No Promo,25,Cash on Delivery,Annually
+CUST00158,Aditya Menon,60,Male,Skirts,Clothing,23.2,Ahmedabad,XXL,Brown,Summer,3.6,Yes,Free Shipping,No,No Promo,21,Net Banking,Weekly
+CUST00159,Kiara Krishnan,16,Male,Earrings,Accessories,87.24,Patna,Free Size,Gold,Autumn,2.6,No,Store Pickup,No,No Promo,9,UPI,Weekly
+CUST00160,Lakshmi Iyer,46,Male,Sweaters,Clothing,77.35,Hyderabad,M,Maroon,Autumn,2.8,Yes,Free Shipping,Yes,WELCOME10,28,Wallet,Rarely
+CUST00161,Pooja Verma,44,Male,Sweaters,Clothing,16.69,Coimbatore,XXL,White,Summer,4.7,No,Store Pickup,Yes,SAVE20,21,Cash on Delivery,Quarterly
+CUST00162,Ramesh Rao,45,Male,Foundation,Makeup,30.62,Nagpur,Free Size,Red,Summer,2.8,No,Standard,No,No Promo,13,UPI,Rarely
+CUST00163,Arun Nair,67,Female,Foundation,Makeup,19.63,Pune,Free Size,White,Autumn,3.7,No,Next-Day,No,No Promo,39,Net Banking,Annually
+CUST00164,Kavya Bose,23,Male,Foundation,Makeup,37.55,Lucknow,Free Size,Green,Autumn,1.5,No,Express,Yes,SAVE20,32,Net Banking,Quarterly
+CUST00165,Suresh Joshi,54,Male,Foundation,Makeup,24.47,Bhopal,Free Size,Yellow,Winter,2.2,Yes,Free Shipping,No,No Promo,22,Credit Card,Quarterly
+CUST00166,Suresh Murthy,24,Male,Scarf,Accessories,100.74,Nagpur,Free Size,Navy Blue,Winter,3.0,Yes,Standard,No,No Promo,14,UPI,Weekly
+CUST00167,Sneha Rao,33,Male,Sunglasses,Accessories,88.32,Kochi,Free Size,White,Autumn,4.1,No,Next-Day,No,No Promo,48,Credit Card,Rarely
+CUST00168,Divya Nair,44,Female,Compact Powder,Makeup,16.91,Mumbai,Free Size,Beige,Autumn,4.4,Yes,Standard,No,No Promo,15,Debit Card,Rarely
+CUST00169,Geeta Joshi,53,Female,Lipstick,Makeup,29.65,Pune,Free Size,Blue,Autumn,3.1,No,Express,Yes,SEASON25,18,UPI,Annually
+CUST00170,Sanjay Nair,33,Female,Sarees,Clothing,87.21,Nagpur,XS,Beige,Summer,3.8,Yes,Express,No,No Promo,15,Wallet,Quarterly
+CUST00171,Riya Joshi,47,Male,Sneakers,Footwear,56.3,Delhi,8,Multicolor,Autumn,3.8,No,Free Shipping,No,No Promo,20,Cash on Delivery,Weekly
+CUST00172,Sai Mehta,65,Female,Slippers,Footwear,95.31,Bhopal,8,Pink,Winter,4.3,No,Next-Day,No,No Promo,21,Cash on Delivery,Annually
+CUST00173,Vikram Das,24,Female,Jeans,Clothing,18.45,Indore,XS,White,Summer,2.8,Yes,Free Shipping,Yes,SEASON25,8,Wallet,Monthly
+CUST00174,Riya Iyer,26,Female,Sandals,Footwear,36.54,Madurai,10,Yellow,Spring,2.6,No,Express,No,No Promo,5,Wallet,Weekly
+CUST00175,Arjun Reddy,16,Male,Lip Gloss,Makeup,25.78,Indore,Free Size,Red,Autumn,4.3,No,Free Shipping,No,No Promo,30,Credit Card,Fortnightly
+CUST00176,Reyansh Nair,40,Male,Perfume,Cosmetics,24.58,Lucknow,Free Size,Orange,Summer,3.6,No,Standard,No,No Promo,0,Cash on Delivery,Rarely
+CUST00177,Aadhya Reddy,26,Female,Formal Shoes,Footwear,72.38,Indore,6,Black,Spring,1.6,Yes,Free Shipping,Yes,NEWUSER,20,Debit Card,Fortnightly
+CUST00178,Myra Murthy,33,Female,Sunscreen,Cosmetics,47.62,Chennai,Free Size,Pink,Summer,4.0,Yes,Standard,No,No Promo,50,Debit Card,Quarterly
+CUST00179,Vikram Bose,40,Male,Trousers,Clothing,54.62,Chennai,M,Grey,Summer,2.5,No,Free Shipping,Yes,SEASON25,11,Net Banking,Weekly
+CUST00180,Aarav Singh,17,Female,Mascara,Makeup,6.59,Mumbai,Free Size,Multicolor,Autumn,3.5,No,Free Shipping,No,No Promo,25,Credit Card,Rarely
+CUST00181,Ishaan Singh,50,Female,Skirts,Clothing,38.24,Visakhapatnam,S,Green,Autumn,2.6,No,Standard,Yes,NEWUSER,46,Debit Card,Weekly
+CUST00182,Divya Nair,31,Male,Sunglasses,Accessories,94.95,Mumbai,Free Size,Yellow,Spring,1.1,Yes,Standard,Yes,FEST15,33,Cash on Delivery,Rarely
+CUST00183,Krishna Singh,32,Male,Sweaters,Clothing,72.86,Chennai,M,Navy Blue,Autumn,3.1,Yes,Store Pickup,No,No Promo,31,Net Banking,Annually
+CUST00184,Arun Rao,39,Male,Sandals,Footwear,27.42,Bengaluru,9,White,Summer,4.0,Yes,Standard,Yes,NEWUSER,23,Net Banking,Fortnightly
+CUST00185,Aditya Murthy,27,Female,Formal Shoes,Footwear,34.0,Ahmedabad,8,Grey,Autumn,4.3,No,Standard,No,No Promo,3,Debit Card,Fortnightly
+CUST00186,Aditya Pillai,67,Female,Trousers,Clothing,80.77,Lucknow,M,Grey,Spring,3.2,Yes,Express,Yes,No Promo,19,Wallet,Annually
+CUST00187,Ravi Chopra,31,Female,Eyeliner,Makeup,34.3,Bhopal,Free Size,Green,Spring,4.7,Yes,Store Pickup,Yes,No Promo,44,Credit Card,Monthly
+CUST00188,Suresh Patel,16,Female,Jackets,Clothing,30.39,Ahmedabad,L,Silver,Spring,4.9,Yes,Next-Day,Yes,SAVE20,33,Net Banking,Rarely
+CUST00189,Sai Naidu,39,Female,Jackets,Clothing,52.91,Surat,XS,Blue,Winter,3.6,Yes,Next-Day,Yes,FEST15,25,Wallet,Rarely
+CUST00190,Riya Kumar,36,Male,Trousers,Clothing,85.77,Hyderabad,XL,White,Summer,1.4,No,Next-Day,No,No Promo,34,UPI,Fortnightly
+CUST00191,Priya Nair,44,Male,Skirts,Clothing,26.82,Lucknow,XXL,Blue,Summer,4.3,No,Standard,No,No Promo,22,Net Banking,Annually
+CUST00192,Priya Rao,19,Female,Tops,Clothing,86.41,Indore,XL,Purple,Spring,2.8,No,Express,Yes,WELCOME10,49,Debit Card,Fortnightly
+CUST00193,Karthik Iyer,28,Female,Face Cream,Cosmetics,55.38,Delhi,Free Size,Black,Summer,4.6,No,Express,Yes,No Promo,21,Credit Card,Weekly
+CUST00194,Arun Joshi,45,Male,Heels,Footwear,60.62,Surat,10,Navy Blue,Summer,2.4,No,Next-Day,Yes,SAVE20,2,Cash on Delivery,Annually
+CUST00195,Sneha Chopra,55,Male,Formal Shoes,Footwear,98.51,Kochi,5,Black,Autumn,2.5,No,Store Pickup,Yes,No Promo,34,Credit Card,Quarterly
+CUST00196,Rohit Murthy,66,Female,Belt,Accessories,56.85,Patna,Free Size,Orange,Autumn,1.7,No,Express,Yes,No Promo,49,UPI,Weekly
+CUST00197,Deepak Menon,67,Other,Lip Gloss,Makeup,43.96,Bengaluru,Free Size,Purple,Autumn,3.1,No,Standard,No,No Promo,14,Cash on Delivery,Quarterly
+CUST00198,Diya Rao,38,Female,Compact Powder,Makeup,28.7,Madurai,Free Size,Brown,Summer,3.3,Yes,Free Shipping,No,No Promo,11,Net Banking,Weekly
+CUST00199,Sunita Kumar,21,Male,Tops,Clothing,54.48,Chennai,M,Pink,Summer,2.4,Yes,Next-Day,Yes,SAVE20,37,Wallet,Fortnightly
+CUST00200,Deepak Menon,65,Male,Trousers,Clothing,43.02,Surat,XL,White,Autumn,2.2,Yes,Express,No,No Promo,27,Wallet,Quarterly
+CUST00201,Swati Bose,57,Male,Slippers,Footwear,33.88,Patna,6,Orange,Autumn,3.9,Yes,Express,No,No Promo,44,Cash on Delivery,Quarterly
+CUST00202,Arun Verma,70,Other,Foundation,Makeup,29.1,Chandigarh,Free Size,White,Winter,1.6,No,Express,Yes,FEST15,10,Wallet,Weekly
+CUST00203,Anjali Mehta,68,Female,Dresses,Clothing,34.89,Ahmedabad,XXL,Black,Autumn,2.0,Yes,Standard,Yes,NEWUSER,46,Net Banking,Fortnightly
+CUST00204,Suresh Menon,42,Female,Sneakers,Footwear,21.94,Kochi,9,Purple,Summer,2.8,No,Standard,Yes,FEST15,16,Credit Card,Weekly
+CUST00205,Suresh Rao,37,Male,Trousers,Clothing,56.03,Delhi,M,Silver,Spring,2.7,No,Store Pickup,No,No Promo,10,Credit Card,Weekly
+CUST00206,Saanvi Joshi,37,Male,Face Cream,Cosmetics,40.99,Lucknow,Free Size,White,Spring,2.6,No,Free Shipping,Yes,FEST15,0,Net Banking,Weekly
+CUST00207,Sunita Chopra,34,Female,Eyeliner,Makeup,8.88,Pune,Free Size,Maroon,Spring,2.9,Yes,Free Shipping,No,No Promo,42,UPI,Weekly
+CUST00208,Diya Menon,57,Female,Sneakers,Footwear,48.2,Indore,5,Beige,Winter,2.9,Yes,Next-Day,No,No Promo,9,Wallet,Rarely
+CUST00209,Rahul Murthy,22,Male,Formal Shoes,Footwear,107.13,Patna,6,Blue,Winter,4.3,No,Store Pickup,No,No Promo,30,Cash on Delivery,Fortnightly
+CUST00210,Ramesh Verma,46,Male,Scarf,Accessories,89.11,Visakhapatnam,Free Size,White,Winter,1.7,No,Express,No,No Promo,8,Credit Card,Quarterly
+CUST00211,Divya Gupta,21,Other,Kurtis,Clothing,77.56,Jaipur,M,Black,Spring,2.6,No,Next-Day,No,No Promo,33,Net Banking,Weekly
+CUST00212,Ravi Krishnan,66,Female,Formal Shoes,Footwear,23.03,Hyderabad,6,White,Spring,3.3,Yes,Next-Day,No,No Promo,22,Net Banking,Monthly
+CUST00213,Arun Bose,40,Female,Watch,Accessories,13.32,Jaipur,Free Size,Green,Winter,1.2,No,Next-Day,No,No Promo,3,Wallet,Quarterly
+CUST00214,Vivaan Das,33,Female,Face Wash,Cosmetics,21.41,Kochi,Free Size,Purple,Summer,2.2,No,Next-Day,Yes,NEWUSER,38,Wallet,Weekly
+CUST00215,Lakshmi Chopra,28,Female,Earrings,Accessories,131.14,Mumbai,Free Size,Black,Autumn,3.8,No,Store Pickup,No,No Promo,1,Debit Card,Fortnightly
+CUST00216,Vihaan Kumar,69,Male,T-Shirts,Clothing,49.23,Madurai,XXL,Pink,Autumn,2.5,No,Free Shipping,No,No Promo,7,Wallet,Weekly
+CUST00217,Sunita Mehta,31,Male,Foundation,Makeup,43.42,Kochi,Free Size,Brown,Summer,4.4,Yes,Standard,Yes,NEWUSER,3,Debit Card,Annually
+CUST00218,Kiara Kumar,65,Female,Mascara,Makeup,15.76,Nagpur,Free Size,Red,Winter,4.6,No,Store Pickup,No,No Promo,14,UPI,Annually
+CUST00219,Riya Joshi,67,Female,Sneakers,Footwear,95.46,Indore,7,Pink,Winter,2.2,No,Store Pickup,Yes,WELCOME10,0,Cash on Delivery,Rarely
+CUST00220,Swati Bose,69,Female,Sunscreen,Cosmetics,20.71,Bengaluru,Free Size,Black,Autumn,5.0,No,Next-Day,Yes,SEASON25,41,UPI,Fortnightly
+CUST00221,Myra Verma,25,Female,Heels,Footwear,76.73,Hyderabad,10,Red,Winter,5.0,Yes,Free Shipping,No,No Promo,47,Credit Card,Annually
+CUST00222,Saanvi Das,61,Other,Lip Gloss,Makeup,32.45,Kochi,Free Size,Multicolor,Autumn,4.4,No,Store Pickup,Yes,WELCOME10,30,Debit Card,Rarely
+CUST00223,Swati Rao,32,Female,Body Lotion,Cosmetics,40.65,Ahmedabad,Free Size,Purple,Autumn,2.7,No,Next-Day,Yes,FEST15,29,Credit Card,Quarterly
+CUST00224,Ravi Naidu,19,Female,Trousers,Clothing,50.42,Pune,XL,White,Winter,3.1,No,Express,Yes,SAVE20,21,Net Banking,Annually
+CUST00225,Diya Iyer,45,Male,Belt,Accessories,55.23,Kolkata,Free Size,Blue,Spring,2.8,Yes,Express,No,No Promo,10,Net Banking,Weekly
+CUST00226,Divya Pillai,24,Female,Flip Flops,Footwear,106.6,Surat,5,Blue,Summer,3.9,No,Next-Day,No,No Promo,33,Debit Card,Weekly
+CUST00227,Myra Kumar,59,Male,Slippers,Footwear,42.59,Bengaluru,8,Multicolor,Autumn,1.7,No,Next-Day,No,No Promo,29,Wallet,Annually
+CUST00228,Divya Reddy,54,Female,Body Lotion,Cosmetics,59.78,Kochi,Free Size,Pink,Summer,4.8,No,Free Shipping,Yes,SAVE20,46,Debit Card,Fortnightly
+CUST00229,Sanjay Rao,62,Male,Sweaters,Clothing,42.49,Mumbai,L,Beige,Spring,3.4,Yes,Standard,No,No Promo,1,Credit Card,Rarely
+CUST00230,Suresh Nair,23,Male,Face Cream,Cosmetics,30.57,Hyderabad,Free Size,Red,Autumn,2.7,Yes,Store Pickup,Yes,FLAT50,44,Debit Card,Quarterly
+CUST00231,Sanjay Bose,69,Female,Sweaters,Clothing,36.2,Bengaluru,L,Pink,Summer,4.1,No,Express,Yes,NEWUSER,18,Debit Card,Weekly
+CUST00232,Aadhya Chopra,51,Female,Body Lotion,Cosmetics,17.13,Chennai,Free Size,White,Winter,1.6,Yes,Store Pickup,Yes,SEASON25,6,UPI,Rarely
+CUST00233,Sneha Singh,30,Female,Sunglasses,Accessories,15.11,Kolkata,Free Size,Maroon,Autumn,4.2,No,Standard,Yes,No Promo,2,Credit Card,Fortnightly
+CUST00234,Anjali Menon,58,Female,Handbag,Accessories,143.62,Jaipur,Free Size,Brown,Autumn,1.7,No,Free Shipping,Yes,NEWUSER,44,Net Banking,Quarterly
+CUST00235,Ananya Nair,57,Female,Sarees,Clothing,67.21,Mumbai,S,White,Winter,4.6,No,Store Pickup,No,No Promo,11,Cash on Delivery,Quarterly
+CUST00236,Vivaan Reddy,65,Male,Watch,Accessories,138.7,Bengaluru,Free Size,Gold,Spring,1.3,No,Standard,No,No Promo,43,Cash on Delivery,Rarely
+CUST00237,Kiara Das,52,Female,Earrings,Accessories,82.28,Chandigarh,Free Size,Navy Blue,Summer,2.9,No,Free Shipping,Yes,No Promo,35,Cash on Delivery,Weekly
+CUST00238,Ananya Krishnan,16,Female,Watch,Accessories,128.97,Kolkata,Free Size,Silver,Autumn,2.0,No,Standard,No,No Promo,35,Wallet,Quarterly
+CUST00239,Sai Mehta,41,Female,Handbag,Accessories,121.78,Indore,Free Size,Silver,Winter,2.3,No,Standard,Yes,NEWUSER,2,Cash on Delivery,Annually
+CUST00240,Sunita Bose,16,Female,Face Wash,Cosmetics,53.85,Bhopal,Free Size,Gold,Autumn,2.5,Yes,Express,No,No Promo,21,Cash on Delivery,Annually
+CUST00241,Karthik Mehta,54,Female,Sweaters,Clothing,22.31,Ahmedabad,XS,Grey,Autumn,4.3,No,Next-Day,No,No Promo,23,Wallet,Weekly
+CUST00242,Vikram Reddy,18,Female,Formal Shoes,Footwear,22.48,Chandigarh,6,Pink,Spring,4.7,No,Free Shipping,No,No Promo,12,Wallet,Monthly
+CUST00243,Aditya Naidu,22,Female,Sweaters,Clothing,72.91,Indore,L,Multicolor,Summer,4.9,Yes,Standard,No,No Promo,27,Cash on Delivery,Quarterly
+CUST00244,Diya Naidu,48,Female,Foundation,Makeup,34.22,Hyderabad,Free Size,Orange,Autumn,3.0,No,Store Pickup,No,No Promo,48,Debit Card,Monthly
+CUST00245,Sneha Mehta,41,Female,Sarees,Clothing,25.36,Chandigarh,XXL,Multicolor,Autumn,4.4,No,Next-Day,No,No Promo,35,Wallet,Fortnightly
+CUST00246,Sneha Menon,28,Male,Sarees,Clothing,88.6,Kolkata,XL,Grey,Spring,4.0,No,Store Pickup,No,No Promo,42,Wallet,Quarterly
+CUST00247,Nisha Patel,59,Female,Flip Flops,Footwear,91.21,Visakhapatnam,5,Red,Winter,1.6,No,Express,Yes,No Promo,10,UPI,Rarely
+CUST00248,Vihaan Patel,32,Male,Mascara,Makeup,35.14,Mumbai,Free Size,Gold,Spring,3.5,No,Store Pickup,No,No Promo,47,Wallet,Annually
+CUST00249,Sneha Verma,40,Male,Sneakers,Footwear,49.98,Coimbatore,9,Blue,Spring,4.0,Yes,Free Shipping,No,No Promo,40,Wallet,Rarely
+CUST00250,Ravi Murthy,57,Male,Eyeliner,Makeup,36.05,Pune,Free Size,Gold,Summer,4.9,Yes,Express,No,No Promo,7,Net Banking,Weekly
+CUST00251,Priya Reddy,43,Male,Lipstick,Makeup,28.36,Jaipur,Free Size,Grey,Winter,3.8,Yes,Express,No,No Promo,38,Credit Card,Rarely
+CUST00252,Pooja Chopra,55,Female,Slippers,Footwear,19.14,Coimbatore,9,Purple,Summer,3.1,No,Express,No,No Promo,34,Net Banking,Weekly
+CUST00253,Aadhya Das,38,Male,Body Lotion,Cosmetics,24.2,Pune,Free Size,Red,Spring,3.7,No,Store Pickup,No,No Promo,15,Credit Card,Rarely
+CUST00254,Ayaan Pillai,36,Male,Face Cream,Cosmetics,34.25,Lucknow,Free Size,Multicolor,Autumn,3.1,No,Free Shipping,Yes,SEASON25,12,UPI,Annually
+CUST00255,Ananya Murthy,21,Female,Dresses,Clothing,62.02,Pune,XXL,Pink,Winter,4.3,Yes,Free Shipping,No,No Promo,4,Wallet,Rarely
+CUST00256,Anjali Verma,25,Male,Skirts,Clothing,20.49,Kolkata,M,Black,Summer,4.6,No,Free Shipping,No,No Promo,27,UPI,Weekly
+CUST00257,Nisha Sharma,40,Female,Trousers,Clothing,71.7,Patna,XS,Black,Autumn,4.7,Yes,Next-Day,No,No Promo,18,Net Banking,Quarterly
+CUST00258,Vivaan Chopra,41,Female,Lipstick,Makeup,26.34,Hyderabad,Free Size,Maroon,Summer,2.2,No,Next-Day,No,No Promo,0,Cash on Delivery,Annually
+CUST00259,Aarav Naidu,25,Male,Heels,Footwear,64.64,Delhi,7,Pink,Autumn,1.8,No,Store Pickup,Yes,SAVE20,14,Cash on Delivery,Monthly
+CUST00260,Arun Verma,28,Male,Sunglasses,Accessories,99.54,Delhi,Free Size,Black,Autumn,1.4,No,Free Shipping,No,No Promo,22,Debit Card,Rarely
+CUST00261,Sneha Bose,57,Male,Trousers,Clothing,82.51,Coimbatore,L,Gold,Autumn,3.5,No,Store Pickup,Yes,FLAT50,23,UPI,Quarterly
+CUST00262,Myra Kumar,26,Male,Flip Flops,Footwear,39.11,Madurai,6,Grey,Winter,2.9,No,Next-Day,No,No Promo,6,Debit Card,Rarely
+CUST00263,Riya Reddy,54,Male,Eyeliner,Makeup,15.53,Delhi,Free Size,Red,Spring,4.3,No,Store Pickup,Yes,WELCOME10,35,UPI,Annually
+CUST00264,Ishaan Menon,50,Female,Heels,Footwear,33.88,Patna,10,Maroon,Summer,2.9,No,Free Shipping,Yes,WELCOME10,42,Debit Card,Annually
+CUST00265,Sanjay Reddy,59,Male,Handbag,Accessories,30.61,Patna,Free Size,Silver,Autumn,1.2,No,Express,Yes,FEST15,14,Credit Card,Rarely
+CUST00266,Karthik Pillai,29,Female,Watch,Accessories,138.34,Mumbai,Free Size,Grey,Spring,3.8,No,Next-Day,No,No Promo,16,Cash on Delivery,Annually
+CUST00267,Suresh Menon,52,Male,Trousers,Clothing,53.75,Surat,S,Multicolor,Winter,2.4,No,Free Shipping,No,No Promo,38,Credit Card,Annually
+CUST00268,Kiara Iyer,24,Male,Scarf,Accessories,99.37,Pune,Free Size,Yellow,Summer,2.4,No,Standard,No,No Promo,26,UPI,Rarely
+CUST00269,Rohit Chopra,23,Female,Mascara,Makeup,28.63,Nagpur,Free Size,Purple,Spring,1.5,No,Express,No,No Promo,2,Cash on Delivery,Fortnightly
+CUST00270,Diya Krishnan,19,Male,Heels,Footwear,70.74,Patna,10,Red,Autumn,4.8,Yes,Store Pickup,No,No Promo,30,Debit Card,Fortnightly
+CUST00271,Ishaan Naidu,69,Male,Foundation,Makeup,29.93,Visakhapatnam,Free Size,Yellow,Autumn,4.7,No,Standard,Yes,NEWUSER,8,Credit Card,Weekly
+CUST00272,Sanjay Joshi,28,Female,Kurtis,Clothing,60.41,Kolkata,L,Blue,Spring,1.4,No,Store Pickup,No,No Promo,0,Wallet,Rarely
+CUST00273,Karthik Verma,43,Female,Earrings,Accessories,68.91,Kochi,Free Size,Brown,Spring,2.7,Yes,Express,No,No Promo,5,UPI,Annually
+CUST00274,Saanvi Sharma,50,Male,Dresses,Clothing,58.35,Bengaluru,XL,Red,Winter,3.6,No,Next-Day,No,No Promo,6,Debit Card,Quarterly
+CUST00275,Priya Murthy,57,Female,Flip Flops,Footwear,67.34,Chandigarh,7,Orange,Summer,2.7,No,Free Shipping,Yes,FLAT50,35,Net Banking,Monthly
+CUST00276,Ramesh Reddy,35,Female,Sweaters,Clothing,71.09,Indore,XXL,Yellow,Spring,1.9,No,Next-Day,No,No Promo,39,Wallet,Rarely
+CUST00277,Suresh Sharma,61,Male,Skirts,Clothing,76.74,Kochi,XL,Navy Blue,Spring,1.3,Yes,Standard,No,No Promo,46,Net Banking,Quarterly
+CUST00278,Sneha Bose,55,Female,Jeans,Clothing,85.93,Kolkata,XXL,Silver,Winter,1.0,No,Store Pickup,Yes,WELCOME10,50,Cash on Delivery,Annually
+CUST00279,Geeta Rao,49,Female,T-Shirts,Clothing,41.98,Chennai,S,Black,Autumn,4.1,No,Free Shipping,No,No Promo,12,Cash on Delivery,Weekly
+CUST00280,Sai Murthy,63,Female,Sunscreen,Cosmetics,44.66,Bhopal,Free Size,Brown,Autumn,1.9,No,Free Shipping,No,No Promo,36,Credit Card,Monthly
+CUST00281,Reyansh Murthy,27,Male,Trousers,Clothing,52.74,Coimbatore,XS,Multicolor,Autumn,4.5,No,Store Pickup,Yes,NEWUSER,24,Cash on Delivery,Quarterly
+CUST00282,Anjali Mehta,65,Male,Sunglasses,Accessories,135.31,Chennai,Free Size,White,Autumn,1.3,No,Express,No,No Promo,14,UPI,Quarterly
+CUST00283,Aarav Singh,38,Female,Compact Powder,Makeup,16.49,Surat,Free Size,Black,Summer,2.9,No,Store Pickup,Yes,SEASON25,43,Debit Card,Quarterly
+CUST00284,Myra Singh,63,Male,Mascara,Makeup,14.17,Ahmedabad,Free Size,Green,Spring,1.5,Yes,Free Shipping,No,No Promo,48,Cash on Delivery,Weekly
+CUST00285,Geeta Das,70,Female,Belt,Accessories,135.53,Patna,Free Size,Silver,Summer,4.9,No,Next-Day,Yes,No Promo,36,Debit Card,Weekly
+CUST00286,Rohit Murthy,49,Female,T-Shirts,Clothing,52.69,Surat,XXL,Yellow,Winter,4.9,No,Free Shipping,Yes,WELCOME10,0,Wallet,Fortnightly
+CUST00287,Neha Menon,40,Female,Face Cream,Cosmetics,14.48,Jaipur,Free Size,Beige,Winter,4.8,No,Express,No,No Promo,13,Net Banking,Rarely
+CUST00288,Ramesh Singh,64,Male,Handbag,Accessories,33.54,Hyderabad,Free Size,White,Autumn,4.2,No,Free Shipping,Yes,No Promo,47,Debit Card,Quarterly
+CUST00289,Lakshmi Chopra,67,Male,Sarees,Clothing,89.67,Visakhapatnam,XL,Grey,Winter,2.2,No,Store Pickup,Yes,WELCOME10,44,Debit Card,Weekly
+CUST00290,Rohit Nair,29,Female,Handbag,Accessories,113.73,Jaipur,Free Size,Brown,Autumn,2.4,No,Next-Day,No,No Promo,38,Debit Card,Annually
+CUST00291,Nisha Rao,52,Female,Sunscreen,Cosmetics,23.89,Visakhapatnam,Free Size,Gold,Spring,2.5,Yes,Express,No,No Promo,40,UPI,Quarterly
+CUST00292,Ramesh Iyer,56,Female,Skirts,Clothing,27.15,Ahmedabad,M,Grey,Autumn,3.8,No,Free Shipping,Yes,NEWUSER,49,UPI,Rarely
+CUST00293,Meera Joshi,53,Female,Lipstick,Makeup,12.36,Chennai,Free Size,Purple,Autumn,4.8,No,Standard,Yes,NEWUSER,6,Credit Card,Weekly
+CUST00294,Vivaan Pillai,46,Female,Earrings,Accessories,116.63,Delhi,Free Size,Beige,Summer,1.3,No,Free Shipping,Yes,SAVE20,47,UPI,Quarterly
+CUST00295,Deepak Rao,56,Male,Tops,Clothing,17.64,Madurai,M,Silver,Winter,4.9,No,Next-Day,No,No Promo,8,Wallet,Annually
+CUST00296,Kavya Naidu,27,Female,Flip Flops,Footwear,63.3,Bhopal,7,Brown,Winter,3.2,No,Free Shipping,Yes,NEWUSER,16,Debit Card,Monthly
+CUST00297,Krishna Menon,16,Male,Sunscreen,Cosmetics,30.28,Chennai,Free Size,Silver,Autumn,1.0,No,Next-Day,No,No Promo,50,Credit Card,Annually
+CUST00298,Swati Joshi,39,Male,Heels,Footwear,36.49,Surat,8,Purple,Autumn,1.3,No,Store Pickup,No,No Promo,39,Wallet,Rarely
+CUST00299,Nisha Singh,33,Male,Formal Shoes,Footwear,30.42,Delhi,6,Green,Autumn,1.4,No,Free Shipping,Yes,FLAT50,31,Debit Card,Monthly
+CUST00300,Nisha Sharma,17,Male,Foundation,Makeup,43.89,Lucknow,Free Size,Green,Winter,3.9,Yes,Express,Yes,SAVE20,21,Net Banking,Monthly
+CUST00301,Karthik Mehta,66,Female,T-Shirts,Clothing,39.77,Hyderabad,XS,Beige,Winter,1.3,No,Express,No,No Promo,16,Net Banking,Weekly
+CUST00302,Myra Pillai,23,Other,Handbag,Accessories,43.1,Mumbai,Free Size,Gold,Spring,3.1,No,Free Shipping,Yes,FEST15,20,Debit Card,Rarely
+CUST00303,Swati Krishnan,62,Male,Sweaters,Clothing,34.0,Lucknow,S,Brown,Spring,4.5,Yes,Standard,Yes,NEWUSER,20,Credit Card,Fortnightly
+CUST00304,Ayaan Pillai,66,Male,Compact Powder,Makeup,5.36,Mumbai,Free Size,Green,Autumn,4.1,Yes,Free Shipping,Yes,FLAT50,21,Wallet,Weekly
+CUST00305,Ishaan Murthy,19,Male,Jackets,Clothing,24.44,Ahmedabad,M,Brown,Winter,3.9,Yes,Free Shipping,Yes,SAVE20,16,Credit Card,Quarterly
+CUST00306,Sneha Murthy,61,Male,Belt,Accessories,34.95,Kolkata,Free Size,Grey,Winter,2.1,No,Store Pickup,Yes,FLAT50,9,Net Banking,Monthly
+CUST00307,Karthik Mehta,68,Male,Dresses,Clothing,73.19,Visakhapatnam,L,Yellow,Spring,3.5,No,Store Pickup,Yes,SEASON25,4,Wallet,Annually
+CUST00308,Deepak Chopra,68,Male,Kurtis,Clothing,60.98,Coimbatore,L,Grey,Spring,1.4,No,Standard,No,No Promo,8,Debit Card,Weekly
+CUST00309,Saanvi Nair,28,Male,T-Shirts,Clothing,57.83,Surat,XXL,Silver,Autumn,1.2,Yes,Standard,Yes,SAVE20,41,Net Banking,Weekly
+CUST00310,Vihaan Menon,45,Female,Formal Shoes,Footwear,92.56,Mumbai,9,Beige,Spring,3.9,No,Standard,No,No Promo,33,Credit Card,Weekly
+CUST00311,Suresh Gupta,62,Male,Eyeliner,Makeup,26.05,Ahmedabad,Free Size,Navy Blue,Spring,4.1,No,Free Shipping,No,No Promo,27,Credit Card,Fortnightly
+CUST00312,Ramesh Krishnan,66,Male,Body Lotion,Cosmetics,40.82,Bhopal,Free Size,Brown,Autumn,3.2,No,Next-Day,No,No Promo,40,Net Banking,Rarely
+CUST00313,Arun Murthy,36,Female,Mascara,Makeup,20.0,Bhopal,Free Size,Brown,Winter,2.8,No,Standard,No,No Promo,38,Credit Card,Annually
+CUST00314,Pooja Sharma,24,Other,Face Wash,Cosmetics,59.13,Pune,Free Size,Red,Autumn,4.7,No,Store Pickup,No,No Promo,9,Credit Card,Weekly
+CUST00315,Krishna Singh,45,Male,Sandals,Footwear,99.18,Ahmedabad,6,Beige,Autumn,1.4,No,Express,No,No Promo,46,UPI,Quarterly
+CUST00316,Arun Nair,27,Female,Face Wash,Cosmetics,6.09,Patna,Free Size,Black,Spring,4.7,No,Free Shipping,No,No Promo,7,Debit Card,Rarely
+CUST00317,Aarav Pillai,57,Female,Jeans,Clothing,37.86,Mumbai,M,Green,Autumn,3.0,Yes,Standard,No,No Promo,25,Net Banking,Annually
+CUST00318,Kiara Joshi,52,Female,Sunscreen,Cosmetics,48.04,Hyderabad,Free Size,Grey,Spring,2.9,No,Store Pickup,Yes,WELCOME10,25,Cash on Delivery,Quarterly
+CUST00319,Krishna Chopra,65,Female,Eyeliner,Makeup,24.51,Patna,Free Size,Multicolor,Summer,2.0,Yes,Free Shipping,Yes,FLAT50,5,Credit Card,Rarely
+CUST00320,Rahul Gupta,42,Male,Perfume,Cosmetics,23.29,Chennai,Free Size,Yellow,Autumn,3.5,No,Free Shipping,No,No Promo,28,Credit Card,Fortnightly
+CUST00321,Ishaan Iyer,28,Female,Sweaters,Clothing,70.47,Ahmedabad,XL,Green,Autumn,1.1,No,Standard,Yes,NEWUSER,1,UPI,Fortnightly
+CUST00322,Aadhya Murthy,63,Female,Earrings,Accessories,114.55,Bhopal,Free Size,Green,Spring,2.5,No,Store Pickup,Yes,SAVE20,3,UPI,Fortnightly
+CUST00323,Riya Verma,66,Female,Sunglasses,Accessories,100.98,Chennai,Free Size,Orange,Autumn,3.7,No,Next-Day,No,No Promo,1,UPI,Rarely
+CUST00324,Suresh Krishnan,40,Male,Jackets,Clothing,82.79,Kochi,XL,Black,Summer,1.8,No,Store Pickup,No,No Promo,1,Credit Card,Fortnightly
+CUST00325,Vikram Pillai,49,Male,Lipstick,Makeup,5.73,Madurai,Free Size,Maroon,Summer,5.0,No,Next-Day,No,No Promo,40,UPI,Quarterly
+CUST00326,Swati Singh,68,Other,Lip Gloss,Makeup,11.07,Surat,Free Size,Black,Winter,3.1,No,Express,No,No Promo,36,Debit Card,Quarterly
+CUST00327,Anjali Mehta,35,Female,Sarees,Clothing,30.51,Hyderabad,XL,Pink,Summer,2.2,No,Store Pickup,No,No Promo,27,Debit Card,Rarely
+CUST00328,Neha Iyer,52,Female,Sweaters,Clothing,28.81,Hyderabad,XXL,Red,Autumn,4.5,No,Free Shipping,Yes,SEASON25,40,Wallet,Monthly
+CUST00329,Reyansh Reddy,25,Female,Foundation,Makeup,6.05,Chandigarh,Free Size,Purple,Summer,1.9,Yes,Standard,No,No Promo,30,Debit Card,Annually
+CUST00330,Karthik Rao,70,Female,Sneakers,Footwear,60.16,Hyderabad,6,Pink,Summer,1.1,No,Standard,No,No Promo,26,Debit Card,Rarely
+CUST00331,Aadhya Iyer,58,Other,Foundation,Makeup,42.08,Indore,Free Size,Grey,Winter,4.6,No,Standard,No,No Promo,24,Wallet,Monthly
+CUST00332,Arun Bose,41,Female,Earrings,Accessories,99.08,Mumbai,Free Size,Gold,Winter,4.3,Yes,Express,No,No Promo,25,Wallet,Weekly
+CUST00333,Vihaan Gupta,51,Male,Sunscreen,Cosmetics,28.62,Lucknow,Free Size,Gold,Summer,2.7,No,Standard,No,No Promo,9,Net Banking,Rarely
+CUST00334,Sanjay Nair,44,Male,Foundation,Makeup,36.15,Bhopal,Free Size,Orange,Winter,2.3,Yes,Free Shipping,No,No Promo,45,Debit Card,Quarterly
+CUST00335,Ananya Nair,21,Male,Skirts,Clothing,23.56,Indore,XXL,Brown,Spring,3.1,No,Store Pickup,No,No Promo,10,Net Banking,Annually
+CUST00336,Ananya Das,40,Male,Kurtis,Clothing,27.16,Hyderabad,S,Blue,Winter,2.2,No,Free Shipping,Yes,SAVE20,7,Debit Card,Fortnightly
+CUST00337,Priya Sharma,16,Female,Sunglasses,Accessories,78.66,Kochi,Free Size,Silver,Summer,1.9,No,Free Shipping,No,No Promo,5,Cash on Delivery,Annually
+CUST00338,Swati Singh,16,Male,Mascara,Makeup,6.96,Hyderabad,Free Size,Brown,Spring,1.6,Yes,Store Pickup,No,No Promo,19,UPI,Weekly
+CUST00339,Diya Rao,19,Male,Sunscreen,Cosmetics,38.22,Chandigarh,Free Size,Gold,Autumn,4.7,Yes,Next-Day,Yes,NEWUSER,4,Net Banking,Annually
+CUST00340,Krishna Nair,20,Male,Moisturizer,Cosmetics,22.44,Nagpur,Free Size,Pink,Spring,1.4,No,Store Pickup,No,No Promo,30,Wallet,Rarely
+CUST00341,Sneha Joshi,54,Female,Perfume,Cosmetics,18.54,Patna,Free Size,Green,Winter,3.1,No,Free Shipping,No,No Promo,39,Debit Card,Rarely
+CUST00342,Aarav Nair,34,Other,Tops,Clothing,49.87,Bengaluru,XXL,Pink,Winter,2.7,No,Store Pickup,No,No Promo,13,Credit Card,Rarely
+CUST00343,Priya Iyer,28,Female,Face Wash,Cosmetics,20.82,Bhopal,Free Size,Red,Spring,3.7,No,Store Pickup,No,No Promo,1,Debit Card,Fortnightly
+CUST00344,Rohit Chopra,37,Female,T-Shirts,Clothing,63.42,Kochi,S,Gold,Autumn,2.8,No,Standard,No,No Promo,19,Cash on Delivery,Rarely
+CUST00345,Nisha Sharma,59,Male,Mascara,Makeup,28.1,Coimbatore,Free Size,Black,Summer,2.1,Yes,Free Shipping,No,No Promo,10,Cash on Delivery,Annually
+CUST00346,Ayaan Patel,40,Male,Perfume,Cosmetics,43.75,Jaipur,Free Size,Black,Winter,4.5,No,Next-Day,Yes,FEST15,11,Credit Card,Monthly
+CUST00347,Saanvi Iyer,66,Male,Handbag,Accessories,79.85,Kochi,Free Size,Pink,Autumn,4.7,No,Store Pickup,Yes,FEST15,9,Credit Card,Annually
+CUST00348,Aadhya Verma,59,Other,Sunglasses,Accessories,63.04,Visakhapatnam,Free Size,Red,Autumn,4.7,No,Store Pickup,No,No Promo,21,Net Banking,Weekly
+CUST00349,Pooja Sharma,22,Female,Face Wash,Cosmetics,39.78,Pune,Free Size,Pink,Summer,2.1,No,Free Shipping,No,No Promo,17,Debit Card,Fortnightly
+CUST00350,Geeta Murthy,33,Male,Scarf,Accessories,22.54,Bhopal,Free Size,Grey,Autumn,1.6,No,Next-Day,No,No Promo,10,Credit Card,Monthly
+CUST00351,Nisha Mehta,55,Female,Jeans,Clothing,24.76,Kochi,XXL,Blue,Spring,2.5,Yes,Free Shipping,Yes,FLAT50,37,Wallet,Rarely
+CUST00352,Rahul Patel,60,Female,Body Lotion,Cosmetics,49.78,Bhopal,Free Size,Gold,Summer,1.4,No,Free Shipping,Yes,FEST15,43,Wallet,Rarely
+CUST00353,Kiara Kumar,65,Female,Kurtis,Clothing,79.58,Chandigarh,M,Brown,Winter,1.7,No,Next-Day,No,No Promo,20,Net Banking,Quarterly
+CUST00354,Ayaan Menon,17,Male,Watch,Accessories,73.5,Kolkata,Free Size,Brown,Summer,3.0,No,Standard,Yes,SEASON25,4,UPI,Annually
+CUST00355,Lakshmi Kumar,45,Male,Compact Powder,Makeup,26.92,Kochi,Free Size,Black,Autumn,1.8,No,Free Shipping,No,No Promo,27,Cash on Delivery,Monthly
+CUST00356,Diya Iyer,50,Female,Belt,Accessories,24.23,Chandigarh,Free Size,Grey,Spring,4.3,Yes,Free Shipping,Yes,WELCOME10,43,Cash on Delivery,Quarterly
+CUST00357,Vihaan Iyer,36,Female,Mascara,Makeup,37.68,Patna,Free Size,Green,Summer,2.8,Yes,Store Pickup,No,No Promo,12,Debit Card,Rarely
+CUST00358,Pooja Joshi,36,Male,Slippers,Footwear,109.05,Patna,5,Multicolor,Winter,4.4,No,Standard,Yes,FLAT50,3,Credit Card,Rarely
+CUST00359,Rahul Nair,51,Female,Sunscreen,Cosmetics,52.48,Ahmedabad,Free Size,Orange,Autumn,3.8,No,Free Shipping,No,No Promo,42,Debit Card,Quarterly
+CUST00360,Suresh Menon,24,Male,Formal Shoes,Footwear,27.12,Hyderabad,6,Red,Spring,3.6,Yes,Free Shipping,No,No Promo,8,Credit Card,Fortnightly
+CUST00361,Kavya Bose,57,Female,Flip Flops,Footwear,73.08,Indore,9,Navy Blue,Winter,2.5,Yes,Free Shipping,No,No Promo,36,Net Banking,Rarely
+CUST00362,Riya Joshi,31,Female,Sandals,Footwear,15.28,Mumbai,9,Silver,Autumn,1.5,No,Standard,Yes,SEASON25,33,UPI,Quarterly
+CUST00363,Geeta Iyer,49,Male,Compact Powder,Makeup,23.9,Delhi,Free Size,Blue,Autumn,3.1,Yes,Free Shipping,No,No Promo,30,Cash on Delivery,Rarely
+CUST00364,Sneha Patel,37,Male,Lipstick,Makeup,6.41,Chandigarh,Free Size,Beige,Spring,3.5,No,Store Pickup,Yes,FEST15,47,Cash on Delivery,Weekly
+CUST00365,Krishna Krishnan,34,Female,Trousers,Clothing,78.86,Jaipur,M,Green,Autumn,2.1,Yes,Standard,No,No Promo,37,Wallet,Fortnightly
+CUST00366,Diya Singh,58,Female,Compact Powder,Makeup,24.4,Visakhapatnam,Free Size,Grey,Spring,4.9,No,Express,No,No Promo,48,Net Banking,Quarterly
+CUST00367,Ananya Gupta,31,Female,Slippers,Footwear,17.32,Jaipur,5,Blue,Summer,2.9,No,Free Shipping,No,No Promo,48,Cash on Delivery,Fortnightly
+CUST00368,Suresh Chopra,40,Female,Face Cream,Cosmetics,12.13,Nagpur,Free Size,Maroon,Winter,2.5,No,Store Pickup,No,No Promo,2,Credit Card,Annually
+CUST00369,Divya Bose,56,Male,Moisturizer,Cosmetics,22.76,Jaipur,Free Size,Beige,Winter,2.8,No,Express,No,No Promo,37,Debit Card,Annually
+CUST00370,Diya Das,37,Female,Dresses,Clothing,65.46,Delhi,XS,Navy Blue,Spring,3.1,No,Next-Day,Yes,FEST15,16,Debit Card,Weekly
+CUST00371,Vihaan Bose,17,Female,Mascara,Makeup,43.02,Bengaluru,Free Size,Black,Summer,2.5,No,Store Pickup,No,No Promo,11,Credit Card,Rarely
+CUST00372,Kavya Iyer,27,Male,Sunglasses,Accessories,139.02,Jaipur,Free Size,Grey,Autumn,1.6,Yes,Standard,Yes,FEST15,3,UPI,Monthly
+CUST00373,Vikram Gupta,27,Female,Heels,Footwear,29.49,Kochi,5,Green,Winter,1.9,No,Free Shipping,No,No Promo,6,Credit Card,Weekly
+CUST00374,Priya Mehta,20,Female,Tops,Clothing,82.24,Hyderabad,XXL,Red,Spring,3.7,Yes,Next-Day,No,No Promo,36,Credit Card,Annually
+CUST00375,Vikram Chopra,61,Female,Flip Flops,Footwear,51.58,Delhi,9,Purple,Spring,2.5,No,Free Shipping,Yes,FLAT50,22,UPI,Rarely
+CUST00376,Sai Menon,35,Male,Body Lotion,Cosmetics,8.51,Indore,Free Size,Pink,Summer,3.2,No,Express,Yes,NEWUSER,6,Wallet,Rarely
+CUST00377,Meera Gupta,38,Female,Sarees,Clothing,17.68,Chennai,XXL,Purple,Winter,2.6,No,Next-Day,No,No Promo,28,Credit Card,Weekly
+CUST00378,Aditya Pillai,37,Male,Sweaters,Clothing,30.88,Visakhapatnam,L,Green,Summer,4.7,Yes,Express,No,No Promo,1,Net Banking,Annually
+CUST00379,Krishna Sharma,18,Male,Foundation,Makeup,30.31,Lucknow,Free Size,Gold,Summer,4.3,Yes,Standard,Yes,FLAT50,39,Debit Card,Weekly
+CUST00380,Anjali Pillai,67,Male,Perfume,Cosmetics,10.76,Patna,Free Size,Grey,Summer,4.1,No,Next-Day,Yes,FEST15,9,Net Banking,Fortnightly
+CUST00381,Ananya Mehta,60,Male,Compact Powder,Makeup,42.03,Mumbai,Free Size,White,Winter,4.1,Yes,Free Shipping,Yes,WELCOME10,11,Credit Card,Rarely
+CUST00382,Sneha Joshi,57,Female,Watch,Accessories,106.31,Pune,Free Size,Beige,Winter,2.6,No,Store Pickup,No,No Promo,38,Debit Card,Rarely
+CUST00383,Sai Patel,47,Female,Slippers,Footwear,53.04,Bhopal,6,Pink,Spring,4.9,No,Store Pickup,Yes,No Promo,34,Cash on Delivery,Fortnightly
+CUST00384,Aadhya Singh,45,Female,Jeans,Clothing,29.53,Hyderabad,XXL,Silver,Winter,1.7,No,Standard,Yes,FEST15,18,Debit Card,Quarterly
+CUST00385,Kavya Verma,32,Male,Jackets,Clothing,70.53,Bhopal,S,Yellow,Spring,2.9,Yes,Express,No,No Promo,37,Cash on Delivery,Monthly
+CUST00386,Neha Kumar,42,Male,Sweaters,Clothing,39.46,Bengaluru,S,Navy Blue,Summer,2.5,Yes,Free Shipping,No,No Promo,3,Net Banking,Fortnightly
+CUST00387,Kavya Rao,29,Female,Sneakers,Footwear,48.6,Indore,10,Pink,Autumn,4.9,Yes,Express,Yes,FLAT50,3,UPI,Fortnightly
+CUST00388,Kavya Joshi,23,Female,Lipstick,Makeup,35.41,Ahmedabad,Free Size,Yellow,Summer,3.3,No,Express,Yes,No Promo,33,Net Banking,Fortnightly
+CUST00389,Kavya Singh,53,Female,Dresses,Clothing,69.75,Ahmedabad,S,Grey,Winter,3.3,No,Store Pickup,No,No Promo,36,Credit Card,Quarterly
+CUST00390,Rohit Krishnan,18,Male,T-Shirts,Clothing,46.93,Surat,L,White,Winter,3.0,Yes,Standard,No,No Promo,26,Debit Card,Fortnightly
+CUST00391,Sai Sharma,38,Male,Watch,Accessories,103.0,Kolkata,Free Size,Red,Winter,2.9,Yes,Free Shipping,Yes,No Promo,23,Wallet,Quarterly
+CUST00392,Arjun Pillai,61,Female,Body Lotion,Cosmetics,33.73,Lucknow,Free Size,Beige,Summer,4.2,Yes,Next-Day,No,No Promo,3,Cash on Delivery,Rarely
+CUST00393,Ayaan Pillai,39,Female,Sandals,Footwear,57.6,Mumbai,7,Brown,Summer,3.6,No,Store Pickup,No,No Promo,13,Debit Card,Monthly
+CUST00394,Rohit Naidu,31,Female,Mascara,Makeup,35.13,Ahmedabad,Free Size,Brown,Autumn,3.0,No,Standard,Yes,FEST15,28,Net Banking,Annually
+CUST00395,Rohit Murthy,49,Female,Sunscreen,Cosmetics,29.31,Madurai,Free Size,Pink,Winter,1.3,No,Express,Yes,WELCOME10,6,Debit Card,Monthly
+CUST00396,Vikram Reddy,23,Female,Mascara,Makeup,25.83,Chennai,Free Size,Navy Blue,Summer,2.9,No,Standard,Yes,WELCOME10,1,Debit Card,Annually
+CUST00397,Ravi Das,57,Male,Perfume,Cosmetics,31.22,Visakhapatnam,Free Size,Gold,Autumn,3.3,No,Next-Day,Yes,FEST15,14,Net Banking,Monthly
+CUST00398,Vihaan Reddy,34,Female,Slippers,Footwear,39.87,Kolkata,9,Yellow,Autumn,1.7,Yes,Express,Yes,WELCOME10,2,UPI,Annually
+CUST00399,Karthik Rao,24,Female,Mascara,Makeup,27.5,Mumbai,Free Size,Brown,Summer,2.5,No,Express,No,No Promo,7,Credit Card,Quarterly
+CUST00400,Kavya Das,47,Female,Kurtis,Clothing,15.32,Bhopal,XL,Grey,Autumn,2.9,Yes,Store Pickup,No,No Promo,36,Wallet,Quarterly
+CUST00401,Rohit Verma,37,Female,Sarees,Clothing,65.85,Bengaluru,M,Red,Winter,3.5,Yes,Next-Day,Yes,WELCOME10,38,Wallet,Fortnightly
+CUST00402,Riya Gupta,53,Female,Tops,Clothing,21.27,Indore,XXL,Black,Winter,1.8,No,Store Pickup,No,No Promo,3,Wallet,Monthly
+CUST00403,Divya Menon,41,Male,Sneakers,Footwear,48.54,Lucknow,7,Brown,Autumn,4.9,No,Standard,Yes,NEWUSER,47,Net Banking,Quarterly
+CUST00404,Divya Joshi,34,Male,Sarees,Clothing,77.66,Chandigarh,XS,Green,Summer,2.2,No,Store Pickup,No,No Promo,4,Cash on Delivery,Quarterly
+CUST00405,Riya Joshi,21,Male,Foundation,Makeup,27.23,Patna,Free Size,Pink,Summer,4.3,Yes,Free Shipping,Yes,No Promo,19,Cash on Delivery,Monthly
+CUST00406,Kavya Kumar,47,Female,Tops,Clothing,74.34,Hyderabad,M,Maroon,Winter,1.5,No,Next-Day,No,No Promo,31,Wallet,Rarely
+CUST00407,Riya Chopra,31,Male,Trousers,Clothing,59.92,Madurai,XL,Silver,Winter,4.5,No,Free Shipping,No,No Promo,7,UPI,Annually
+CUST00408,Priya Rao,62,Female,Jeans,Clothing,25.96,Indore,XXL,Green,Autumn,1.7,Yes,Free Shipping,No,No Promo,22,Credit Card,Monthly
+CUST00409,Arjun Krishnan,34,Female,Eyeliner,Makeup,35.66,Kolkata,Free Size,Yellow,Autumn,4.5,No,Next-Day,Yes,SEASON25,44,UPI,Weekly
+CUST00410,Ishaan Sharma,50,Female,Sarees,Clothing,53.86,Madurai,L,Navy Blue,Autumn,4.7,Yes,Express,Yes,SAVE20,12,Cash on Delivery,Annually
+CUST00411,Deepak Murthy,60,Female,Sweaters,Clothing,46.3,Delhi,XS,Green,Spring,2.9,No,Next-Day,Yes,NEWUSER,38,Cash on Delivery,Monthly
+CUST00412,Vivaan Nair,27,Female,Lip Gloss,Makeup,10.15,Hyderabad,Free Size,Maroon,Summer,1.8,No,Free Shipping,No,No Promo,50,Credit Card,Weekly
+CUST00413,Divya Verma,17,Female,Eyeliner,Makeup,9.31,Visakhapatnam,Free Size,Silver,Spring,4.6,Yes,Next-Day,No,No Promo,48,Credit Card,Weekly
+CUST00414,Saanvi Rao,54,Male,Slippers,Footwear,14.87,Hyderabad,10,Beige,Autumn,2.4,No,Store Pickup,Yes,FLAT50,4,Credit Card,Annually
+CUST00415,Aadhya Gupta,64,Male,Sunscreen,Cosmetics,13.62,Bhopal,Free Size,White,Summer,4.7,No,Free Shipping,Yes,FLAT50,11,Net Banking,Rarely
+CUST00416,Rahul Pillai,22,Male,Flip Flops,Footwear,33.0,Ahmedabad,8,White,Autumn,1.5,Yes,Express,No,No Promo,23,Wallet,Monthly
+CUST00417,Sai Das,51,Female,Belt,Accessories,24.43,Lucknow,Free Size,Maroon,Winter,1.9,No,Free Shipping,Yes,WELCOME10,30,Wallet,Monthly
+CUST00418,Vikram Nair,27,Male,Heels,Footwear,54.93,Delhi,5,Green,Winter,2.6,No,Standard,No,No Promo,10,Credit Card,Monthly
+CUST00419,Sunita Pillai,28,Male,Sweaters,Clothing,32.47,Nagpur,XXL,Silver,Autumn,4.1,No,Store Pickup,Yes,No Promo,41,Net Banking,Monthly
+CUST00420,Ramesh Chopra,46,Female,Scarf,Accessories,47.6,Indore,Free Size,White,Autumn,3.0,Yes,Express,Yes,SEASON25,3,Credit Card,Quarterly
+CUST00421,Diya Pillai,59,Male,Perfume,Cosmetics,12.55,Chandigarh,Free Size,Black,Winter,4.2,Yes,Free Shipping,No,No Promo,16,Cash on Delivery,Monthly
+CUST00422,Nisha Sharma,67,Female,T-Shirts,Clothing,89.3,Bengaluru,L,Gold,Autumn,4.4,No,Standard,Yes,FLAT50,42,UPI,Rarely
+CUST00423,Krishna Patel,26,Female,Sneakers,Footwear,59.77,Bengaluru,9,Silver,Winter,2.9,No,Store Pickup,Yes,FEST15,31,Cash on Delivery,Quarterly
+CUST00424,Sneha Das,55,Female,Jeans,Clothing,17.11,Mumbai,S,Brown,Autumn,4.2,No,Next-Day,Yes,NEWUSER,22,UPI,Quarterly
+CUST00425,Myra Kumar,38,Male,Compact Powder,Makeup,30.92,Patna,Free Size,Black,Autumn,1.5,Yes,Store Pickup,Yes,NEWUSER,42,Net Banking,Annually
+CUST00426,Riya Sharma,48,Female,Watch,Accessories,91.49,Coimbatore,Free Size,Orange,Autumn,3.3,No,Standard,No,No Promo,13,UPI,Quarterly
+CUST00427,Anjali Rao,48,Female,Face Wash,Cosmetics,24.35,Nagpur,Free Size,Silver,Spring,4.4,No,Next-Day,Yes,FEST15,36,Net Banking,Fortnightly
+CUST00428,Sai Naidu,55,Female,Jackets,Clothing,59.39,Jaipur,XS,Multicolor,Winter,2.7,No,Standard,No,No Promo,19,Cash on Delivery,Monthly
+CUST00429,Neha Gupta,43,Female,Formal Shoes,Footwear,51.43,Chandigarh,9,Gold,Summer,4.5,No,Store Pickup,No,No Promo,36,Net Banking,Fortnightly
+CUST00430,Kavya Singh,58,Female,Flip Flops,Footwear,103.59,Mumbai,9,Pink,Autumn,2.8,Yes,Next-Day,No,No Promo,26,UPI,Weekly
+CUST00431,Lakshmi Singh,56,Male,Sunscreen,Cosmetics,40.18,Jaipur,Free Size,Orange,Summer,1.5,Yes,Express,No,No Promo,19,Net Banking,Quarterly
+CUST00432,Divya Verma,51,Other,Eyeliner,Makeup,11.37,Hyderabad,Free Size,Beige,Autumn,3.6,Yes,Standard,No,No Promo,31,Credit Card,Weekly
+CUST00433,Pooja Iyer,21,Male,Formal Shoes,Footwear,99.88,Delhi,8,Green,Summer,1.4,No,Standard,No,No Promo,37,Cash on Delivery,Monthly
+CUST00434,Myra Bose,47,Female,Sweaters,Clothing,72.99,Coimbatore,M,Orange,Summer,4.7,Yes,Standard,Yes,FEST15,28,Net Banking,Monthly
+CUST00435,Nisha Menon,53,Male,Sweaters,Clothing,38.74,Nagpur,L,Purple,Autumn,4.5,No,Next-Day,No,No Promo,23,UPI,Weekly
+CUST00436,Sunita Verma,57,Female,Jeans,Clothing,66.8,Ahmedabad,M,Orange,Autumn,3.6,No,Standard,No,No Promo,15,Net Banking,Quarterly
+CUST00437,Ramesh Singh,16,Female,Face Wash,Cosmetics,9.05,Ahmedabad,Free Size,Pink,Summer,4.7,No,Free Shipping,No,No Promo,17,Credit Card,Quarterly
+CUST00438,Anjali Joshi,46,Female,Jackets,Clothing,76.83,Jaipur,XL,Black,Autumn,2.7,No,Store Pickup,No,No Promo,29,Wallet,Weekly
+CUST00439,Diya Mehta,64,Male,Sarees,Clothing,15.23,Pune,XXL,Maroon,Autumn,3.3,Yes,Express,No,No Promo,49,Wallet,Fortnightly
+CUST00440,Lakshmi Das,70,Female,Handbag,Accessories,75.93,Hyderabad,Free Size,Yellow,Autumn,4.2,Yes,Free Shipping,Yes,NEWUSER,24,Cash on Delivery,Fortnightly
+CUST00441,Swati Bose,17,Female,Lip Gloss,Makeup,41.27,Indore,Free Size,Beige,Summer,1.2,No,Store Pickup,Yes,WELCOME10,23,Debit Card,Annually
+CUST00442,Deepak Joshi,23,Male,Sunglasses,Accessories,125.47,Kochi,Free Size,Purple,Summer,1.8,No,Next-Day,Yes,NEWUSER,24,Debit Card,Quarterly
+CUST00443,Aadhya Patel,70,Male,Eyeliner,Makeup,21.73,Nagpur,Free Size,Red,Autumn,4.9,Yes,Free Shipping,No,No Promo,23,Cash on Delivery,Rarely
+CUST00444,Aarav Chopra,57,Female,Sarees,Clothing,80.36,Surat,XXL,Pink,Winter,3.8,No,Next-Day,Yes,FLAT50,3,Credit Card,Monthly
+CUST00445,Rahul Bose,31,Female,T-Shirts,Clothing,15.4,Visakhapatnam,XL,Orange,Autumn,4.9,No,Express,No,No Promo,35,Credit Card,Annually
+CUST00446,Sanjay Chopra,27,Male,Body Lotion,Cosmetics,53.16,Hyderabad,Free Size,Grey,Winter,1.6,Yes,Standard,No,No Promo,31,UPI,Rarely
+CUST00447,Sneha Singh,39,Female,Face Cream,Cosmetics,32.95,Nagpur,Free Size,Grey,Winter,4.1,Yes,Free Shipping,Yes,SAVE20,3,Debit Card,Fortnightly
+CUST00448,Ananya Mehta,18,Female,Flip Flops,Footwear,23.37,Kochi,5,Gold,Autumn,5.0,No,Free Shipping,No,No Promo,46,Debit Card,Weekly
+CUST00449,Sneha Rao,38,Male,Lipstick,Makeup,35.0,Jaipur,Free Size,Red,Summer,2.7,Yes,Free Shipping,No,No Promo,21,Credit Card,Monthly
+CUST00450,Ayaan Pillai,59,Other,Sandals,Footwear,69.85,Bengaluru,7,Green,Spring,1.3,No,Free Shipping,No,No Promo,17,Cash on Delivery,Rarely
+CUST00451,Aditya Bose,16,Male,Handbag,Accessories,54.14,Patna,Free Size,Pink,Spring,4.2,Yes,Standard,No,No Promo,35,Cash on Delivery,Quarterly
+CUST00452,Diya Kumar,21,Male,Heels,Footwear,20.74,Pune,6,Orange,Winter,2.1,No,Express,Yes,NEWUSER,27,Wallet,Monthly
+CUST00453,Rahul Nair,59,Female,Sandals,Footwear,62.24,Kochi,8,Orange,Winter,2.1,No,Standard,No,No Promo,23,Cash on Delivery,Fortnightly
+CUST00454,Sai Verma,43,Female,Scarf,Accessories,56.53,Indore,Free Size,Green,Winter,3.1,No,Standard,Yes,NEWUSER,5,Net Banking,Monthly
+CUST00455,Pooja Kumar,25,Other,Earrings,Accessories,68.74,Patna,Free Size,Black,Spring,3.1,No,Free Shipping,Yes,SEASON25,46,Cash on Delivery,Monthly
+CUST00456,Sai Krishnan,38,Male,Tops,Clothing,23.55,Indore,S,Yellow,Winter,1.2,No,Next-Day,Yes,SEASON25,29,Wallet,Quarterly
+CUST00457,Anjali Rao,55,Female,Mascara,Makeup,12.4,Chandigarh,Free Size,White,Winter,3.1,Yes,Standard,Yes,SEASON25,30,Net Banking,Rarely
+CUST00458,Sunita Chopra,41,Female,Face Wash,Cosmetics,38.64,Chandigarh,Free Size,Orange,Autumn,1.4,Yes,Express,Yes,WELCOME10,44,Debit Card,Weekly
+CUST00459,Ishaan Kumar,29,Female,Flip Flops,Footwear,94.52,Bhopal,6,Black,Autumn,4.1,Yes,Free Shipping,Yes,SAVE20,9,Wallet,Rarely
+CUST00460,Rohit Sharma,44,Female,Handbag,Accessories,91.1,Pune,Free Size,Orange,Spring,2.3,Yes,Free Shipping,No,No Promo,31,Wallet,Annually
+CUST00461,Sneha Verma,54,Female,Belt,Accessories,64.75,Visakhapatnam,Free Size,Purple,Spring,3.1,No,Next-Day,No,No Promo,17,Wallet,Quarterly
+CUST00462,Geeta Menon,46,Male,Handbag,Accessories,107.05,Chennai,Free Size,Maroon,Summer,2.9,No,Store Pickup,Yes,SEASON25,21,Cash on Delivery,Rarely
+CUST00463,Sneha Pillai,58,Female,Formal Shoes,Footwear,93.64,Madurai,8,Yellow,Summer,2.1,No,Free Shipping,Yes,SAVE20,10,Cash on Delivery,Quarterly
+CUST00464,Vikram Patel,22,Female,Compact Powder,Makeup,13.38,Mumbai,Free Size,Brown,Autumn,2.4,Yes,Store Pickup,Yes,WELCOME10,21,Net Banking,Weekly
+CUST00465,Swati Kumar,55,Male,Belt,Accessories,44.61,Coimbatore,Free Size,Blue,Autumn,4.6,No,Store Pickup,No,No Promo,6,Wallet,Weekly
+CUST00466,Ayaan Nair,44,Female,Jackets,Clothing,76.77,Mumbai,XL,White,Summer,3.5,No,Next-Day,Yes,FEST15,45,Net Banking,Annually
+CUST00467,Reyansh Reddy,47,Female,Sandals,Footwear,44.79,Hyderabad,5,Pink,Winter,4.9,No,Standard,Yes,No Promo,30,UPI,Monthly
+CUST00468,Riya Menon,48,Male,Formal Shoes,Footwear,47.34,Ahmedabad,6,Multicolor,Winter,4.1,Yes,Free Shipping,No,No Promo,26,Net Banking,Annually
+CUST00469,Vivaan Mehta,66,Female,Kurtis,Clothing,72.76,Visakhapatnam,XS,Black,Autumn,2.3,No,Express,No,No Promo,25,Credit Card,Rarely
+CUST00470,Arun Verma,57,Male,Earrings,Accessories,146.12,Nagpur,Free Size,Maroon,Autumn,4.6,Yes,Next-Day,No,No Promo,39,Debit Card,Rarely
+CUST00471,Aadhya Murthy,41,Female,Handbag,Accessories,107.04,Surat,Free Size,Maroon,Spring,1.1,No,Express,No,No Promo,34,UPI,Fortnightly
+CUST00472,Pooja Krishnan,21,Female,Body Lotion,Cosmetics,46.39,Kolkata,Free Size,Red,Autumn,2.0,No,Free Shipping,No,No Promo,7,Wallet,Weekly
+CUST00473,Sanjay Menon,69,Male,Sweaters,Clothing,18.58,Bengaluru,L,Maroon,Spring,2.8,No,Store Pickup,No,No Promo,40,Wallet,Annually
+CUST00474,Rahul Patel,70,Female,Sunscreen,Cosmetics,41.35,Patna,Free Size,Orange,Summer,1.4,No,Express,No,No Promo,23,Net Banking,Weekly
+CUST00475,Lakshmi Iyer,25,Female,Skirts,Clothing,19.66,Hyderabad,L,Pink,Winter,1.3,No,Free Shipping,No,No Promo,33,Net Banking,Monthly
+CUST00476,Divya Mehta,53,Female,Belt,Accessories,111.9,Nagpur,Free Size,Green,Summer,2.9,No,Store Pickup,No,No Promo,7,Wallet,Fortnightly
+CUST00477,Ananya Murthy,45,Female,Sandals,Footwear,102.33,Bengaluru,9,Navy Blue,Spring,1.5,No,Standard,No,No Promo,7,UPI,Monthly
+CUST00478,Vikram Sharma,39,Male,Kurtis,Clothing,25.66,Patna,L,Blue,Autumn,4.6,Yes,Free Shipping,Yes,FLAT50,22,Credit Card,Weekly
+CUST00479,Pooja Naidu,42,Female,Handbag,Accessories,135.84,Surat,Free Size,Green,Summer,3.0,No,Free Shipping,No,No Promo,9,Wallet,Monthly
+CUST00480,Geeta Joshi,21,Female,Sneakers,Footwear,34.82,Surat,7,Blue,Winter,3.9,No,Express,No,No Promo,36,Wallet,Rarely
+CUST00481,Ayaan Murthy,35,Female,Skirts,Clothing,29.43,Chandigarh,XL,Blue,Summer,4.0,No,Standard,Yes,FLAT50,11,Credit Card,Monthly
+CUST00482,Ravi Mehta,66,Male,Skirts,Clothing,75.52,Chandigarh,M,Orange,Spring,3.0,No,Next-Day,No,No Promo,26,Credit Card,Annually
+CUST00483,Sai Nair,36,Male,Jackets,Clothing,55.63,Lucknow,S,Yellow,Autumn,4.1,Yes,Free Shipping,No,No Promo,3,Cash on Delivery,Monthly
+CUST00484,Vihaan Patel,27,Male,Sneakers,Footwear,21.68,Hyderabad,8,Grey,Autumn,2.5,No,Standard,Yes,SAVE20,48,Cash on Delivery,Annually
+CUST00485,Sanjay Pillai,31,Female,Sweaters,Clothing,35.2,Coimbatore,L,Navy Blue,Spring,2.9,No,Express,No,No Promo,1,UPI,Annually
+CUST00486,Myra Murthy,53,Female,Sarees,Clothing,37.85,Nagpur,L,Black,Summer,4.1,Yes,Store Pickup,No,No Promo,50,Debit Card,Annually
+CUST00487,Swati Mehta,43,Female,T-Shirts,Clothing,15.08,Indore,XL,Maroon,Summer,1.0,No,Free Shipping,Yes,FEST15,43,Net Banking,Monthly
+CUST00488,Ravi Krishnan,69,Female,Sunscreen,Cosmetics,6.55,Bhopal,Free Size,Maroon,Spring,2.6,Yes,Express,No,No Promo,17,Net Banking,Fortnightly
+CUST00489,Neha Das,55,Female,Face Cream,Cosmetics,58.86,Indore,Free Size,Purple,Autumn,2.4,No,Store Pickup,Yes,SEASON25,8,Wallet,Weekly
+CUST00490,Aarav Rao,54,Female,Formal Shoes,Footwear,66.47,Kochi,8,Black,Spring,3.2,No,Free Shipping,No,No Promo,22,Net Banking,Annually
+CUST00491,Aarav Nair,38,Male,Sunglasses,Accessories,60.61,Pune,Free Size,Red,Summer,4.0,No,Next-Day,Yes,No Promo,39,Wallet,Monthly
+CUST00492,Kiara Chopra,67,Female,Sandals,Footwear,15.61,Kochi,10,Pink,Spring,1.8,No,Free Shipping,Yes,FEST15,36,Cash on Delivery,Quarterly
+CUST00493,Arun Bose,26,Female,Foundation,Makeup,7.61,Hyderabad,Free Size,Green,Autumn,4.7,No,Store Pickup,No,No Promo,17,Debit Card,Rarely
+CUST00494,Nisha Bose,17,Other,Face Cream,Cosmetics,42.12,Indore,Free Size,Navy Blue,Spring,4.4,No,Free Shipping,Yes,SEASON25,33,Net Banking,Quarterly
+CUST00495,Aditya Kumar,39,Female,Jeans,Clothing,35.84,Nagpur,XL,Gold,Autumn,1.0,Yes,Standard,No,No Promo,1,Wallet,Fortnightly
+CUST00496,Arjun Kumar,60,Male,Eyeliner,Makeup,11.58,Lucknow,Free Size,White,Spring,2.9,No,Store Pickup,No,No Promo,21,UPI,Fortnightly
+CUST00497,Anjali Verma,22,Female,Body Lotion,Cosmetics,33.1,Ahmedabad,Free Size,Gold,Spring,3.5,No,Standard,No,No Promo,2,Net Banking,Monthly
+CUST00498,Krishna Verma,70,Female,Handbag,Accessories,15.78,Chandigarh,Free Size,Black,Spring,3.7,No,Next-Day,No,No Promo,25,Credit Card,Annually
+CUST00499,Sunita Bose,64,Male,Dresses,Clothing,49.01,Indore,L,White,Autumn,3.6,No,Standard,No,No Promo,21,Cash on Delivery,Fortnightly
+CUST00500,Sunita Iyer,22,Male,Eyeliner,Makeup,41.17,Hyderabad,Free Size,Brown,Winter,2.9,No,Express,Yes,No Promo,2,Credit Card,Fortnightly
+CUST00501,Sanjay Menon,35,Female,Face Wash,Cosmetics,36.69,Bhopal,Free Size,Green,Winter,2.2,No,Next-Day,No,No Promo,33,Cash on Delivery,Rarely
+CUST00502,Myra Krishnan,59,Male,Jeans,Clothing,46.65,Pune,S,Pink,Spring,2.4,No,Free Shipping,No,No Promo,21,Cash on Delivery,Annually
+CUST00503,Lakshmi Das,37,Female,Lipstick,Makeup,9.19,Mumbai,Free Size,Purple,Spring,3.6,No,Free Shipping,No,No Promo,15,Net Banking,Rarely
+CUST00504,Anjali Pillai,65,Female,Mascara,Makeup,21.01,Chennai,Free Size,Red,Spring,2.4,No,Express,Yes,SAVE20,40,Cash on Delivery,Monthly
+CUST00505,Saanvi Gupta,18,Other,Sunscreen,Cosmetics,13.75,Jaipur,Free Size,Grey,Summer,1.7,Yes,Next-Day,No,No Promo,1,Wallet,Fortnightly
+CUST00506,Ayaan Das,40,Female,Mascara,Makeup,17.2,Ahmedabad,Free Size,Brown,Summer,4.8,No,Store Pickup,No,No Promo,45,Credit Card,Weekly
+CUST00507,Krishna Gupta,25,Female,Eyeliner,Makeup,26.3,Madurai,Free Size,Navy Blue,Summer,4.7,No,Store Pickup,Yes,FLAT50,18,Debit Card,Monthly
+CUST00508,Riya Reddy,31,Male,Scarf,Accessories,145.51,Kochi,Free Size,Black,Winter,4.2,No,Express,No,No Promo,48,Wallet,Annually
+CUST00509,Kavya Rao,39,Female,Perfume,Cosmetics,43.9,Visakhapatnam,Free Size,Silver,Winter,2.1,No,Store Pickup,No,No Promo,13,Debit Card,Fortnightly
+CUST00510,Ramesh Gupta,44,Female,Face Wash,Cosmetics,27.8,Surat,Free Size,Brown,Autumn,3.2,Yes,Standard,Yes,FLAT50,22,Debit Card,Annually
+CUST00511,Geeta Das,18,Female,Flip Flops,Footwear,56.21,Nagpur,8,Brown,Winter,2.3,No,Express,No,No Promo,16,Wallet,Weekly
+CUST00512,Sneha Krishnan,38,Female,Scarf,Accessories,85.62,Delhi,Free Size,Purple,Spring,1.5,No,Store Pickup,Yes,SAVE20,43,UPI,Monthly
+CUST00513,Riya Gupta,35,Female,Sarees,Clothing,89.88,Bhopal,M,Red,Autumn,2.1,No,Free Shipping,No,No Promo,37,Wallet,Weekly
+CUST00514,Ishaan Pillai,46,Female,Lip Gloss,Makeup,14.08,Pune,Free Size,Purple,Winter,3.9,No,Standard,Yes,SAVE20,27,Wallet,Quarterly
+CUST00515,Swati Sharma,29,Male,Sandals,Footwear,25.62,Hyderabad,7,Red,Winter,4.2,No,Next-Day,Yes,NEWUSER,43,Net Banking,Rarely
+CUST00516,Ravi Sharma,50,Male,T-Shirts,Clothing,84.16,Hyderabad,M,Orange,Winter,1.8,No,Store Pickup,Yes,NEWUSER,6,UPI,Annually
+CUST00517,Pooja Iyer,44,Female,Lipstick,Makeup,9.17,Bhopal,Free Size,Blue,Winter,1.1,Yes,Free Shipping,Yes,SAVE20,18,Wallet,Annually
+CUST00518,Karthik Krishnan,20,Female,Dresses,Clothing,27.89,Nagpur,L,Yellow,Spring,1.5,No,Standard,Yes,No Promo,13,Debit Card,Fortnightly
+CUST00519,Rohit Rao,35,Male,Face Wash,Cosmetics,36.9,Visakhapatnam,Free Size,Beige,Summer,1.0,Yes,Standard,No,No Promo,38,Debit Card,Annually
+CUST00520,Vikram Mehta,37,Female,Sunglasses,Accessories,89.81,Delhi,Free Size,Gold,Autumn,3.8,No,Next-Day,Yes,No Promo,11,Net Banking,Fortnightly
+CUST00521,Divya Mehta,27,Female,Sneakers,Footwear,101.26,Kolkata,10,White,Winter,3.8,Yes,Express,Yes,SEASON25,34,UPI,Rarely
+CUST00522,Aadhya Chopra,20,Female,Formal Shoes,Footwear,109.25,Bhopal,5,Brown,Spring,4.0,No,Next-Day,No,No Promo,10,UPI,Fortnightly
+CUST00523,Vivaan Iyer,48,Male,Sunglasses,Accessories,62.12,Surat,Free Size,Orange,Spring,1.0,Yes,Express,Yes,SEASON25,29,Net Banking,Quarterly
+CUST00524,Myra Mehta,20,Male,Sarees,Clothing,50.31,Jaipur,S,Yellow,Spring,3.4,Yes,Standard,No,No Promo,25,Debit Card,Weekly
+CUST00525,Riya Reddy,58,Female,Handbag,Accessories,58.85,Pune,Free Size,Pink,Winter,3.8,No,Store Pickup,No,No Promo,45,Wallet,Weekly
+CUST00526,Meera Verma,40,Female,Dresses,Clothing,18.65,Surat,S,Purple,Autumn,4.6,Yes,Standard,No,No Promo,0,UPI,Fortnightly
+CUST00527,Kiara Nair,59,Female,Lipstick,Makeup,33.96,Mumbai,Free Size,Multicolor,Spring,4.3,No,Express,No,No Promo,34,Net Banking,Quarterly
+CUST00528,Reyansh Menon,23,Male,Perfume,Cosmetics,13.72,Surat,Free Size,Red,Winter,1.9,Yes,Next-Day,No,No Promo,23,Credit Card,Weekly
+CUST00529,Sunita Chopra,29,Male,Jackets,Clothing,68.44,Patna,S,Beige,Spring,3.4,No,Free Shipping,No,No Promo,49,Wallet,Fortnightly
+CUST00530,Neha Chopra,37,Male,Trousers,Clothing,40.13,Chandigarh,XL,Gold,Winter,3.0,No,Store Pickup,No,No Promo,0,Debit Card,Weekly
+CUST00531,Ayaan Patel,55,Female,Compact Powder,Makeup,34.52,Ahmedabad,Free Size,Blue,Summer,2.5,Yes,Express,Yes,SEASON25,2,Debit Card,Rarely
+CUST00532,Meera Das,54,Other,Sarees,Clothing,35.86,Mumbai,XL,Navy Blue,Autumn,4.0,Yes,Next-Day,Yes,SAVE20,34,Credit Card,Rarely
+CUST00533,Kiara Bose,31,Female,Sneakers,Footwear,63.1,Kolkata,8,Red,Spring,4.5,Yes,Express,Yes,SAVE20,13,Debit Card,Weekly
+CUST00534,Aadhya Kumar,27,Female,Scarf,Accessories,19.1,Indore,Free Size,Yellow,Summer,2.0,Yes,Express,Yes,FLAT50,28,Wallet,Fortnightly
+CUST00535,Rohit Iyer,33,Female,Sandals,Footwear,51.03,Kolkata,8,Gold,Winter,3.0,No,Express,No,No Promo,50,Net Banking,Weekly
+CUST00536,Sai Patel,64,Male,Kurtis,Clothing,56.46,Kolkata,M,Orange,Winter,2.2,Yes,Store Pickup,No,No Promo,4,UPI,Fortnightly
+CUST00537,Ishaan Gupta,61,Female,Dresses,Clothing,15.96,Visakhapatnam,XXL,Brown,Winter,2.6,No,Free Shipping,No,No Promo,23,Net Banking,Quarterly
+CUST00538,Ravi Iyer,35,Female,Formal Shoes,Footwear,98.73,Bengaluru,8,Yellow,Summer,4.1,No,Next-Day,No,No Promo,31,Wallet,Rarely
+CUST00539,Suresh Joshi,39,Female,Compact Powder,Makeup,14.69,Mumbai,Free Size,Red,Summer,2.0,No,Express,Yes,FLAT50,37,Wallet,Fortnightly
+CUST00540,Sai Pillai,16,Male,Heels,Footwear,81.19,Delhi,9,Pink,Winter,1.7,No,Next-Day,No,No Promo,34,Wallet,Quarterly
+CUST00541,Lakshmi Iyer,53,Male,Jackets,Clothing,62.71,Madurai,S,Beige,Summer,4.7,No,Next-Day,Yes,SAVE20,31,Credit Card,Weekly
+CUST00542,Lakshmi Krishnan,20,Female,Formal Shoes,Footwear,76.14,Nagpur,6,Yellow,Autumn,1.7,Yes,Free Shipping,Yes,WELCOME10,28,Cash on Delivery,Fortnightly
+CUST00543,Diya Gupta,27,Male,Face Cream,Cosmetics,59.05,Nagpur,Free Size,White,Summer,1.3,Yes,Standard,Yes,FEST15,1,Cash on Delivery,Fortnightly
+CUST00544,Reyansh Sharma,46,Female,Jeans,Clothing,34.96,Chennai,XXL,Blue,Spring,1.8,No,Free Shipping,No,No Promo,48,UPI,Quarterly
+CUST00545,Sunita Joshi,46,Female,Body Lotion,Cosmetics,24.76,Coimbatore,Free Size,Purple,Autumn,3.7,No,Standard,No,No Promo,21,Credit Card,Weekly
+CUST00546,Ramesh Reddy,45,Female,Tops,Clothing,60.14,Visakhapatnam,M,Purple,Autumn,2.8,No,Free Shipping,No,No Promo,42,Debit Card,Weekly
+CUST00547,Neha Sharma,56,Female,Sandals,Footwear,97.6,Coimbatore,10,Gold,Summer,3.4,No,Store Pickup,No,No Promo,22,Net Banking,Quarterly
+CUST00548,Reyansh Pillai,58,Female,Sunscreen,Cosmetics,38.0,Hyderabad,Free Size,Green,Winter,4.2,No,Store Pickup,No,No Promo,29,Debit Card,Quarterly
+CUST00549,Nisha Kumar,23,Female,Compact Powder,Makeup,13.47,Delhi,Free Size,Navy Blue,Spring,1.6,No,Free Shipping,No,No Promo,14,Wallet,Monthly
+CUST00550,Ayaan Reddy,58,Female,Belt,Accessories,20.84,Coimbatore,Free Size,Black,Autumn,2.5,No,Free Shipping,No,No Promo,50,Cash on Delivery,Quarterly
+CUST00551,Priya Nair,67,Male,Sunscreen,Cosmetics,8.91,Delhi,Free Size,Pink,Spring,3.3,Yes,Next-Day,No,No Promo,36,Wallet,Weekly
+CUST00552,Nisha Gupta,35,Male,Sneakers,Footwear,108.03,Coimbatore,7,Green,Summer,1.4,Yes,Free Shipping,Yes,No Promo,18,Debit Card,Quarterly
+CUST00553,Sunita Patel,59,Female,Kurtis,Clothing,71.03,Mumbai,XL,Grey,Autumn,3.0,No,Next-Day,No,No Promo,45,Cash on Delivery,Quarterly
+CUST00554,Vikram Patel,56,Female,Sneakers,Footwear,17.76,Coimbatore,6,Pink,Summer,3.8,Yes,Express,No,No Promo,46,Net Banking,Monthly
+CUST00555,Ananya Sharma,68,Female,Heels,Footwear,45.07,Kochi,7,Orange,Winter,1.3,No,Next-Day,No,No Promo,12,Wallet,Annually
+CUST00556,Neha Naidu,41,Male,Jeans,Clothing,78.74,Lucknow,L,Yellow,Summer,2.8,No,Express,Yes,No Promo,47,Debit Card,Rarely
+CUST00557,Arun Nair,57,Male,Kurtis,Clothing,43.24,Nagpur,XXL,Yellow,Spring,1.4,No,Express,No,No Promo,7,Cash on Delivery,Rarely
+CUST00558,Ishaan Pillai,37,Female,Compact Powder,Makeup,6.36,Ahmedabad,Free Size,Silver,Autumn,3.8,No,Free Shipping,No,No Promo,50,Wallet,Rarely
+CUST00559,Suresh Singh,21,Female,Handbag,Accessories,60.16,Bengaluru,Free Size,Black,Spring,3.0,No,Store Pickup,Yes,FLAT50,36,Cash on Delivery,Quarterly
+CUST00560,Reyansh Naidu,33,Female,Foundation,Makeup,20.36,Nagpur,Free Size,Green,Spring,2.3,No,Store Pickup,Yes,No Promo,44,Credit Card,Quarterly
+CUST00561,Deepak Chopra,51,Female,Trousers,Clothing,53.92,Patna,XL,White,Summer,4.9,No,Express,No,No Promo,44,Debit Card,Weekly
+CUST00562,Neha Nair,51,Female,T-Shirts,Clothing,24.66,Pune,XXL,Yellow,Spring,3.2,No,Standard,Yes,WELCOME10,32,UPI,Monthly
+CUST00563,Aarav Kumar,50,Male,Face Wash,Cosmetics,6.59,Visakhapatnam,Free Size,Gold,Summer,3.3,No,Store Pickup,No,No Promo,22,Cash on Delivery,Annually
+CUST00564,Reyansh Verma,48,Male,Compact Powder,Makeup,6.47,Hyderabad,Free Size,Pink,Summer,3.4,Yes,Next-Day,Yes,SEASON25,39,Net Banking,Weekly
+CUST00565,Suresh Rao,51,Male,Heels,Footwear,56.69,Jaipur,10,Navy Blue,Summer,3.1,Yes,Next-Day,No,No Promo,44,Wallet,Fortnightly
+CUST00566,Sanjay Bose,61,Male,Lipstick,Makeup,21.79,Hyderabad,Free Size,Navy Blue,Winter,1.1,No,Standard,Yes,FLAT50,7,Wallet,Annually
+CUST00567,Sai Menon,42,Male,Body Lotion,Cosmetics,47.57,Hyderabad,Free Size,Beige,Spring,1.4,No,Express,Yes,WELCOME10,50,Credit Card,Fortnightly
+CUST00568,Pooja Naidu,49,Female,Belt,Accessories,21.57,Madurai,Free Size,Beige,Spring,4.6,Yes,Free Shipping,Yes,No Promo,47,Wallet,Annually
+CUST00569,Ramesh Chopra,51,Female,Sarees,Clothing,34.43,Visakhapatnam,XXL,Green,Summer,1.6,No,Next-Day,Yes,SEASON25,40,UPI,Rarely
+CUST00570,Sunita Joshi,65,Male,Sunglasses,Accessories,34.0,Madurai,Free Size,Multicolor,Autumn,2.1,No,Express,Yes,No Promo,5,UPI,Quarterly
+CUST00571,Sai Iyer,65,Male,Trousers,Clothing,69.75,Delhi,S,Blue,Spring,4.0,No,Free Shipping,No,No Promo,0,Net Banking,Rarely
+CUST00572,Krishna Chopra,48,Female,Belt,Accessories,81.13,Bhopal,Free Size,Orange,Spring,3.5,No,Standard,No,No Promo,44,Cash on Delivery,Rarely
+CUST00573,Deepak Bose,38,Male,T-Shirts,Clothing,60.55,Kolkata,XXL,Multicolor,Summer,1.7,No,Express,No,No Promo,3,Net Banking,Quarterly
+CUST00574,Ayaan Das,40,Male,Compact Powder,Makeup,38.27,Bengaluru,Free Size,Maroon,Winter,2.2,Yes,Store Pickup,Yes,FEST15,41,Cash on Delivery,Weekly
+CUST00575,Vikram Verma,45,Female,Slippers,Footwear,12.58,Indore,7,Maroon,Autumn,1.4,No,Express,No,No Promo,0,Credit Card,Quarterly
+CUST00576,Deepak Krishnan,47,Male,Kurtis,Clothing,45.8,Kochi,XS,Green,Autumn,1.9,No,Next-Day,Yes,SAVE20,34,UPI,Weekly
+CUST00577,Meera Rao,44,Female,Sarees,Clothing,41.53,Nagpur,XS,Brown,Summer,1.4,Yes,Express,Yes,SEASON25,21,Credit Card,Fortnightly
+CUST00578,Rohit Singh,58,Male,Sweaters,Clothing,46.58,Bhopal,L,Green,Autumn,4.0,No,Free Shipping,No,No Promo,47,Net Banking,Fortnightly
+CUST00579,Vivaan Reddy,23,Female,Kurtis,Clothing,40.81,Chennai,XXL,Purple,Spring,3.7,No,Store Pickup,No,No Promo,27,Net Banking,Monthly
+CUST00580,Divya Kumar,34,Female,Kurtis,Clothing,69.69,Kolkata,S,Beige,Spring,4.5,No,Express,No,No Promo,27,Debit Card,Quarterly
+CUST00581,Reyansh Krishnan,61,Female,Foundation,Makeup,12.55,Patna,Free Size,Purple,Spring,1.5,Yes,Express,No,No Promo,27,Credit Card,Annually
+CUST00582,Vihaan Pillai,28,Male,Formal Shoes,Footwear,63.45,Ahmedabad,6,Grey,Winter,2.9,No,Standard,Yes,FEST15,23,UPI,Monthly
+CUST00583,Neha Verma,61,Male,Foundation,Makeup,6.64,Mumbai,Free Size,Pink,Autumn,2.9,No,Standard,No,No Promo,16,Net Banking,Monthly
+CUST00584,Reyansh Sharma,37,Male,Sarees,Clothing,39.84,Madurai,XXL,Multicolor,Autumn,2.0,Yes,Store Pickup,Yes,WELCOME10,8,Wallet,Rarely
+CUST00585,Ravi Gupta,54,Male,Eyeliner,Makeup,33.19,Bengaluru,Free Size,Grey,Autumn,3.9,No,Express,No,No Promo,9,Credit Card,Fortnightly
+CUST00586,Priya Murthy,28,Male,Slippers,Footwear,99.7,Indore,10,White,Winter,1.3,No,Store Pickup,No,No Promo,10,Cash on Delivery,Monthly
+CUST00587,Sneha Verma,60,Female,Jeans,Clothing,74.58,Pune,XXL,Orange,Winter,3.7,No,Standard,Yes,No Promo,32,Net Banking,Annually
+CUST00588,Sunita Singh,65,Male,Mascara,Makeup,12.36,Kolkata,Free Size,Red,Winter,3.0,No,Next-Day,Yes,SAVE20,18,Wallet,Monthly
+CUST00589,Kiara Verma,51,Male,Compact Powder,Makeup,16.67,Hyderabad,Free Size,Green,Autumn,4.5,Yes,Express,No,No Promo,13,Cash on Delivery,Weekly
+CUST00590,Sunita Menon,16,Female,Perfume,Cosmetics,8.66,Bhopal,Free Size,Green,Winter,4.6,Yes,Standard,No,No Promo,0,UPI,Fortnightly
+CUST00591,Diya Singh,62,Female,Tops,Clothing,55.3,Patna,XS,Orange,Autumn,4.5,No,Store Pickup,Yes,NEWUSER,14,UPI,Monthly
+CUST00592,Ramesh Reddy,29,Female,Handbag,Accessories,40.9,Nagpur,Free Size,Green,Winter,1.4,Yes,Express,No,No Promo,11,Debit Card,Annually
+CUST00593,Diya Patel,47,Female,Tops,Clothing,38.26,Kolkata,L,Pink,Spring,1.6,No,Free Shipping,No,No Promo,25,Credit Card,Rarely
+CUST00594,Aarav Bose,49,Male,Jackets,Clothing,43.34,Chennai,XS,Red,Spring,1.5,No,Next-Day,Yes,SEASON25,38,Credit Card,Weekly
+CUST00595,Anjali Iyer,66,Male,Eyeliner,Makeup,10.57,Patna,Free Size,Yellow,Autumn,2.3,Yes,Standard,No,No Promo,17,Wallet,Annually
+CUST00596,Aditya Nair,23,Male,Sunscreen,Cosmetics,9.74,Nagpur,Free Size,Red,Summer,1.1,No,Express,Yes,FEST15,14,Wallet,Quarterly
+CUST00597,Ayaan Chopra,59,Female,Lipstick,Makeup,44.63,Ahmedabad,Free Size,Maroon,Autumn,1.3,No,Next-Day,No,No Promo,5,Credit Card,Annually
+CUST00598,Deepak Das,25,Male,Foundation,Makeup,32.18,Hyderabad,Free Size,Maroon,Autumn,4.5,Yes,Free Shipping,No,No Promo,16,Wallet,Weekly
+CUST00599,Ishaan Reddy,66,Male,Perfume,Cosmetics,12.28,Indore,Free Size,Black,Spring,3.3,No,Next-Day,Yes,FEST15,8,Debit Card,Quarterly
+CUST00600,Divya Chopra,38,Male,Formal Shoes,Footwear,70.97,Coimbatore,6,Purple,Winter,2.7,No,Store Pickup,No,No Promo,34,Debit Card,Quarterly
+CUST00601,Lakshmi Krishnan,21,Female,Lip Gloss,Makeup,33.12,Ahmedabad,Free Size,Red,Summer,5.0,Yes,Store Pickup,No,No Promo,8,Credit Card,Weekly
+CUST00602,Krishna Patel,38,Male,Sunglasses,Accessories,28.47,Bhopal,Free Size,Purple,Summer,4.3,Yes,Express,Yes,SEASON25,45,Debit Card,Quarterly
+CUST00603,Divya Menon,62,Male,Jeans,Clothing,67.61,Patna,XS,Silver,Summer,1.1,No,Standard,Yes,WELCOME10,36,Net Banking,Fortnightly
+CUST00604,Krishna Krishnan,64,Male,Face Wash,Cosmetics,30.33,Coimbatore,Free Size,Red,Autumn,1.4,Yes,Standard,No,No Promo,11,Cash on Delivery,Fortnightly
+CUST00605,Divya Mehta,16,Male,Face Cream,Cosmetics,55.47,Visakhapatnam,Free Size,Purple,Winter,4.7,Yes,Standard,No,No Promo,8,Wallet,Fortnightly
+CUST00606,Kiara Pillai,41,Female,Foundation,Makeup,37.9,Bhopal,Free Size,Gold,Winter,2.3,No,Free Shipping,Yes,No Promo,23,Wallet,Quarterly
+CUST00607,Reyansh Iyer,28,Male,Sandals,Footwear,71.11,Coimbatore,5,Purple,Autumn,1.7,Yes,Express,No,No Promo,48,UPI,Fortnightly
+CUST00608,Aditya Kumar,51,Male,Moisturizer,Cosmetics,8.76,Patna,Free Size,Silver,Spring,1.2,Yes,Next-Day,Yes,FEST15,48,UPI,Quarterly
+CUST00609,Ramesh Menon,48,Male,Sarees,Clothing,67.7,Bengaluru,M,Navy Blue,Spring,3.0,No,Standard,No,No Promo,24,Net Banking,Annually
+CUST00610,Ananya Reddy,70,Male,Sunglasses,Accessories,19.18,Delhi,Free Size,Pink,Summer,4.1,Yes,Store Pickup,No,No Promo,46,Cash on Delivery,Rarely
+CUST00611,Anjali Mehta,49,Female,Sarees,Clothing,40.43,Madurai,XL,Navy Blue,Spring,4.6,No,Free Shipping,Yes,FLAT50,38,Credit Card,Fortnightly
+CUST00612,Vikram Nair,52,Female,Dresses,Clothing,25.7,Lucknow,XL,Black,Winter,1.4,No,Next-Day,Yes,FEST15,36,UPI,Monthly
+CUST00613,Kavya Singh,21,Male,Watch,Accessories,146.94,Indore,Free Size,White,Winter,1.2,No,Free Shipping,No,No Promo,39,Wallet,Fortnightly
+CUST00614,Geeta Das,44,Male,Sandals,Footwear,20.18,Nagpur,9,Gold,Autumn,4.5,No,Standard,No,No Promo,41,Credit Card,Rarely
+CUST00615,Swati Sharma,66,Male,Kurtis,Clothing,78.98,Lucknow,L,Yellow,Winter,4.4,Yes,Free Shipping,No,No Promo,22,Net Banking,Quarterly
+CUST00616,Kavya Nair,57,Female,Skirts,Clothing,28.52,Bengaluru,L,Navy Blue,Summer,2.6,Yes,Next-Day,No,No Promo,31,Debit Card,Rarely
+CUST00617,Riya Mehta,63,Female,T-Shirts,Clothing,55.88,Kochi,S,Pink,Autumn,3.3,No,Free Shipping,Yes,No Promo,23,Net Banking,Quarterly
+CUST00618,Vivaan Joshi,29,Male,Moisturizer,Cosmetics,18.12,Kolkata,Free Size,Green,Spring,2.1,Yes,Free Shipping,No,No Promo,33,Debit Card,Rarely
+CUST00619,Vihaan Iyer,32,Male,Flip Flops,Footwear,45.52,Lucknow,6,Pink,Autumn,4.8,No,Store Pickup,No,No Promo,10,Wallet,Quarterly
+CUST00620,Arun Pillai,38,Female,Dresses,Clothing,57.07,Chandigarh,S,Black,Summer,2.3,No,Next-Day,Yes,NEWUSER,9,Net Banking,Monthly
+CUST00621,Lakshmi Singh,23,Female,Earrings,Accessories,110.56,Indore,Free Size,Gold,Spring,1.1,No,Express,No,No Promo,34,Debit Card,Annually
+CUST00622,Aadhya Gupta,40,Male,Dresses,Clothing,42.77,Madurai,XS,Maroon,Autumn,3.0,No,Free Shipping,No,No Promo,29,Net Banking,Quarterly
+CUST00623,Nisha Joshi,38,Male,Earrings,Accessories,146.32,Coimbatore,Free Size,Yellow,Winter,2.7,Yes,Store Pickup,Yes,NEWUSER,24,UPI,Rarely
+CUST00624,Sneha Bose,60,Female,Jackets,Clothing,89.65,Bengaluru,XS,Red,Winter,1.4,No,Store Pickup,No,No Promo,6,Wallet,Quarterly
+CUST00625,Aditya Patel,48,Female,Formal Shoes,Footwear,32.76,Indore,9,Orange,Spring,1.8,No,Standard,Yes,No Promo,29,Net Banking,Rarely
+CUST00626,Ramesh Sharma,61,Female,Sandals,Footwear,88.66,Visakhapatnam,7,Beige,Autumn,2.2,No,Free Shipping,No,No Promo,0,Net Banking,Weekly
+CUST00627,Karthik Krishnan,16,Male,Perfume,Cosmetics,22.77,Patna,Free Size,Purple,Winter,1.8,No,Standard,No,No Promo,36,Net Banking,Fortnightly
+CUST00628,Diya Pillai,56,Male,Perfume,Cosmetics,32.97,Nagpur,Free Size,White,Summer,3.0,No,Free Shipping,No,No Promo,40,UPI,Annually
+CUST00629,Aadhya Iyer,26,Female,Skirts,Clothing,16.92,Chennai,XXL,Green,Spring,3.5,No,Standard,No,No Promo,1,Wallet,Rarely
+CUST00630,Rahul Rao,24,Other,Compact Powder,Makeup,31.1,Ahmedabad,Free Size,Pink,Summer,3.9,No,Free Shipping,No,No Promo,42,Credit Card,Monthly
+CUST00631,Vivaan Naidu,21,Female,Jackets,Clothing,23.32,Chandigarh,XS,White,Summer,2.1,No,Standard,Yes,No Promo,23,Debit Card,Quarterly
+CUST00632,Vivaan Joshi,22,Female,Trousers,Clothing,51.49,Delhi,S,Navy Blue,Winter,4.6,No,Free Shipping,No,No Promo,11,UPI,Weekly
+CUST00633,Sunita Verma,27,Female,Sweaters,Clothing,88.19,Madurai,L,Red,Summer,3.1,Yes,Standard,Yes,WELCOME10,34,Credit Card,Annually
+CUST00634,Aadhya Menon,48,Female,Sweaters,Clothing,82.39,Chennai,M,Green,Summer,1.3,No,Express,Yes,NEWUSER,12,Credit Card,Monthly
+CUST00635,Sneha Mehta,61,Female,Belt,Accessories,69.92,Surat,Free Size,Beige,Summer,1.8,No,Next-Day,No,No Promo,6,Cash on Delivery,Annually
+CUST00636,Aadhya Chopra,35,Male,Flip Flops,Footwear,98.52,Nagpur,9,Beige,Autumn,3.5,No,Free Shipping,Yes,FEST15,23,Wallet,Weekly
+CUST00637,Aditya Krishnan,44,Male,Face Cream,Cosmetics,36.86,Lucknow,Free Size,Orange,Spring,1.5,No,Free Shipping,No,No Promo,22,Debit Card,Weekly
+CUST00638,Karthik Reddy,29,Female,Perfume,Cosmetics,10.85,Coimbatore,Free Size,Grey,Summer,2.9,No,Express,No,No Promo,24,UPI,Annually
+CUST00639,Reyansh Murthy,29,Female,Moisturizer,Cosmetics,44.11,Delhi,Free Size,Navy Blue,Autumn,4.3,Yes,Standard,No,No Promo,31,Credit Card,Monthly
+CUST00640,Meera Rao,42,Male,Perfume,Cosmetics,37.11,Ahmedabad,Free Size,Maroon,Spring,3.6,No,Standard,No,No Promo,18,Debit Card,Quarterly
+CUST00641,Deepak Verma,18,Female,Body Lotion,Cosmetics,40.11,Delhi,Free Size,White,Winter,3.9,Yes,Next-Day,No,No Promo,35,UPI,Quarterly
+CUST00642,Pooja Mehta,55,Male,Belt,Accessories,128.51,Bengaluru,Free Size,White,Spring,1.9,No,Express,Yes,FEST15,44,Wallet,Quarterly
+CUST00643,Saanvi Menon,30,Male,Dresses,Clothing,85.06,Mumbai,M,Blue,Spring,1.2,No,Next-Day,Yes,FLAT50,50,Net Banking,Monthly
+CUST00644,Krishna Naidu,60,Male,Sunglasses,Accessories,25.03,Coimbatore,Free Size,Navy Blue,Winter,3.7,No,Express,No,No Promo,42,Net Banking,Monthly
+CUST00645,Rohit Kumar,36,Female,Skirts,Clothing,34.79,Lucknow,XXL,Black,Autumn,3.2,No,Express,No,No Promo,4,Net Banking,Weekly
+CUST00646,Aadhya Mehta,29,Male,Sneakers,Footwear,30.42,Bengaluru,7,Pink,Autumn,4.0,No,Free Shipping,No,No Promo,32,Credit Card,Fortnightly
+CUST00647,Suresh Mehta,30,Female,Scarf,Accessories,36.83,Surat,Free Size,Black,Autumn,2.7,No,Store Pickup,No,No Promo,9,Net Banking,Weekly
+CUST00648,Vivaan Mehta,63,Male,Foundation,Makeup,15.67,Kochi,Free Size,Brown,Autumn,1.5,No,Next-Day,No,No Promo,9,Net Banking,Annually
+CUST00649,Vihaan Mehta,43,Female,Moisturizer,Cosmetics,24.71,Mumbai,Free Size,Navy Blue,Summer,2.2,No,Store Pickup,Yes,FLAT50,31,Cash on Delivery,Quarterly
+CUST00650,Myra Nair,22,Female,Lip Gloss,Makeup,9.61,Mumbai,Free Size,Purple,Spring,3.1,Yes,Store Pickup,No,No Promo,25,Net Banking,Quarterly
+CUST00651,Riya Chopra,22,Male,Mascara,Makeup,11.84,Pune,Free Size,Maroon,Autumn,3.9,Yes,Store Pickup,No,No Promo,39,Net Banking,Rarely
+CUST00652,Myra Rao,35,Female,Perfume,Cosmetics,42.16,Kolkata,Free Size,Grey,Winter,1.6,Yes,Free Shipping,No,No Promo,1,Debit Card,Monthly
+CUST00653,Aarav Bose,20,Male,Slippers,Footwear,107.02,Patna,5,Silver,Summer,2.9,Yes,Standard,No,No Promo,18,Debit Card,Annually
+CUST00654,Ishaan Nair,48,Male,Jackets,Clothing,37.85,Coimbatore,L,Silver,Autumn,5.0,Yes,Free Shipping,Yes,NEWUSER,0,UPI,Monthly
+CUST00655,Deepak Bose,61,Male,Watch,Accessories,24.01,Visakhapatnam,Free Size,Green,Winter,4.4,No,Express,Yes,WELCOME10,15,Cash on Delivery,Rarely
+CUST00656,Karthik Gupta,60,Other,Skirts,Clothing,29.54,Surat,XXL,White,Autumn,4.5,No,Free Shipping,No,No Promo,33,Debit Card,Monthly
+CUST00657,Anjali Pillai,59,Male,Formal Shoes,Footwear,104.64,Jaipur,7,Pink,Spring,3.3,No,Store Pickup,Yes,No Promo,29,Cash on Delivery,Monthly
+CUST00658,Aarav Chopra,34,Male,Kurtis,Clothing,49.97,Hyderabad,XL,Maroon,Summer,2.2,Yes,Next-Day,Yes,WELCOME10,13,UPI,Annually
+CUST00659,Pooja Sharma,23,Male,Flip Flops,Footwear,46.52,Chennai,5,Beige,Summer,2.4,Yes,Store Pickup,No,No Promo,49,Cash on Delivery,Fortnightly
+CUST00660,Ishaan Gupta,21,Female,Flip Flops,Footwear,69.35,Delhi,7,Purple,Spring,2.9,No,Free Shipping,No,No Promo,6,UPI,Monthly
+CUST00661,Arun Joshi,54,Male,Perfume,Cosmetics,49.05,Hyderabad,Free Size,Beige,Summer,2.7,Yes,Next-Day,Yes,FLAT50,40,Net Banking,Annually
+CUST00662,Divya Nair,27,Male,Sarees,Clothing,54.49,Coimbatore,XL,Brown,Winter,2.4,No,Free Shipping,No,No Promo,35,Credit Card,Quarterly
+CUST00663,Geeta Patel,21,Female,Compact Powder,Makeup,28.21,Madurai,Free Size,Maroon,Spring,4.0,No,Free Shipping,No,No Promo,29,Cash on Delivery,Quarterly
+CUST00664,Vihaan Singh,69,Male,Jackets,Clothing,40.01,Bengaluru,M,Silver,Autumn,4.5,Yes,Store Pickup,No,No Promo,47,Wallet,Weekly
+CUST00665,Ishaan Murthy,60,Male,Belt,Accessories,27.37,Hyderabad,Free Size,Maroon,Spring,4.2,No,Express,Yes,WELCOME10,9,Cash on Delivery,Weekly
+CUST00666,Aadhya Nair,49,Male,Watch,Accessories,11.5,Visakhapatnam,Free Size,Orange,Spring,4.7,Yes,Free Shipping,No,No Promo,15,Cash on Delivery,Monthly
+CUST00667,Meera Bose,68,Female,Sweaters,Clothing,47.43,Chennai,S,Green,Summer,1.7,No,Store Pickup,Yes,NEWUSER,18,UPI,Rarely
+CUST00668,Vikram Menon,22,Female,Moisturizer,Cosmetics,25.91,Bengaluru,Free Size,Navy Blue,Winter,1.6,Yes,Standard,No,No Promo,0,Cash on Delivery,Monthly
+CUST00669,Geeta Mehta,18,Female,T-Shirts,Clothing,83.11,Madurai,S,Gold,Winter,2.1,No,Next-Day,No,No Promo,32,Debit Card,Monthly
+CUST00670,Sanjay Iyer,61,Female,Foundation,Makeup,31.24,Madurai,Free Size,Gold,Summer,2.1,No,Next-Day,No,No Promo,4,Wallet,Quarterly
+CUST00671,Sunita Rao,40,Female,Scarf,Accessories,118.11,Visakhapatnam,Free Size,Green,Autumn,3.4,No,Store Pickup,No,No Promo,25,Credit Card,Weekly
+CUST00672,Ananya Kumar,17,Female,Jackets,Clothing,64.89,Kochi,XXL,Silver,Autumn,4.0,No,Express,Yes,SAVE20,46,Net Banking,Quarterly
+CUST00673,Priya Nair,20,Male,T-Shirts,Clothing,78.51,Delhi,L,Brown,Spring,4.7,No,Free Shipping,Yes,SEASON25,36,Cash on Delivery,Fortnightly
+CUST00674,Meera Patel,28,Male,Lip Gloss,Makeup,13.05,Kolkata,Free Size,Multicolor,Summer,1.3,Yes,Standard,Yes,No Promo,8,Credit Card,Monthly
+CUST00675,Nisha Iyer,65,Male,Body Lotion,Cosmetics,14.38,Visakhapatnam,Free Size,Pink,Summer,3.3,No,Next-Day,Yes,FLAT50,8,Credit Card,Quarterly
+CUST00676,Arjun Naidu,43,Female,Skirts,Clothing,24.54,Visakhapatnam,M,White,Spring,3.0,Yes,Store Pickup,Yes,SAVE20,18,UPI,Quarterly
+CUST00677,Ananya Patel,61,Male,Trousers,Clothing,55.08,Ahmedabad,XL,Multicolor,Autumn,2.6,Yes,Standard,No,No Promo,16,Wallet,Weekly
+CUST00678,Priya Gupta,18,Male,Body Lotion,Cosmetics,53.73,Mumbai,Free Size,Pink,Autumn,4.7,No,Standard,Yes,WELCOME10,36,Cash on Delivery,Rarely
+CUST00679,Aditya Menon,69,Female,Trousers,Clothing,86.24,Chandigarh,XXL,Black,Winter,4.8,Yes,Standard,Yes,NEWUSER,32,Debit Card,Rarely
+CUST00680,Pooja Kumar,38,Male,Tops,Clothing,84.84,Chennai,S,Orange,Spring,3.2,Yes,Free Shipping,No,No Promo,27,Wallet,Quarterly
+CUST00681,Meera Nair,51,Male,Sandals,Footwear,46.48,Coimbatore,8,Blue,Summer,1.9,No,Express,No,No Promo,48,Cash on Delivery,Annually
+CUST00682,Aarav Kumar,18,Other,Jeans,Clothing,20.75,Hyderabad,L,Yellow,Autumn,1.2,No,Express,No,No Promo,8,Cash on Delivery,Quarterly
+CUST00683,Arjun Iyer,46,Female,Face Cream,Cosmetics,56.55,Pune,Free Size,Brown,Summer,2.8,No,Next-Day,No,No Promo,18,Wallet,Fortnightly
+CUST00684,Neha Murthy,49,Female,Scarf,Accessories,22.82,Madurai,Free Size,Silver,Autumn,1.3,No,Store Pickup,Yes,SEASON25,35,Debit Card,Weekly
+CUST00685,Ishaan Verma,39,Female,Compact Powder,Makeup,32.93,Indore,Free Size,Red,Winter,4.3,Yes,Store Pickup,Yes,No Promo,5,Credit Card,Monthly
+CUST00686,Vikram Sharma,70,Female,Sneakers,Footwear,49.7,Mumbai,6,Pink,Winter,1.7,No,Standard,No,No Promo,2,Cash on Delivery,Monthly
+CUST00687,Anjali Singh,17,Female,Mascara,Makeup,35.29,Coimbatore,Free Size,Navy Blue,Spring,4.2,No,Next-Day,No,No Promo,34,Net Banking,Quarterly
+CUST00688,Deepak Singh,52,Female,Lipstick,Makeup,43.41,Indore,Free Size,Green,Spring,2.1,No,Next-Day,Yes,SAVE20,49,Cash on Delivery,Monthly
+CUST00689,Aditya Bose,37,Female,Moisturizer,Cosmetics,24.25,Jaipur,Free Size,White,Autumn,3.3,No,Next-Day,No,No Promo,28,Net Banking,Weekly
+CUST00690,Aditya Menon,44,Male,Watch,Accessories,98.56,Bhopal,Free Size,Navy Blue,Spring,3.3,Yes,Store Pickup,No,No Promo,4,Net Banking,Fortnightly
+CUST00691,Riya Singh,32,Female,Belt,Accessories,26.07,Kolkata,Free Size,Blue,Summer,1.5,Yes,Store Pickup,No,No Promo,37,UPI,Weekly
+CUST00692,Vihaan Singh,51,Female,Face Cream,Cosmetics,4.9,Madurai,Free Size,Purple,Autumn,1.4,No,Standard,No,No Promo,15,Debit Card,Monthly
+CUST00693,Lakshmi Iyer,52,Male,Flip Flops,Footwear,97.83,Hyderabad,5,Grey,Autumn,2.3,No,Next-Day,No,No Promo,18,Cash on Delivery,Weekly
+CUST00694,Sneha Reddy,26,Male,Tops,Clothing,22.97,Pune,M,Multicolor,Autumn,4.8,No,Store Pickup,Yes,SEASON25,9,Net Banking,Rarely
+CUST00695,Kiara Naidu,21,Female,Scarf,Accessories,149.69,Bhopal,Free Size,White,Spring,3.4,No,Store Pickup,No,No Promo,17,Debit Card,Annually
+CUST00696,Anjali Kumar,34,Female,Sandals,Footwear,34.63,Coimbatore,10,White,Summer,2.8,No,Free Shipping,Yes,FEST15,35,Cash on Delivery,Weekly
+CUST00697,Sunita Kumar,39,Female,Handbag,Accessories,119.66,Ahmedabad,Free Size,Purple,Winter,3.7,No,Store Pickup,Yes,FEST15,21,UPI,Weekly
+CUST00698,Sanjay Reddy,21,Male,Belt,Accessories,97.83,Pune,Free Size,Gold,Spring,1.7,No,Store Pickup,No,No Promo,30,Wallet,Weekly
+CUST00699,Divya Sharma,24,Female,Lipstick,Makeup,44.6,Hyderabad,Free Size,Navy Blue,Autumn,1.5,No,Express,No,No Promo,7,UPI,Monthly
+CUST00700,Reyansh Verma,53,Female,Trousers,Clothing,70.41,Madurai,L,Navy Blue,Winter,4.0,No,Free Shipping,No,No Promo,46,Debit Card,Rarely
+CUST00701,Sanjay Iyer,65,Female,Kurtis,Clothing,82.17,Patna,XL,Brown,Winter,2.5,No,Store Pickup,No,No Promo,17,Credit Card,Fortnightly
+CUST00702,Vihaan Naidu,35,Female,Earrings,Accessories,135.42,Patna,Free Size,Maroon,Autumn,2.5,No,Express,Yes,SEASON25,46,Debit Card,Quarterly
+CUST00703,Geeta Das,49,Male,Jackets,Clothing,41.05,Kolkata,XS,Maroon,Autumn,2.9,Yes,Express,Yes,FEST15,38,Credit Card,Fortnightly
+CUST00704,Reyansh Gupta,58,Male,Scarf,Accessories,115.19,Chennai,Free Size,Pink,Spring,3.0,No,Next-Day,Yes,FLAT50,27,Wallet,Quarterly
+CUST00705,Kavya Patel,49,Male,Sweaters,Clothing,68.72,Bengaluru,L,Navy Blue,Winter,2.1,No,Next-Day,No,No Promo,7,UPI,Weekly
+CUST00706,Arjun Das,63,Female,Lipstick,Makeup,25.28,Jaipur,Free Size,Multicolor,Spring,3.8,No,Standard,No,No Promo,45,Cash on Delivery,Monthly
+CUST00707,Aditya Sharma,28,Female,Compact Powder,Makeup,10.47,Surat,Free Size,Pink,Autumn,2.9,No,Express,No,No Promo,18,Debit Card,Fortnightly
+CUST00708,Deepak Gupta,56,Female,Dresses,Clothing,47.57,Kochi,XL,Pink,Summer,1.2,No,Store Pickup,Yes,FLAT50,15,Wallet,Monthly
+CUST00709,Diya Patel,46,Female,Lip Gloss,Makeup,40.0,Kochi,Free Size,Orange,Autumn,3.2,Yes,Express,Yes,No Promo,48,UPI,Quarterly
+CUST00710,Divya Nair,44,Male,Foundation,Makeup,23.59,Coimbatore,Free Size,Brown,Winter,3.8,No,Free Shipping,No,No Promo,31,Cash on Delivery,Quarterly
+CUST00711,Sneha Singh,59,Male,Scarf,Accessories,38.55,Nagpur,Free Size,Grey,Autumn,3.7,No,Free Shipping,No,No Promo,16,Credit Card,Monthly
+CUST00712,Anjali Verma,47,Female,Face Wash,Cosmetics,29.07,Ahmedabad,Free Size,Pink,Spring,4.8,No,Next-Day,Yes,FLAT50,1,Wallet,Weekly
+CUST00713,Anjali Menon,67,Male,Trousers,Clothing,64.12,Visakhapatnam,S,Brown,Summer,4.9,No,Free Shipping,No,No Promo,14,UPI,Fortnightly
+CUST00714,Aadhya Murthy,39,Male,Compact Powder,Makeup,42.6,Mumbai,Free Size,Multicolor,Spring,3.0,No,Standard,Yes,FEST15,1,Debit Card,Rarely
+CUST00715,Aditya Singh,65,Female,Sweaters,Clothing,75.97,Surat,XXL,Orange,Summer,4.3,No,Standard,Yes,FLAT50,46,Wallet,Rarely
+CUST00716,Nisha Bose,42,Male,Kurtis,Clothing,22.17,Patna,L,Pink,Autumn,4.1,No,Standard,Yes,NEWUSER,12,Credit Card,Monthly
+CUST00717,Suresh Patel,57,Female,Flip Flops,Footwear,21.12,Nagpur,9,Beige,Winter,2.1,No,Store Pickup,Yes,WELCOME10,31,Wallet,Quarterly
+CUST00718,Reyansh Mehta,39,Female,Lip Gloss,Makeup,28.12,Chennai,Free Size,Purple,Winter,2.5,No,Next-Day,Yes,No Promo,40,Credit Card,Weekly
+CUST00719,Vikram Naidu,51,Male,Compact Powder,Makeup,8.36,Surat,Free Size,Multicolor,Summer,1.2,No,Free Shipping,Yes,FEST15,9,Credit Card,Monthly
+CUST00720,Lakshmi Sharma,60,Female,Moisturizer,Cosmetics,42.66,Bhopal,Free Size,Silver,Autumn,4.8,Yes,Free Shipping,No,No Promo,32,Cash on Delivery,Rarely
+CUST00721,Reyansh Joshi,62,Male,Trousers,Clothing,43.18,Chennai,S,Multicolor,Spring,1.7,No,Standard,Yes,NEWUSER,31,Debit Card,Rarely
+CUST00722,Krishna Murthy,67,Female,Formal Shoes,Footwear,51.14,Lucknow,5,Navy Blue,Autumn,3.9,No,Next-Day,No,No Promo,39,UPI,Annually
+CUST00723,Sneha Krishnan,57,Male,Mascara,Makeup,37.11,Madurai,Free Size,Silver,Winter,1.8,No,Express,Yes,SEASON25,30,Credit Card,Monthly
+CUST00724,Rohit Iyer,42,Male,Dresses,Clothing,38.39,Pune,S,White,Winter,2.3,Yes,Free Shipping,No,No Promo,4,UPI,Rarely
+CUST00725,Rahul Sharma,51,Female,Eyeliner,Makeup,15.98,Nagpur,Free Size,Brown,Winter,4.7,No,Express,Yes,SAVE20,6,Wallet,Fortnightly
+CUST00726,Arun Nair,33,Male,Sarees,Clothing,74.77,Patna,XXL,Orange,Autumn,3.3,No,Store Pickup,Yes,No Promo,47,Cash on Delivery,Rarely
+CUST00727,Aarav Kumar,46,Male,Mascara,Makeup,8.65,Chandigarh,Free Size,Green,Summer,2.9,Yes,Standard,No,No Promo,3,Debit Card,Annually
+CUST00728,Rohit Das,67,Male,Face Wash,Cosmetics,32.02,Bengaluru,Free Size,Orange,Winter,4.1,No,Next-Day,Yes,FLAT50,20,Cash on Delivery,Weekly
+CUST00729,Ananya Singh,54,Female,Kurtis,Clothing,77.99,Bhopal,L,Silver,Autumn,3.7,No,Free Shipping,No,No Promo,11,Credit Card,Monthly
+CUST00730,Rahul Joshi,70,Female,Mascara,Makeup,29.68,Pune,Free Size,Brown,Summer,4.7,No,Express,No,No Promo,33,Debit Card,Weekly
+CUST00731,Reyansh Menon,53,Male,Face Cream,Cosmetics,32.16,Chennai,Free Size,Blue,Autumn,3.6,No,Next-Day,Yes,WELCOME10,36,Credit Card,Rarely
+CUST00732,Kavya Chopra,46,Other,Foundation,Makeup,23.94,Bhopal,Free Size,Blue,Autumn,1.1,No,Express,No,No Promo,11,Debit Card,Weekly
+CUST00733,Ayaan Verma,42,Female,Handbag,Accessories,98.52,Mumbai,Free Size,White,Autumn,4.9,Yes,Store Pickup,No,No Promo,21,Wallet,Monthly
+CUST00734,Ravi Menon,61,Male,Earrings,Accessories,10.01,Surat,Free Size,Blue,Spring,1.8,No,Express,No,No Promo,5,Debit Card,Quarterly
+CUST00735,Saanvi Krishnan,18,Male,Formal Shoes,Footwear,28.95,Chennai,7,Beige,Autumn,1.5,No,Standard,No,No Promo,29,Credit Card,Weekly
+CUST00736,Sai Rao,21,Male,Perfume,Cosmetics,37.1,Chennai,Free Size,Red,Summer,3.6,No,Express,Yes,SEASON25,41,Debit Card,Rarely
+CUST00737,Pooja Verma,64,Female,Sneakers,Footwear,81.18,Kolkata,7,Green,Autumn,2.7,No,Next-Day,No,No Promo,11,UPI,Monthly
+CUST00738,Sai Chopra,60,Male,Slippers,Footwear,68.71,Madurai,10,Multicolor,Winter,4.3,No,Express,Yes,No Promo,37,Net Banking,Fortnightly
+CUST00739,Divya Menon,50,Female,Sunscreen,Cosmetics,15.62,Visakhapatnam,Free Size,Black,Summer,2.0,No,Standard,No,No Promo,33,Wallet,Rarely
+CUST00740,Kavya Naidu,27,Female,Perfume,Cosmetics,24.85,Surat,Free Size,Grey,Spring,3.5,No,Standard,Yes,NEWUSER,21,UPI,Rarely
+CUST00741,Rahul Patel,22,Male,Lipstick,Makeup,23.67,Kolkata,Free Size,Gold,Winter,3.4,No,Free Shipping,No,No Promo,15,UPI,Rarely
+CUST00742,Rohit Pillai,39,Female,Face Wash,Cosmetics,6.25,Ahmedabad,Free Size,Navy Blue,Winter,4.1,No,Free Shipping,No,No Promo,10,Cash on Delivery,Fortnightly
+CUST00743,Deepak Gupta,35,Female,Sarees,Clothing,24.74,Coimbatore,XS,Black,Autumn,4.2,Yes,Next-Day,No,No Promo,10,Net Banking,Weekly
+CUST00744,Diya Patel,58,Male,Face Wash,Cosmetics,8.5,Ahmedabad,Free Size,Navy Blue,Spring,3.9,Yes,Store Pickup,No,No Promo,23,Credit Card,Quarterly
+CUST00745,Rohit Murthy,26,Male,Heels,Footwear,80.48,Kochi,10,Orange,Winter,3.8,No,Standard,Yes,FEST15,48,Debit Card,Quarterly
+CUST00746,Sneha Joshi,65,Male,Heels,Footwear,64.34,Madurai,8,Red,Summer,4.5,Yes,Express,Yes,FEST15,32,Credit Card,Annually
+CUST00747,Arjun Kumar,54,Female,Sarees,Clothing,52.5,Mumbai,S,Maroon,Winter,1.4,No,Express,No,No Promo,18,UPI,Quarterly
+CUST00748,Aditya Singh,59,Female,Formal Shoes,Footwear,29.59,Surat,10,Multicolor,Spring,2.9,Yes,Standard,No,No Promo,25,Credit Card,Fortnightly
+CUST00749,Sanjay Pillai,36,Male,Sunglasses,Accessories,9.65,Surat,Free Size,Blue,Autumn,2.7,No,Standard,No,No Promo,28,Cash on Delivery,Monthly
+CUST00750,Anjali Murthy,65,Female,Sandals,Footwear,22.94,Kolkata,8,Orange,Spring,1.6,No,Store Pickup,Yes,FLAT50,39,Wallet,Quarterly
+CUST00751,Sneha Verma,43,Male,Sweaters,Clothing,80.09,Indore,M,Blue,Autumn,2.0,No,Next-Day,No,No Promo,1,Cash on Delivery,Monthly
+CUST00752,Lakshmi Sharma,27,Male,Handbag,Accessories,54.1,Mumbai,Free Size,Brown,Spring,3.1,No,Express,Yes,WELCOME10,8,Wallet,Fortnightly
+CUST00753,Riya Menon,56,Female,Sunglasses,Accessories,105.84,Ahmedabad,Free Size,Blue,Spring,2.3,Yes,Store Pickup,No,No Promo,40,Credit Card,Quarterly
+CUST00754,Sai Das,48,Other,Face Wash,Cosmetics,27.66,Chennai,Free Size,Beige,Spring,4.3,No,Standard,No,No Promo,36,UPI,Monthly
+CUST00755,Myra Verma,55,Female,Sandals,Footwear,68.19,Pune,8,Beige,Summer,2.1,No,Store Pickup,Yes,SAVE20,43,UPI,Monthly
+CUST00756,Vivaan Joshi,16,Male,Sarees,Clothing,35.61,Indore,XL,Grey,Spring,1.9,Yes,Next-Day,Yes,FLAT50,18,Wallet,Rarely
+CUST00757,Ravi Joshi,54,Female,Body Lotion,Cosmetics,34.32,Kochi,Free Size,Grey,Autumn,2.3,No,Express,No,No Promo,47,Net Banking,Fortnightly
+CUST00758,Suresh Singh,50,Female,Heels,Footwear,15.16,Patna,5,Silver,Autumn,1.3,No,Store Pickup,Yes,FEST15,48,UPI,Quarterly
+CUST00759,Ishaan Bose,59,Female,Lipstick,Makeup,29.97,Patna,Free Size,Navy Blue,Spring,4.0,Yes,Free Shipping,No,No Promo,24,Cash on Delivery,Fortnightly
+CUST00760,Ayaan Nair,40,Female,Heels,Footwear,33.39,Bengaluru,9,Maroon,Summer,4.5,No,Free Shipping,No,No Promo,22,Debit Card,Quarterly
+CUST00761,Karthik Nair,54,Male,Perfume,Cosmetics,32.13,Bhopal,Free Size,Purple,Winter,3.0,No,Free Shipping,Yes,No Promo,11,Net Banking,Monthly
+CUST00762,Anjali Mehta,16,Female,Foundation,Makeup,32.33,Bengaluru,Free Size,Navy Blue,Winter,2.6,No,Store Pickup,Yes,FLAT50,39,Cash on Delivery,Weekly
+CUST00763,Lakshmi Sharma,54,Female,Perfume,Cosmetics,38.15,Kolkata,Free Size,Black,Autumn,1.1,No,Free Shipping,No,No Promo,12,Debit Card,Quarterly
+CUST00764,Myra Rao,39,Female,Watch,Accessories,141.07,Pune,Free Size,Green,Autumn,1.3,Yes,Store Pickup,No,No Promo,15,Wallet,Annually
+CUST00765,Diya Mehta,44,Other,Scarf,Accessories,99.08,Chandigarh,Free Size,Yellow,Summer,2.8,No,Standard,No,No Promo,43,Wallet,Quarterly
+CUST00766,Suresh Iyer,49,Other,Formal Shoes,Footwear,105.84,Bhopal,5,Red,Winter,2.9,No,Next-Day,No,No Promo,46,Credit Card,Monthly
+CUST00767,Sanjay Mehta,41,Female,Flip Flops,Footwear,89.17,Bengaluru,6,Beige,Spring,3.9,No,Next-Day,Yes,SAVE20,50,Net Banking,Fortnightly
+CUST00768,Arjun Mehta,32,Male,Belt,Accessories,114.86,Jaipur,Free Size,Maroon,Winter,2.3,No,Next-Day,No,No Promo,38,Credit Card,Fortnightly
+CUST00769,Vivaan Kumar,25,Female,Sandals,Footwear,67.23,Lucknow,7,Yellow,Autumn,2.9,No,Next-Day,Yes,No Promo,44,Debit Card,Fortnightly
+CUST00770,Suresh Singh,54,Male,Lip Gloss,Makeup,6.12,Pune,Free Size,Green,Spring,2.0,No,Store Pickup,No,No Promo,39,Debit Card,Monthly
+CUST00771,Sanjay Das,57,Male,Earrings,Accessories,61.16,Kochi,Free Size,Multicolor,Winter,1.7,No,Standard,No,No Promo,4,UPI,Fortnightly
+CUST00772,Ishaan Singh,35,Male,Sweaters,Clothing,63.75,Madurai,L,Gold,Spring,4.4,No,Store Pickup,No,No Promo,47,Debit Card,Monthly
+CUST00773,Reyansh Das,58,Male,Scarf,Accessories,17.54,Bhopal,Free Size,Blue,Winter,3.3,Yes,Next-Day,No,No Promo,11,Wallet,Rarely
+CUST00774,Kavya Rao,70,Male,T-Shirts,Clothing,88.45,Jaipur,XL,Beige,Spring,4.0,No,Standard,No,No Promo,8,Cash on Delivery,Monthly
+CUST00775,Myra Naidu,19,Male,Watch,Accessories,73.93,Bhopal,Free Size,Grey,Spring,1.8,Yes,Standard,No,No Promo,6,Cash on Delivery,Annually
+CUST00776,Pooja Naidu,29,Female,Dresses,Clothing,58.63,Bengaluru,XXL,Gold,Summer,3.4,No,Free Shipping,No,No Promo,16,Net Banking,Annually
+CUST00777,Diya Das,33,Female,Scarf,Accessories,76.63,Lucknow,Free Size,Beige,Summer,2.4,No,Store Pickup,Yes,NEWUSER,7,Debit Card,Quarterly
+CUST00778,Sanjay Chopra,16,Male,Belt,Accessories,31.16,Delhi,Free Size,Maroon,Spring,4.7,No,Store Pickup,No,No Promo,12,Credit Card,Fortnightly
+CUST00779,Pooja Das,29,Male,Earrings,Accessories,75.01,Lucknow,Free Size,Green,Autumn,1.6,No,Express,No,No Promo,39,Wallet,Fortnightly
+CUST00780,Rohit Bose,36,Female,Formal Shoes,Footwear,88.42,Jaipur,6,Beige,Winter,4.7,No,Next-Day,Yes,FEST15,46,UPI,Rarely
+CUST00781,Divya Naidu,36,Female,Heels,Footwear,86.74,Chennai,8,Blue,Winter,2.4,No,Free Shipping,No,No Promo,1,Wallet,Fortnightly
+CUST00782,Priya Patel,29,Female,Sandals,Footwear,14.32,Nagpur,8,Grey,Summer,4.2,No,Free Shipping,No,No Promo,6,Credit Card,Fortnightly
+CUST00783,Rohit Naidu,26,Male,Watch,Accessories,143.19,Mumbai,Free Size,Silver,Summer,2.1,No,Free Shipping,Yes,WELCOME10,40,UPI,Monthly
+CUST00784,Sneha Nair,50,Male,Watch,Accessories,27.07,Delhi,Free Size,Navy Blue,Summer,4.5,No,Store Pickup,Yes,WELCOME10,28,Debit Card,Monthly
+CUST00785,Priya Murthy,52,Female,Earrings,Accessories,124.06,Chennai,Free Size,Black,Autumn,4.8,No,Free Shipping,No,No Promo,13,Debit Card,Monthly
+CUST00786,Karthik Das,45,Male,Eyeliner,Makeup,32.11,Jaipur,Free Size,Red,Summer,1.5,No,Free Shipping,No,No Promo,3,Cash on Delivery,Weekly
+CUST00787,Arun Joshi,48,Male,T-Shirts,Clothing,86.98,Coimbatore,XL,Silver,Autumn,3.3,No,Standard,No,No Promo,35,Credit Card,Annually
+CUST00788,Sai Naidu,26,Female,Sunglasses,Accessories,94.62,Pune,Free Size,Navy Blue,Autumn,2.9,No,Express,No,No Promo,4,Debit Card,Rarely
+CUST00789,Deepak Joshi,52,Male,Tops,Clothing,45.11,Lucknow,XS,Orange,Spring,1.0,No,Express,Yes,SAVE20,37,Wallet,Monthly
+CUST00790,Saanvi Naidu,50,Female,Slippers,Footwear,99.54,Patna,6,Pink,Summer,1.8,Yes,Standard,No,No Promo,2,Debit Card,Annually
+CUST00791,Neha Das,38,Female,Lip Gloss,Makeup,31.33,Pune,Free Size,Yellow,Winter,5.0,Yes,Express,No,No Promo,1,Debit Card,Quarterly
+CUST00792,Suresh Sharma,23,Female,Handbag,Accessories,131.19,Pune,Free Size,Blue,Winter,2.8,Yes,Free Shipping,No,No Promo,7,Credit Card,Fortnightly
+CUST00793,Deepak Nair,48,Female,Lipstick,Makeup,35.26,Bengaluru,Free Size,Brown,Autumn,2.7,Yes,Standard,No,No Promo,23,Net Banking,Monthly
+CUST00794,Kavya Sharma,48,Male,Dresses,Clothing,43.5,Nagpur,L,White,Autumn,2.4,No,Standard,No,No Promo,41,UPI,Fortnightly
+CUST00795,Suresh Chopra,60,Male,Tops,Clothing,86.35,Jaipur,XXL,Grey,Spring,1.6,Yes,Store Pickup,Yes,FLAT50,9,Debit Card,Rarely
+CUST00796,Vihaan Bose,46,Female,Mascara,Makeup,39.65,Lucknow,Free Size,Navy Blue,Summer,2.7,Yes,Store Pickup,No,No Promo,47,Wallet,Fortnightly
+CUST00797,Ayaan Rao,39,Female,Tops,Clothing,52.32,Lucknow,L,Brown,Autumn,3.5,Yes,Standard,Yes,NEWUSER,2,Wallet,Fortnightly
+CUST00798,Suresh Bose,42,Male,Earrings,Accessories,32.1,Bengaluru,Free Size,Brown,Summer,1.4,No,Standard,No,No Promo,29,Net Banking,Annually
+CUST00799,Sunita Sharma,44,Male,Face Wash,Cosmetics,30.67,Jaipur,Free Size,Grey,Autumn,4.8,No,Standard,No,No Promo,47,Cash on Delivery,Fortnightly
+CUST00800,Krishna Reddy,24,Male,Lip Gloss,Makeup,31.37,Bengaluru,Free Size,Maroon,Spring,2.0,Yes,Next-Day,Yes,NEWUSER,42,Cash on Delivery,Annually
+CUST00801,Riya Reddy,49,Female,Perfume,Cosmetics,27.63,Hyderabad,Free Size,Orange,Spring,4.2,No,Standard,Yes,WELCOME10,50,Debit Card,Fortnightly
+CUST00802,Arun Chopra,41,Male,Watch,Accessories,129.79,Pune,Free Size,Gold,Summer,2.8,Yes,Free Shipping,Yes,FEST15,41,Cash on Delivery,Monthly
+CUST00803,Diya Singh,37,Other,Body Lotion,Cosmetics,49.19,Kochi,Free Size,White,Autumn,4.1,Yes,Next-Day,No,No Promo,1,Cash on Delivery,Fortnightly
+CUST00804,Kavya Nair,22,Male,Sweaters,Clothing,56.28,Lucknow,S,Brown,Autumn,2.8,No,Standard,No,No Promo,32,Debit Card,Quarterly
+CUST00805,Sanjay Gupta,68,Female,Kurtis,Clothing,78.0,Ahmedabad,XS,Pink,Autumn,3.1,No,Store Pickup,No,No Promo,33,Credit Card,Annually
+CUST00806,Deepak Rao,39,Female,Sandals,Footwear,27.56,Kolkata,10,Purple,Summer,3.2,No,Free Shipping,No,No Promo,17,Credit Card,Quarterly
+CUST00807,Deepak Joshi,34,Male,Watch,Accessories,74.46,Hyderabad,Free Size,Red,Spring,2.0,No,Next-Day,Yes,SEASON25,39,Cash on Delivery,Weekly
+CUST00808,Krishna Reddy,19,Female,Watch,Accessories,124.79,Ahmedabad,Free Size,Yellow,Winter,2.6,Yes,Next-Day,Yes,FEST15,8,Net Banking,Weekly
+CUST00809,Ishaan Gupta,62,Female,Handbag,Accessories,28.22,Jaipur,Free Size,Red,Spring,3.1,No,Store Pickup,No,No Promo,42,Net Banking,Monthly
+CUST00810,Geeta Mehta,68,Male,Kurtis,Clothing,20.28,Coimbatore,M,Blue,Winter,4.4,Yes,Free Shipping,No,No Promo,10,Wallet,Rarely
+CUST00811,Sneha Kumar,66,Female,Earrings,Accessories,22.63,Chandigarh,Free Size,Purple,Winter,4.3,No,Free Shipping,Yes,WELCOME10,49,UPI,Rarely
+CUST00812,Priya Krishnan,62,Male,Body Lotion,Cosmetics,27.5,Jaipur,Free Size,Black,Spring,1.4,No,Express,No,No Promo,14,Cash on Delivery,Quarterly
+CUST00813,Vikram Murthy,58,Male,Sneakers,Footwear,71.45,Surat,5,White,Spring,3.3,Yes,Express,Yes,SEASON25,45,Cash on Delivery,Quarterly
+CUST00814,Aditya Menon,68,Male,Handbag,Accessories,129.02,Patna,Free Size,Orange,Winter,3.7,Yes,Store Pickup,Yes,SEASON25,21,Credit Card,Monthly
+CUST00815,Kavya Singh,42,Female,Slippers,Footwear,92.2,Madurai,7,Purple,Autumn,2.8,Yes,Free Shipping,No,No Promo,40,UPI,Fortnightly
+CUST00816,Swati Das,29,Female,Heels,Footwear,85.83,Kolkata,8,Black,Autumn,2.4,No,Express,Yes,FEST15,6,Wallet,Weekly
+CUST00817,Geeta Chopra,56,Male,Foundation,Makeup,35.26,Pune,Free Size,Silver,Autumn,2.3,No,Next-Day,No,No Promo,10,UPI,Weekly
+CUST00818,Pooja Krishnan,23,Male,Sunscreen,Cosmetics,46.38,Bhopal,Free Size,Orange,Spring,1.8,Yes,Store Pickup,No,No Promo,42,Net Banking,Monthly
+CUST00819,Nisha Menon,25,Female,Heels,Footwear,25.04,Surat,5,Maroon,Spring,2.3,Yes,Standard,Yes,SAVE20,42,UPI,Weekly
+CUST00820,Kiara Kumar,47,Male,Lip Gloss,Makeup,22.61,Pune,Free Size,Red,Autumn,2.0,Yes,Store Pickup,No,No Promo,28,Net Banking,Annually
+CUST00821,Saanvi Joshi,51,Other,Foundation,Makeup,38.92,Patna,Free Size,Orange,Autumn,3.8,No,Next-Day,No,No Promo,23,Debit Card,Monthly
+CUST00822,Krishna Das,50,Male,Compact Powder,Makeup,36.82,Patna,Free Size,White,Winter,3.1,Yes,Store Pickup,Yes,FEST15,45,Wallet,Rarely
+CUST00823,Kiara Mehta,51,Female,Moisturizer,Cosmetics,36.16,Mumbai,Free Size,Gold,Winter,3.4,Yes,Express,Yes,NEWUSER,35,Wallet,Weekly
+CUST00824,Ishaan Iyer,38,Female,Slippers,Footwear,18.41,Jaipur,9,Beige,Spring,3.9,No,Express,No,No Promo,13,Wallet,Quarterly
+CUST00825,Pooja Das,35,Female,Lip Gloss,Makeup,27.79,Visakhapatnam,Free Size,Green,Autumn,4.5,No,Standard,No,No Promo,22,Cash on Delivery,Weekly
+CUST00826,Geeta Iyer,65,Other,Earrings,Accessories,66.75,Kolkata,Free Size,Purple,Summer,4.3,Yes,Free Shipping,No,No Promo,21,Credit Card,Weekly
+CUST00827,Suresh Joshi,41,Female,Sneakers,Footwear,80.25,Hyderabad,7,Yellow,Spring,2.2,Yes,Free Shipping,No,No Promo,31,Credit Card,Fortnightly
+CUST00828,Kiara Menon,32,Male,Skirts,Clothing,40.48,Bengaluru,XL,Beige,Spring,4.5,Yes,Store Pickup,Yes,FEST15,6,Debit Card,Weekly
+CUST00829,Neha Pillai,49,Male,Face Wash,Cosmetics,5.55,Patna,Free Size,Black,Summer,1.8,No,Express,No,No Promo,22,Credit Card,Rarely
+CUST00830,Arun Rao,25,Female,Handbag,Accessories,108.3,Kolkata,Free Size,Gold,Spring,3.5,No,Standard,No,No Promo,19,UPI,Weekly
+CUST00831,Ravi Krishnan,38,Female,Lipstick,Makeup,41.01,Kochi,Free Size,Green,Autumn,4.8,No,Store Pickup,No,No Promo,50,Net Banking,Weekly
+CUST00832,Anjali Kumar,58,Female,Sandals,Footwear,25.86,Kochi,6,Orange,Spring,2.4,No,Free Shipping,No,No Promo,42,Wallet,Annually
+CUST00833,Sai Das,22,Female,Earrings,Accessories,87.95,Bhopal,Free Size,Pink,Autumn,2.3,No,Express,Yes,SEASON25,27,Net Banking,Quarterly
+CUST00834,Vivaan Chopra,40,Male,Jackets,Clothing,39.11,Kochi,XL,Orange,Autumn,3.0,No,Next-Day,No,No Promo,44,Credit Card,Annually
+CUST00835,Sai Patel,69,Male,Foundation,Makeup,30.64,Mumbai,Free Size,Blue,Autumn,2.5,No,Store Pickup,Yes,No Promo,43,Net Banking,Rarely
+CUST00836,Diya Krishnan,48,Female,Sandals,Footwear,78.75,Mumbai,6,White,Winter,4.8,No,Next-Day,Yes,SAVE20,31,Debit Card,Annually
+CUST00837,Aditya Pillai,56,Female,Mascara,Makeup,41.01,Bengaluru,Free Size,Red,Summer,3.6,No,Next-Day,No,No Promo,24,Debit Card,Monthly
+CUST00838,Ishaan Reddy,69,Male,Compact Powder,Makeup,29.87,Jaipur,Free Size,Maroon,Summer,4.8,No,Next-Day,No,No Promo,0,Net Banking,Quarterly
+CUST00839,Saanvi Chopra,40,Male,Face Cream,Cosmetics,37.61,Surat,Free Size,Gold,Summer,3.7,Yes,Standard,Yes,No Promo,31,Credit Card,Fortnightly
+CUST00840,Priya Pillai,50,Male,Sunscreen,Cosmetics,34.03,Lucknow,Free Size,White,Spring,2.6,No,Express,No,No Promo,35,Net Banking,Fortnightly
+CUST00841,Aditya Chopra,24,Female,Watch,Accessories,23.53,Ahmedabad,Free Size,Orange,Summer,1.3,No,Standard,Yes,FLAT50,23,Net Banking,Rarely
+CUST00842,Aditya Krishnan,25,Female,Eyeliner,Makeup,35.74,Coimbatore,Free Size,Red,Summer,2.4,No,Express,Yes,SAVE20,41,Credit Card,Quarterly
+CUST00843,Sneha Krishnan,40,Male,Trousers,Clothing,31.89,Pune,M,Gold,Spring,4.5,Yes,Express,No,No Promo,18,Cash on Delivery,Fortnightly
+CUST00844,Neha Verma,25,Female,Sweaters,Clothing,66.36,Nagpur,XL,Red,Summer,3.9,No,Standard,Yes,WELCOME10,43,Debit Card,Weekly
+CUST00845,Vihaan Pillai,40,Male,Sweaters,Clothing,79.28,Mumbai,XL,Black,Spring,3.6,No,Store Pickup,No,No Promo,18,Wallet,Annually
+CUST00846,Myra Chopra,40,Female,Face Cream,Cosmetics,23.33,Indore,Free Size,Green,Winter,3.1,No,Express,Yes,SEASON25,11,Net Banking,Monthly
+CUST00847,Vivaan Joshi,26,Male,Face Wash,Cosmetics,12.06,Indore,Free Size,Purple,Winter,1.5,No,Express,No,No Promo,26,Net Banking,Quarterly
+CUST00848,Suresh Mehta,62,Female,Sandals,Footwear,45.1,Surat,6,Multicolor,Summer,2.0,No,Store Pickup,Yes,No Promo,46,Wallet,Annually
+CUST00849,Swati Joshi,39,Female,Sandals,Footwear,75.11,Pune,8,Green,Winter,1.4,No,Next-Day,No,No Promo,49,Cash on Delivery,Quarterly
+CUST00850,Anjali Murthy,19,Male,Lipstick,Makeup,31.39,Visakhapatnam,Free Size,Yellow,Winter,1.1,Yes,Store Pickup,No,No Promo,17,Wallet,Rarely
+CUST00851,Ramesh Naidu,52,Female,Eyeliner,Makeup,11.03,Coimbatore,Free Size,Purple,Summer,4.1,No,Store Pickup,No,No Promo,39,Cash on Delivery,Rarely
+CUST00852,Reyansh Iyer,56,Female,Skirts,Clothing,16.61,Mumbai,M,Black,Autumn,4.7,No,Express,No,No Promo,19,Credit Card,Monthly
+CUST00853,Ravi Mehta,55,Female,Watch,Accessories,56.08,Kolkata,Free Size,Maroon,Spring,4.2,Yes,Express,Yes,WELCOME10,34,Cash on Delivery,Quarterly
+CUST00854,Rohit Singh,26,Female,Compact Powder,Makeup,44.04,Hyderabad,Free Size,White,Spring,1.5,No,Free Shipping,No,No Promo,49,Credit Card,Annually
+CUST00855,Karthik Mehta,60,Other,Foundation,Makeup,22.89,Chennai,Free Size,Brown,Autumn,5.0,No,Standard,Yes,FLAT50,19,Wallet,Quarterly
+CUST00856,Saanvi Das,25,Male,Sunscreen,Cosmetics,43.84,Delhi,Free Size,Silver,Spring,3.5,No,Express,Yes,FEST15,12,Cash on Delivery,Monthly
+CUST00857,Vivaan Chopra,49,Female,Perfume,Cosmetics,54.73,Mumbai,Free Size,Maroon,Autumn,2.8,No,Standard,Yes,No Promo,42,Net Banking,Rarely
+CUST00858,Aditya Reddy,21,Male,Dresses,Clothing,70.1,Chennai,M,Orange,Summer,4.6,No,Standard,No,No Promo,17,Wallet,Quarterly
+CUST00859,Sanjay Joshi,37,Male,Formal Shoes,Footwear,81.31,Hyderabad,7,Beige,Summer,3.0,Yes,Free Shipping,No,No Promo,5,Wallet,Monthly
+CUST00860,Vivaan Reddy,48,Female,Jackets,Clothing,33.22,Kolkata,M,Black,Summer,3.3,Yes,Standard,No,No Promo,0,Wallet,Weekly
+CUST00861,Geeta Iyer,63,Female,Kurtis,Clothing,58.71,Indore,XXL,Grey,Spring,3.5,Yes,Express,Yes,SEASON25,5,Debit Card,Weekly
+CUST00862,Aarav Joshi,61,Female,Lip Gloss,Makeup,13.41,Delhi,Free Size,Grey,Summer,2.9,Yes,Free Shipping,No,No Promo,11,Net Banking,Monthly
+CUST00863,Vihaan Mehta,62,Female,Foundation,Makeup,25.3,Delhi,Free Size,Pink,Autumn,1.6,No,Express,No,No Promo,44,Credit Card,Fortnightly
+CUST00864,Kiara Rao,27,Female,Heels,Footwear,74.26,Patna,7,Navy Blue,Autumn,1.9,Yes,Next-Day,No,No Promo,33,Credit Card,Rarely
+CUST00865,Ananya Iyer,59,Male,Jeans,Clothing,19.71,Madurai,XXL,Blue,Winter,1.3,No,Free Shipping,Yes,SEASON25,43,Credit Card,Monthly
+CUST00866,Karthik Bose,53,Female,Trousers,Clothing,57.69,Coimbatore,L,Brown,Winter,2.5,No,Free Shipping,Yes,SEASON25,12,Debit Card,Annually
+CUST00867,Rahul Joshi,26,Male,Sunglasses,Accessories,132.96,Coimbatore,Free Size,Gold,Winter,2.8,Yes,Free Shipping,No,No Promo,1,Debit Card,Monthly
+CUST00868,Ishaan Pillai,40,Other,Sandals,Footwear,13.37,Kolkata,6,Yellow,Summer,1.4,No,Express,Yes,SAVE20,1,Net Banking,Quarterly
+CUST00869,Swati Singh,26,Male,Lip Gloss,Makeup,12.6,Chandigarh,Free Size,Navy Blue,Winter,4.8,Yes,Standard,Yes,WELCOME10,4,UPI,Rarely
+CUST00870,Ishaan Kumar,46,Female,Earrings,Accessories,141.95,Pune,Free Size,Silver,Spring,4.8,No,Next-Day,No,No Promo,43,Cash on Delivery,Quarterly
+CUST00871,Krishna Krishnan,55,Male,Sunscreen,Cosmetics,23.1,Madurai,Free Size,Brown,Winter,1.3,No,Free Shipping,Yes,FEST15,44,Debit Card,Monthly
+CUST00872,Rohit Singh,56,Female,Body Lotion,Cosmetics,36.32,Coimbatore,Free Size,Green,Autumn,4.1,No,Express,No,No Promo,39,Debit Card,Fortnightly
+CUST00873,Vivaan Das,47,Female,Scarf,Accessories,133.06,Surat,Free Size,Grey,Spring,3.1,No,Next-Day,Yes,NEWUSER,49,Debit Card,Monthly
+CUST00874,Vihaan Chopra,61,Male,Compact Powder,Makeup,13.93,Chennai,Free Size,Brown,Winter,3.2,No,Next-Day,No,No Promo,20,Cash on Delivery,Annually
+CUST00875,Saanvi Bose,28,Female,Sweaters,Clothing,37.17,Mumbai,XXL,Pink,Autumn,2.0,No,Standard,Yes,SAVE20,9,UPI,Weekly
+CUST00876,Lakshmi Iyer,17,Female,Sandals,Footwear,57.56,Hyderabad,8,Orange,Summer,3.4,No,Standard,No,No Promo,29,UPI,Fortnightly
+CUST00877,Sneha Rao,61,Female,Sarees,Clothing,39.21,Chennai,XS,Blue,Autumn,3.2,No,Next-Day,No,No Promo,24,Cash on Delivery,Weekly
+CUST00878,Neha Pillai,56,Male,Foundation,Makeup,18.06,Mumbai,Free Size,Grey,Spring,4.5,Yes,Express,No,No Promo,4,Debit Card,Fortnightly
+CUST00879,Myra Iyer,22,Female,Sandals,Footwear,107.29,Coimbatore,5,Navy Blue,Autumn,4.0,No,Store Pickup,Yes,NEWUSER,41,Net Banking,Rarely
+CUST00880,Sai Gupta,25,Female,Handbag,Accessories,30.59,Jaipur,Free Size,Purple,Spring,3.6,No,Standard,No,No Promo,44,Debit Card,Quarterly
+CUST00881,Kiara Reddy,18,Male,Sarees,Clothing,52.54,Coimbatore,L,Orange,Spring,3.0,Yes,Standard,No,No Promo,44,Net Banking,Annually
+CUST00882,Ravi Verma,20,Male,Mascara,Makeup,14.18,Kochi,Free Size,Brown,Spring,3.3,No,Express,Yes,SAVE20,34,Credit Card,Rarely
+CUST00883,Riya Murthy,63,Female,Sandals,Footwear,62.07,Kolkata,6,Beige,Autumn,1.8,No,Free Shipping,Yes,FEST15,28,Credit Card,Quarterly
+CUST00884,Sanjay Pillai,54,Female,Mascara,Makeup,12.39,Mumbai,Free Size,White,Summer,1.8,No,Next-Day,No,No Promo,43,Debit Card,Annually
+CUST00885,Kavya Verma,68,Male,Lip Gloss,Makeup,27.67,Jaipur,Free Size,Multicolor,Spring,2.2,Yes,Express,No,No Promo,13,Net Banking,Rarely
+CUST00886,Kavya Pillai,40,Female,Lipstick,Makeup,41.83,Kochi,Free Size,Purple,Spring,3.5,No,Standard,No,No Promo,0,UPI,Weekly
+CUST00887,Arun Rao,35,Female,Jackets,Clothing,19.02,Pune,XXL,Pink,Winter,4.0,No,Next-Day,No,No Promo,1,UPI,Weekly
+CUST00888,Priya Mehta,23,Male,Mascara,Makeup,9.81,Chennai,Free Size,Yellow,Spring,1.5,No,Free Shipping,No,No Promo,37,Wallet,Annually
+CUST00889,Arun Chopra,33,Male,Trousers,Clothing,69.86,Hyderabad,S,Black,Winter,3.7,Yes,Free Shipping,No,No Promo,29,Net Banking,Fortnightly
+CUST00890,Aditya Iyer,16,Female,Moisturizer,Cosmetics,43.75,Kochi,Free Size,Beige,Spring,3.7,No,Express,Yes,NEWUSER,0,Wallet,Weekly
+CUST00891,Divya Murthy,52,Female,Belt,Accessories,120.46,Mumbai,Free Size,Brown,Spring,3.4,No,Free Shipping,No,No Promo,23,Wallet,Monthly
+CUST00892,Ishaan Das,62,Female,Slippers,Footwear,51.89,Patna,8,Brown,Winter,4.9,No,Express,No,No Promo,48,Net Banking,Rarely
+CUST00893,Divya Iyer,50,Male,Face Cream,Cosmetics,53.55,Coimbatore,Free Size,Gold,Winter,4.0,No,Express,No,No Promo,21,Cash on Delivery,Rarely
+CUST00894,Nisha Rao,25,Female,Sarees,Clothing,88.29,Pune,XXL,Orange,Spring,4.3,No,Store Pickup,No,No Promo,33,Credit Card,Annually
+CUST00895,Swati Rao,16,Male,Lip Gloss,Makeup,32.36,Coimbatore,Free Size,White,Autumn,3.9,No,Store Pickup,No,No Promo,33,Wallet,Quarterly
+CUST00896,Lakshmi Nair,30,Female,Lip Gloss,Makeup,30.62,Indore,Free Size,Pink,Spring,4.6,No,Standard,No,No Promo,4,Wallet,Monthly
+CUST00897,Pooja Gupta,31,Female,Jackets,Clothing,86.37,Pune,XS,Red,Spring,2.2,Yes,Standard,Yes,NEWUSER,7,Net Banking,Monthly
+CUST00898,Sunita Patel,58,Male,Body Lotion,Cosmetics,25.71,Pune,Free Size,Navy Blue,Winter,3.5,No,Free Shipping,No,No Promo,31,UPI,Monthly
+CUST00899,Rohit Pillai,17,Male,Jackets,Clothing,46.7,Patna,XL,Brown,Winter,5.0,No,Free Shipping,No,No Promo,5,Net Banking,Monthly
+CUST00900,Myra Nair,50,Male,Sunglasses,Accessories,61.94,Coimbatore,Free Size,Silver,Spring,2.3,No,Free Shipping,Yes,NEWUSER,6,Credit Card,Rarely
+CUST00901,Vivaan Krishnan,24,Female,Handbag,Accessories,17.81,Kolkata,Free Size,Beige,Winter,4.2,No,Standard,Yes,WELCOME10,44,Cash on Delivery,Quarterly
+CUST00902,Sneha Rao,27,Female,T-Shirts,Clothing,36.77,Coimbatore,L,White,Summer,4.9,Yes,Free Shipping,No,No Promo,0,Net Banking,Rarely
+CUST00903,Diya Pillai,67,Female,T-Shirts,Clothing,37.67,Ahmedabad,M,Silver,Summer,3.9,No,Standard,Yes,SAVE20,8,Wallet,Annually
+CUST00904,Vikram Menon,52,Male,Flip Flops,Footwear,14.01,Visakhapatnam,10,Brown,Spring,2.7,Yes,Free Shipping,No,No Promo,27,Credit Card,Weekly
+CUST00905,Rahul Chopra,21,Male,Heels,Footwear,61.7,Ahmedabad,6,White,Spring,1.6,No,Express,No,No Promo,34,UPI,Annually
+CUST00906,Diya Naidu,32,Female,Formal Shoes,Footwear,23.35,Mumbai,6,Pink,Summer,2.2,No,Free Shipping,Yes,WELCOME10,32,Credit Card,Weekly
+CUST00907,Ravi Krishnan,49,Female,Dresses,Clothing,37.75,Hyderabad,M,Purple,Winter,4.2,Yes,Free Shipping,No,No Promo,13,Credit Card,Fortnightly
+CUST00908,Nisha Iyer,40,Female,Kurtis,Clothing,65.03,Visakhapatnam,S,Black,Winter,3.1,No,Store Pickup,Yes,SEASON25,48,Net Banking,Rarely
+CUST00909,Priya Joshi,39,Female,Jeans,Clothing,71.43,Mumbai,M,Orange,Spring,1.8,No,Next-Day,Yes,FLAT50,14,Wallet,Fortnightly
+CUST00910,Sanjay Joshi,46,Female,Lipstick,Makeup,14.65,Visakhapatnam,Free Size,Silver,Spring,2.7,Yes,Standard,No,No Promo,45,Debit Card,Rarely
+CUST00911,Ramesh Singh,18,Male,Sunglasses,Accessories,100.32,Coimbatore,Free Size,Grey,Autumn,4.4,No,Free Shipping,Yes,No Promo,44,Cash on Delivery,Rarely
+CUST00912,Sunita Bose,51,Female,Sarees,Clothing,50.2,Delhi,XXL,Silver,Autumn,3.1,No,Standard,Yes,FEST15,17,UPI,Annually
+CUST00913,Neha Kumar,48,Male,Eyeliner,Makeup,18.94,Lucknow,Free Size,Grey,Winter,2.1,No,Express,No,No Promo,50,Debit Card,Rarely
+CUST00914,Karthik Murthy,34,Male,Perfume,Cosmetics,15.45,Indore,Free Size,White,Autumn,3.6,Yes,Next-Day,Yes,SEASON25,31,UPI,Fortnightly
+CUST00915,Riya Naidu,41,Female,Sunglasses,Accessories,84.31,Hyderabad,Free Size,Black,Autumn,1.5,No,Store Pickup,No,No Promo,0,Credit Card,Fortnightly
+CUST00916,Vikram Mehta,67,Female,Moisturizer,Cosmetics,32.62,Nagpur,Free Size,Beige,Spring,4.9,No,Free Shipping,No,No Promo,30,Net Banking,Quarterly
+CUST00917,Diya Nair,36,Male,Sandals,Footwear,86.49,Mumbai,5,Black,Autumn,1.4,No,Express,No,No Promo,47,Wallet,Quarterly
+CUST00918,Arun Verma,29,Male,Dresses,Clothing,23.36,Chandigarh,XXL,Beige,Autumn,2.7,Yes,Store Pickup,No,No Promo,48,UPI,Annually
+CUST00919,Ishaan Sharma,38,Female,Perfume,Cosmetics,46.69,Kolkata,Free Size,Pink,Spring,4.8,Yes,Store Pickup,No,No Promo,17,Net Banking,Weekly
+CUST00920,Lakshmi Kumar,22,Male,Compact Powder,Makeup,23.38,Kolkata,Free Size,Purple,Autumn,1.4,Yes,Next-Day,No,No Promo,38,Net Banking,Quarterly
+CUST00921,Sai Joshi,29,Male,Handbag,Accessories,70.84,Surat,Free Size,Red,Autumn,1.8,No,Free Shipping,No,No Promo,33,UPI,Monthly
+CUST00922,Geeta Pillai,17,Female,Handbag,Accessories,94.13,Madurai,Free Size,Black,Winter,1.7,No,Express,Yes,NEWUSER,17,Debit Card,Rarely
+CUST00923,Suresh Bose,34,Female,Watch,Accessories,144.41,Patna,Free Size,Black,Winter,3.9,Yes,Store Pickup,Yes,NEWUSER,1,Net Banking,Quarterly
+CUST00924,Divya Iyer,62,Female,Flip Flops,Footwear,36.98,Ahmedabad,7,Brown,Autumn,2.9,Yes,Store Pickup,No,No Promo,38,Cash on Delivery,Fortnightly
+CUST00925,Suresh Menon,70,Male,Jeans,Clothing,72.05,Delhi,XXL,Yellow,Spring,3.5,No,Next-Day,Yes,FEST15,28,Debit Card,Monthly
+CUST00926,Riya Rao,25,Female,Lip Gloss,Makeup,21.38,Kolkata,Free Size,Purple,Spring,3.5,No,Express,Yes,NEWUSER,27,Debit Card,Fortnightly
+CUST00927,Saanvi Bose,17,Female,Trousers,Clothing,20.05,Bengaluru,M,Yellow,Spring,4.1,No,Next-Day,No,No Promo,9,Cash on Delivery,Fortnightly
+CUST00928,Neha Rao,31,Female,Moisturizer,Cosmetics,32.74,Chennai,Free Size,Orange,Summer,1.7,No,Express,Yes,FLAT50,23,Cash on Delivery,Monthly
+CUST00929,Diya Nair,45,Male,Compact Powder,Makeup,11.48,Chandigarh,Free Size,Black,Winter,1.5,Yes,Store Pickup,No,No Promo,43,Net Banking,Annually
+CUST00930,Deepak Mehta,50,Female,Earrings,Accessories,58.26,Chandigarh,Free Size,Beige,Winter,1.7,No,Express,No,No Promo,13,Credit Card,Annually
+CUST00931,Ayaan Bose,39,Female,Formal Shoes,Footwear,49.49,Lucknow,7,Red,Autumn,2.9,No,Express,No,No Promo,40,Debit Card,Quarterly
+CUST00932,Krishna Patel,53,Female,Heels,Footwear,35.96,Chennai,6,Gold,Autumn,2.9,No,Free Shipping,Yes,SAVE20,29,Debit Card,Quarterly
+CUST00933,Ishaan Nair,19,Male,Sunscreen,Cosmetics,24.95,Madurai,Free Size,Orange,Winter,1.3,Yes,Store Pickup,No,No Promo,2,Net Banking,Weekly
+CUST00934,Pooja Krishnan,38,Male,Lipstick,Makeup,5.44,Bengaluru,Free Size,Beige,Spring,1.1,Yes,Store Pickup,Yes,NEWUSER,25,UPI,Annually
+CUST00935,Neha Patel,45,Male,Sandals,Footwear,16.99,Visakhapatnam,9,White,Winter,4.0,No,Store Pickup,Yes,No Promo,35,Wallet,Rarely
+CUST00936,Ishaan Pillai,52,Female,Body Lotion,Cosmetics,40.99,Indore,Free Size,Green,Summer,4.0,Yes,Store Pickup,Yes,NEWUSER,14,Credit Card,Weekly
+CUST00937,Krishna Gupta,35,Male,Formal Shoes,Footwear,67.79,Nagpur,6,Navy Blue,Autumn,5.0,Yes,Standard,Yes,WELCOME10,16,Wallet,Quarterly
+CUST00938,Kavya Rao,66,Male,Belt,Accessories,24.22,Indore,Free Size,Brown,Winter,4.8,Yes,Store Pickup,No,No Promo,47,UPI,Rarely
+CUST00939,Ishaan Naidu,58,Male,Earrings,Accessories,104.93,Chandigarh,Free Size,Purple,Spring,2.7,Yes,Store Pickup,Yes,SEASON25,25,Credit Card,Annually
+CUST00940,Priya Nair,35,Female,Kurtis,Clothing,56.63,Ahmedabad,S,Gold,Summer,4.7,No,Store Pickup,Yes,SEASON25,25,Net Banking,Annually
+CUST00941,Myra Rao,37,Male,Watch,Accessories,142.69,Delhi,Free Size,Blue,Winter,2.6,No,Free Shipping,No,No Promo,1,UPI,Monthly
+CUST00942,Vikram Chopra,23,Male,Heels,Footwear,69.67,Surat,8,Purple,Autumn,2.0,No,Next-Day,Yes,FEST15,37,Net Banking,Weekly
+CUST00943,Aarav Reddy,22,Male,Flip Flops,Footwear,60.28,Delhi,10,Green,Spring,1.0,Yes,Express,Yes,No Promo,23,Wallet,Rarely
+CUST00944,Arun Iyer,68,Female,T-Shirts,Clothing,27.39,Lucknow,M,White,Spring,5.0,Yes,Standard,No,No Promo,12,Debit Card,Quarterly
+CUST00945,Reyansh Singh,68,Other,Sunscreen,Cosmetics,38.46,Visakhapatnam,Free Size,Maroon,Summer,1.3,No,Next-Day,Yes,No Promo,44,Cash on Delivery,Weekly
+CUST00946,Sneha Verma,47,Female,Heels,Footwear,95.51,Kolkata,10,Silver,Winter,2.4,No,Next-Day,No,No Promo,25,Net Banking,Fortnightly
+CUST00947,Pooja Das,66,Other,Mascara,Makeup,14.63,Hyderabad,Free Size,Blue,Spring,1.2,No,Express,Yes,NEWUSER,8,Debit Card,Rarely
+CUST00948,Anjali Das,20,Male,Compact Powder,Makeup,33.75,Nagpur,Free Size,White,Autumn,4.7,Yes,Free Shipping,No,No Promo,23,Debit Card,Quarterly
+CUST00949,Vihaan Verma,28,Male,Face Cream,Cosmetics,25.82,Kochi,Free Size,Orange,Autumn,2.8,No,Free Shipping,No,No Promo,48,Cash on Delivery,Rarely
+CUST00950,Ananya Singh,27,Male,Formal Shoes,Footwear,21.14,Coimbatore,6,Blue,Summer,2.0,No,Next-Day,No,No Promo,46,Debit Card,Quarterly
+CUST00951,Karthik Das,18,Female,Sandals,Footwear,45.04,Bengaluru,8,Multicolor,Summer,1.8,No,Store Pickup,Yes,NEWUSER,33,Cash on Delivery,Annually
+CUST00952,Aditya Mehta,55,Male,Sunscreen,Cosmetics,34.17,Indore,Free Size,Maroon,Autumn,1.1,No,Standard,No,No Promo,26,Net Banking,Annually
+CUST00953,Neha Naidu,52,Male,Lip Gloss,Makeup,22.97,Lucknow,Free Size,Purple,Autumn,2.6,Yes,Express,Yes,No Promo,28,Debit Card,Quarterly
+CUST00954,Arjun Singh,16,Male,Formal Shoes,Footwear,13.6,Lucknow,9,Blue,Winter,5.0,Yes,Store Pickup,Yes,WELCOME10,15,Net Banking,Annually
+CUST00955,Nisha Gupta,62,Male,Dresses,Clothing,66.38,Delhi,M,Purple,Winter,1.1,Yes,Next-Day,Yes,FEST15,42,UPI,Quarterly
+CUST00956,Aadhya Rao,26,Female,Sandals,Footwear,21.57,Lucknow,7,Black,Spring,4.9,No,Standard,No,No Promo,4,UPI,Fortnightly
+CUST00957,Anjali Nair,23,Female,Scarf,Accessories,116.77,Bhopal,Free Size,Multicolor,Spring,2.9,No,Standard,Yes,WELCOME10,22,Debit Card,Quarterly
+CUST00958,Priya Sharma,67,Male,Skirts,Clothing,89.41,Kolkata,S,Grey,Summer,3.1,No,Express,No,No Promo,48,Wallet,Monthly
+CUST00959,Suresh Joshi,17,Male,Jackets,Clothing,75.55,Surat,S,Yellow,Summer,3.5,No,Store Pickup,No,No Promo,4,Wallet,Fortnightly
+CUST00960,Vikram Murthy,69,Female,Sunglasses,Accessories,62.99,Madurai,Free Size,Blue,Spring,2.8,Yes,Next-Day,Yes,SEASON25,23,Wallet,Monthly
+CUST00961,Aarav Das,42,Female,Sunglasses,Accessories,20.1,Bengaluru,Free Size,Green,Winter,3.0,No,Next-Day,Yes,No Promo,2,Wallet,Monthly
+CUST00962,Divya Patel,31,Male,T-Shirts,Clothing,79.4,Mumbai,M,Green,Autumn,4.3,No,Next-Day,Yes,NEWUSER,4,Cash on Delivery,Monthly
+CUST00963,Pooja Joshi,20,Female,Tops,Clothing,16.96,Lucknow,M,Yellow,Spring,4.5,No,Store Pickup,No,No Promo,6,UPI,Weekly
+CUST00964,Anjali Das,22,Other,Sweaters,Clothing,28.7,Pune,XL,Black,Summer,1.2,No,Store Pickup,No,No Promo,5,Wallet,Annually
+CUST00965,Nisha Patel,52,Female,Face Wash,Cosmetics,9.62,Surat,Free Size,Maroon,Winter,1.4,No,Standard,Yes,WELCOME10,37,Credit Card,Weekly
+CUST00966,Karthik Pillai,46,Male,Jackets,Clothing,34.82,Patna,XL,Purple,Spring,2.3,Yes,Store Pickup,No,No Promo,6,Wallet,Weekly
+CUST00967,Krishna Rao,46,Male,Scarf,Accessories,41.88,Nagpur,Free Size,Multicolor,Autumn,3.3,No,Express,No,No Promo,15,Credit Card,Quarterly
+CUST00968,Suresh Gupta,29,Female,Earrings,Accessories,49.56,Hyderabad,Free Size,Navy Blue,Autumn,2.1,No,Standard,No,No Promo,16,Wallet,Annually
+CUST00969,Ayaan Pillai,47,Male,Eyeliner,Makeup,34.87,Hyderabad,Free Size,White,Summer,1.5,Yes,Express,No,No Promo,46,Credit Card,Rarely
+CUST00970,Aadhya Singh,41,Male,Sweaters,Clothing,58.09,Pune,XXL,White,Spring,2.7,No,Free Shipping,Yes,SEASON25,41,Credit Card,Monthly
+CUST00971,Suresh Krishnan,36,Other,Moisturizer,Cosmetics,28.83,Pune,Free Size,Pink,Winter,2.4,No,Express,No,No Promo,17,Net Banking,Weekly
+CUST00972,Kavya Rao,32,Male,Jeans,Clothing,73.6,Mumbai,XXL,Gold,Autumn,1.8,Yes,Next-Day,Yes,FEST15,11,Net Banking,Weekly
+CUST00973,Deepak Iyer,46,Female,Sunglasses,Accessories,57.39,Ahmedabad,Free Size,Pink,Autumn,4.4,No,Next-Day,Yes,SAVE20,28,Debit Card,Weekly
+CUST00974,Vikram Pillai,65,Male,Lip Gloss,Makeup,44.46,Bhopal,Free Size,White,Autumn,3.9,No,Standard,Yes,SEASON25,33,UPI,Rarely
+CUST00975,Arun Nair,41,Male,Compact Powder,Makeup,40.95,Jaipur,Free Size,Multicolor,Summer,3.5,No,Standard,Yes,WELCOME10,20,Wallet,Annually
+CUST00976,Aarav Chopra,42,Female,Eyeliner,Makeup,12.49,Lucknow,Free Size,Beige,Autumn,3.3,No,Store Pickup,No,No Promo,22,Credit Card,Quarterly
+CUST00977,Myra Das,46,Female,T-Shirts,Clothing,79.33,Madurai,L,Purple,Autumn,3.0,No,Store Pickup,Yes,WELCOME10,6,Cash on Delivery,Fortnightly
+CUST00978,Aditya Gupta,30,Male,Sunglasses,Accessories,66.56,Delhi,Free Size,Gold,Summer,1.9,Yes,Next-Day,Yes,FEST15,0,Cash on Delivery,Quarterly
+CUST00979,Ravi Mehta,23,Other,Mascara,Makeup,8.74,Ahmedabad,Free Size,Black,Autumn,4.2,No,Express,Yes,SEASON25,17,Cash on Delivery,Fortnightly
+CUST00980,Aarav Chopra,58,Female,Mascara,Makeup,36.83,Coimbatore,Free Size,Black,Summer,4.7,Yes,Free Shipping,No,No Promo,22,Net Banking,Annually
+CUST00981,Reyansh Naidu,60,Male,Tops,Clothing,65.05,Pune,S,Yellow,Summer,3.9,No,Express,No,No Promo,12,Debit Card,Monthly
+CUST00982,Meera Kumar,45,Male,Sarees,Clothing,17.36,Pune,M,Maroon,Winter,1.6,Yes,Express,No,No Promo,0,Debit Card,Monthly
+CUST00983,Lakshmi Nair,18,Female,Skirts,Clothing,72.33,Pune,XS,Green,Winter,1.4,Yes,Express,Yes,FLAT50,45,Cash on Delivery,Rarely
+CUST00984,Ravi Naidu,49,Female,Body Lotion,Cosmetics,53.64,Kolkata,Free Size,Gold,Winter,1.7,No,Free Shipping,Yes,FEST15,38,Debit Card,Rarely
+CUST00985,Vivaan Gupta,67,Female,Heels,Footwear,40.96,Bhopal,8,Black,Spring,4.2,Yes,Standard,Yes,SEASON25,34,Credit Card,Annually
+CUST00986,Ravi Reddy,46,Male,Jeans,Clothing,53.85,Bhopal,S,Green,Summer,4.6,No,Store Pickup,No,No Promo,4,Debit Card,Annually
+CUST00987,Deepak Murthy,51,Male,Skirts,Clothing,34.47,Coimbatore,XL,Green,Summer,1.2,No,Express,Yes,No Promo,14,Wallet,Rarely
+CUST00988,Geeta Mehta,21,Female,Trousers,Clothing,46.66,Bhopal,XS,Grey,Winter,1.7,Yes,Next-Day,Yes,No Promo,0,Credit Card,Rarely
+CUST00989,Vivaan Iyer,60,Male,Perfume,Cosmetics,13.24,Patna,Free Size,Black,Summer,2.9,No,Free Shipping,No,No Promo,34,Wallet,Monthly
+CUST00990,Sunita Sharma,19,Female,Kurtis,Clothing,89.13,Coimbatore,L,White,Autumn,4.0,Yes,Standard,No,No Promo,9,Cash on Delivery,Rarely
+CUST00991,Sneha Chopra,52,Female,Earrings,Accessories,137.26,Delhi,Free Size,Yellow,Autumn,3.0,No,Next-Day,Yes,WELCOME10,32,Net Banking,Quarterly
+CUST00992,Vihaan Sharma,17,Male,Face Cream,Cosmetics,53.6,Surat,Free Size,Grey,Spring,2.4,No,Store Pickup,Yes,NEWUSER,36,Credit Card,Fortnightly
+CUST00993,Riya Krishnan,42,Male,Lip Gloss,Makeup,44.63,Madurai,Free Size,Brown,Autumn,4.3,No,Free Shipping,No,No Promo,35,Wallet,Weekly
+CUST00994,Lakshmi Gupta,56,Female,Compact Powder,Makeup,21.41,Chandigarh,Free Size,Brown,Spring,4.1,No,Store Pickup,Yes,WELCOME10,3,UPI,Weekly
+CUST00995,Priya Krishnan,23,Female,Sweaters,Clothing,81.77,Visakhapatnam,XXL,Red,Autumn,3.5,Yes,Express,No,No Promo,30,Net Banking,Fortnightly
+CUST00996,Saanvi Krishnan,49,Male,Trousers,Clothing,44.98,Ahmedabad,S,Black,Summer,3.8,No,Next-Day,No,No Promo,33,Cash on Delivery,Rarely
+CUST00997,Pooja Joshi,58,Female,Face Wash,Cosmetics,12.88,Ahmedabad,Free Size,Green,Autumn,3.9,No,Free Shipping,Yes,FEST15,49,UPI,Weekly
+CUST00998,Suresh Patel,45,Female,Sneakers,Footwear,27.35,Madurai,7,Blue,Summer,2.6,Yes,Next-Day,Yes,SEASON25,11,UPI,Fortnightly
+CUST00999,Sai Chopra,62,Male,Sneakers,Footwear,42.16,Jaipur,7,Multicolor,Spring,4.1,No,Next-Day,Yes,SEASON25,32,Cash on Delivery,Fortnightly
+CUST01000,Anjali Reddy,69,Other,Sunglasses,Accessories,94.63,Mumbai,Free Size,Blue,Autumn,3.7,Yes,Next-Day,Yes,SAVE20,13,UPI,Fortnightly
