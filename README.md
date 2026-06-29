@@ -30,6 +30,13 @@ This project analyzes a retail customer dataset (1,000 customers) to uncover pur
 - Customer purchase frequency varied widely, with "Rarely" being the most common purchase frequency category among customers.
 - Discount usage and review ratings varied meaningfully across product categories, highlighting opportunities for targeted promotional strategies.
 
+  **Repositary Contents**
+ ├── README.md                          # Project overview (this file)
+├── customer_shopping_analysis.ipynb   # Python data cleaning notebook
+├── sql_queries.sql                    # All SQL queries used for analysis
+├── dashboard.png                      # Power BI dashboard screenshot
+└── Customer_Shopping_Details.csv      # Raw dataset
+
 ## Process
 
 ### 1. Data Cleaning (Python/Pandas)
