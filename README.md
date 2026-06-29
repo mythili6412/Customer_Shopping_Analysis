@@ -23,6 +23,13 @@ This project analyzes a retail customer dataset (1,000 customers) to uncover pur
 - Which products are most frequently purchased with discounts?
 - How can customers be segmented into New, Returning, and Loyal tiers based on purchase history?
 
+## 💡 Key Insights
+
+- Female customers contributed the highest total revenue compared to other gender groups.
+- Surprisingly, non-repeat buyers showed a higher subscription rate (39.06%) compared to repeat buyers with 5+ previous purchases (30.39%) — suggesting subscription status may be driven more by upfront commitment than by purchase history.
+- Customer purchase frequency varied widely, with "Rarely" being the most common purchase frequency category among customers.
+- Discount usage and review ratings varied meaningfully across product categories, highlighting opportunities for targeted promotional strategies.
+
 ## Process
 
 ### 1. Data Cleaning (Python/Pandas)
