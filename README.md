@@ -32,10 +32,10 @@ This project analyzes a retail customer dataset (1,000 customers) to uncover pur
 
   **Repositary Contents**
   
- ├── README.md                          # Project overview (this file)
-├── Customer shopping analysis.ipynb    # Python data cleaning notebook
-├── sql_queries.sql                     # All SQL queries used for analysis
-├── Customer_shopping_analysis.pbit     # Power BI dashboard screenshot
+├── README.md                          # Project overview (this file)
+├── Customer shopping analysis.ipynb   # Python data cleaning notebook
+├── customer shopping analysis.sql     # All SQL queries used for analysis
+├── Customer_shopping_analysis.pbit    # Power BI dashboard screenshot
 └── Customer_Shopping_Details.csv      # Raw dataset
 
 ## Process
